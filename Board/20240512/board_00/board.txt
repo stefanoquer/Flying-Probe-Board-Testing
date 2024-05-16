@@ -1,0 +1,5119 @@
+.width 50
+.height 50
+.point vdd_T_1_176 T 0.25 44
+.point pin_T_2_75 T 0.5 18.75
+.point pin_T_2_77 T 0.5 19.25
+.point pin_T_2_80 T 0.5 20
+.point pin_T_2_82 T 0.5 20.5
+.point pin_T_2_173 T 0.5 43.25
+.point pin_T_2_179 T 0.5 44.75
+.point pin_T_3_76 T 0.75 19
+.point pin_T_3_81 T 0.75 20.25
+.point gnd_T_3_176 T 0.75 44
+.point vdd_T_4_33 T 1 8.25
+.point pin_T_4_35 T 1 8.75
+.point pin_T_4_37 T 1 9.25
+.point pin_T_4_39 T 1 9.75
+.point pin_T_4_41 T 1 10.25
+.point pin_T_4_43 T 1 10.75
+.point vdd_T_4_45 T 1 11.25
+.point vdd_T_4_57 T 1 14.25
+.point pin_T_4_59 T 1 14.75
+.point pin_T_4_61 T 1 15.25
+.point pin_T_4_63 T 1 15.75
+.point gnd_T_4_65 T 1 16.25
+.point pin_T_4_75 T 1 18.75
+.point pin_T_4_77 T 1 19.25
+.point pin_T_4_80 T 1 20
+.point pin_T_4_82 T 1 20.5
+.point pin_T_4_157 T 1 39.25
+.point pin_T_5_150 T 1.25 37.5
+.point pin_T_5_152 T 1.25 38
+.point pin_T_5_156 T 1.25 39
+.point pin_T_5_158 T 1.25 39.5
+.point vdd_T_6_15 T 1.5 3.75
+.point vdd_T_6_17 T 1.5 4.25
+.point vdd_T_6_19 T 1.5 4.75
+.point vdd_T_6_21 T 1.5 5.25
+.point vdd_T_6_23 T 1.5 5.75
+.point pin_T_6_33 T 1.5 8.25
+.point pin_T_6_39 T 1.5 9.75
+.point pin_T_6_45 T 1.5 11.25
+.point pin_T_6_57 T 1.5 14.25
+.point pin_T_6_65 T 1.5 16.25
+.point pin_T_6_86 T 1.5 21.5
+.point pin_T_6_91 T 1.5 22.75
+.point pin_T_6_151 T 1.5 37.75
+.point pin_T_6_155 T 1.5 38.75
+.point pin_T_6_157 T 1.5 39.25
+.point pin_T_6_159 T 1.5 39.75
+.point pin_T_7_86 T 1.75 21.5
+.point pin_T_7_91 T 1.75 22.75
+.point pin_T_7_150 T 1.75 37.5
+.point pin_T_7_152 T 1.75 38
+.point pin_T_7_156 T 1.75 39
+.point pin_T_7_158 T 1.75 39.5
+.point pin_T_8_33 T 2 8.25
+.point clock_T_8_39 T 2 9.75
+.point pin_T_8_45 T 2 11.25
+.point pin_T_8_57 T 2 14.25
+.point pin_T_8_65 T 2 16.25
+.point pin_T_8_86 T 2 21.5
+.point pin_T_8_91 T 2 22.75
+.point pin_T_8_157 T 2 39.25
+.point pin_T_10_15 T 2.5 3.75
+.point pin_T_10_17 T 2.5 4.25
+.point pin_T_10_19 T 2.5 4.75
+.point pin_T_10_21 T 2.5 5.25
+.point pin_T_10_23 T 2.5 5.75
+.point pin_T_10_33 T 2.5 8.25
+.point pin_T_10_39 T 2.5 9.75
+.point pin_T_10_45 T 2.5 11.25
+.point pin_T_10_57 T 2.5 14.25
+.point pin_T_10_59 T 2.5 14.75
+.point clock_T_10_61 T 2.5 15.25
+.point pin_T_10_63 T 2.5 15.75
+.point pin_T_10_65 T 2.5 16.25
+.point pin_T_10_111 T 2.5 27.75
+.point pin_T_10_112 T 2.5 28
+.point pin_T_10_113 T 2.5 28.25
+.point pin_T_10_114 T 2.5 28.5
+.point pin_T_10_115 T 2.5 28.75
+.point pin_T_10_116 T 2.5 29
+.point pin_T_10_117 T 2.5 29.25
+.point pin_T_10_118 T 2.5 29.5
+.point pin_T_10_119 T 2.5 29.75
+.point pin_T_10_120 T 2.5 30
+.point pin_T_10_121 T 2.5 30.25
+.point pin_T_10_122 T 2.5 30.5
+.point pin_T_10_123 T 2.5 30.75
+.point pin_T_10_124 T 2.5 31
+.point pin_T_10_125 T 2.5 31.25
+.point pin_T_10_126 T 2.5 31.5
+.point pin_T_10_127 T 2.5 31.75
+.point pin_T_11_111 T 2.75 27.75
+.point pin_T_11_127 T 2.75 31.75
+.point gnd_T_12_33 T 3 8.25
+.point pin_T_12_35 T 3 8.75
+.point pin_T_12_37 T 3 9.25
+.point pin_T_12_39 T 3 9.75
+.point pin_T_12_41 T 3 10.25
+.point pin_T_12_43 T 3 10.75
+.point gnd_T_12_45 T 3 11.25
+.point pin_T_12_57 T 3 14.25
+.point pin_T_12_65 T 3 16.25
+.point pin_T_12_111 T 3 27.75
+.point pin_T_12_127 T 3 31.75
+.point vdd_T_12_145 T 3 36.25
+.point pin_T_12_147 T 3 36.75
+.point pin_T_12_149 T 3 37.25
+.point pin_T_12_151 T 3 37.75
+.point gnd_T_12_153 T 3 38.25
+.point pin_T_13_111 T 3.25 27.75
+.point pin_T_13_127 T 3.25 31.75
+.point pin_T_14_15 T 3.5 3.75
+.point pin_T_14_17 T 3.5 4.25
+.point pin_T_14_19 T 3.5 4.75
+.point pin_T_14_21 T 3.5 5.25
+.point pin_T_14_23 T 3.5 5.75
+.point pin_T_14_57 T 3.5 14.25
+.point pin_T_14_65 T 3.5 16.25
+.point pin_T_14_111 T 3.5 27.75
+.point pin_T_14_127 T 3.5 31.75
+.point pin_T_14_145 T 3.5 36.25
+.point pin_T_14_153 T 3.5 38.25
+.point pin_T_15_111 T 3.75 27.75
+.point pin_T_15_127 T 3.75 31.75
+.point vdd_T_16_57 T 4 14.25
+.point pin_T_16_59 T 4 14.75
+.point pin_T_16_61 T 4 15.25
+.point pin_T_16_63 T 4 15.75
+.point gnd_T_16_65 T 4 16.25
+.point pin_T_16_111 T 4 27.75
+.point pin_T_16_127 T 4 31.75
+.point pin_T_16_145 T 4 36.25
+.point pin_T_16_153 T 4 38.25
+.point pin_T_17_111 T 4.25 27.75
+.point pin_T_17_127 T 4.25 31.75
+.point pin_T_18_15 T 4.5 3.75
+.point pin_T_18_17 T 4.5 4.25
+.point pin_T_18_19 T 4.5 4.75
+.point pin_T_18_21 T 4.5 5.25
+.point pin_T_18_23 T 4.5 5.75
+.point pin_T_18_111 T 4.5 27.75
+.point pin_T_18_127 T 4.5 31.75
+.point pin_T_18_145 T 4.5 36.25
+.point pin_T_18_147 T 4.5 36.75
+.point clock_T_18_149 T 4.5 37.25
+.point pin_T_18_151 T 4.5 37.75
+.point pin_T_18_153 T 4.5 38.25
+.point pin_T_19_111 T 4.75 27.75
+.point pin_T_19_127 T 4.75 31.75
+.point pin_T_20_111 T 5 27.75
+.point pin_T_20_127 T 5 31.75
+.point pin_T_20_145 T 5 36.25
+.point pin_T_20_153 T 5 38.25
+.point pin_T_21_32 T 5.25 8
+.point pin_T_21_34 T 5.25 8.5
+.point pin_T_21_43 T 5.25 10.75
+.point vdd_T_21_47 T 5.25 11.75
+.point gnd_T_21_51 T 5.25 12.75
+.point pin_T_21_53 T 5.25 13.25
+.point pin_T_21_56 T 5.25 14
+.point pin_T_21_58 T 5.25 14.5
+.point pin_T_21_60 T 5.25 15
+.point gnd_T_21_66 T 5.25 16.5
+.point pin_T_21_69 T 5.25 17.25
+.point vdd_T_21_72 T 5.25 18
+.point pin_T_21_111 T 5.25 27.75
+.point pin_T_21_127 T 5.25 31.75
+.point pin_T_22_15 T 5.5 3.75
+.point pin_T_22_17 T 5.5 4.25
+.point pin_T_22_19 T 5.5 4.75
+.point pin_T_22_21 T 5.5 5.25
+.point pin_T_22_23 T 5.5 5.75
+.point pin_T_22_36 T 5.5 9
+.point vdd_T_22_45 T 5.5 11.25
+.point pin_T_22_62 T 5.5 15.5
+.point pin_T_22_64 T 5.5 16
+.point pin_T_22_74 T 5.5 18.5
+.point pin_T_22_111 T 5.5 27.75
+.point pin_T_22_127 T 5.5 31.75
+.point pin_T_22_145 T 5.5 36.25
+.point pin_T_22_153 T 5.5 38.25
+.point pin_T_22_173 T 5.5 43.25
+.point pin_T_22_174 T 5.5 43.5
+.point pin_T_22_175 T 5.5 43.75
+.point pin_T_22_176 T 5.5 44
+.point pin_T_22_177 T 5.5 44.25
+.point pin_T_22_178 T 5.5 44.5
+.point pin_T_22_179 T 5.5 44.75
+.point pin_T_22_180 T 5.5 45
+.point pin_T_22_181 T 5.5 45.25
+.point pin_T_22_182 T 5.5 45.5
+.point pin_T_22_183 T 5.5 45.75
+.point pin_T_22_184 T 5.5 46
+.point pin_T_22_185 T 5.5 46.25
+.point vdd_T_23_34 T 5.75 8.5
+.point pin_T_23_43 T 5.75 10.75
+.point gnd_T_23_47 T 5.75 11.75
+.point vdd_T_23_52 T 5.75 13
+.point pin_T_23_54 T 5.75 13.5
+.point gnd_T_23_58 T 5.75 14.5
+.point pin_T_23_60 T 5.75 15
+.point pin_T_23_66 T 5.75 16.5
+.point pin_T_23_68 T 5.75 17
+.point pin_T_23_71 T 5.75 17.75
+.point pin_T_23_111 T 5.75 27.75
+.point pin_T_23_127 T 5.75 31.75
+.point pin_T_23_173 T 5.75 43.25
+.point pin_T_23_185 T 5.75 46.25
+.point pin_T_24_32 T 6 8
+.point pin_T_24_36 T 6 9
+.point pin_T_24_41 T 6 10.25
+.point gnd_T_24_45 T 6 11.25
+.point pin_T_24_56 T 6 14
+.point pin_T_24_62 T 6 15.5
+.point pin_T_24_64 T 6 16
+.point vdd_T_24_74 T 6 18.5
+.point pin_T_24_111 T 6 27.75
+.point pin_T_24_127 T 6 31.75
+.point vdd_T_24_145 T 6 36.25
+.point pin_T_24_147 T 6 36.75
+.point pin_T_24_149 T 6 37.25
+.point pin_T_24_151 T 6 37.75
+.point gnd_T_24_153 T 6 38.25
+.point pin_T_24_173 T 6 43.25
+.point pin_T_24_185 T 6 46.25
+.point pin_T_25_34 T 6.25 8.5
+.point pin_T_25_53 T 6.25 13.25
+.point pin_T_25_59 T 6.25 14.75
+.point pin_T_25_67 T 6.25 16.75
+.point pin_T_25_71 T 6.25 17.75
+.point pin_T_25_111 T 6.25 27.75
+.point pin_T_25_127 T 6.25 31.75
+.point pin_T_25_173 T 6.25 43.25
+.point gnd_T_25_175 T 6.25 43.75
+.point pin_T_25_181 T 6.25 45.25
+.point pin_T_25_182 T 6.25 45.5
+.point pin_T_25_183 T 6.25 45.75
+.point pin_T_25_185 T 6.25 46.25
+.point pin_T_26_15 T 6.5 3.75
+.point pin_T_26_17 T 6.5 4.25
+.point pin_T_26_19 T 6.5 4.75
+.point pin_T_26_21 T 6.5 5.25
+.point pin_T_26_23 T 6.5 5.75
+.point pin_T_26_32 T 6.5 8
+.point vdd_T_26_41 T 6.5 10.25
+.point pin_T_26_43 T 6.5 10.75
+.point pin_T_26_45 T 6.5 11.25
+.point pin_T_26_55 T 6.5 13.75
+.point pin_T_26_61 T 6.5 15.25
+.point pin_T_26_63 T 6.5 15.75
+.point pin_T_26_74 T 6.5 18.5
+.point pin_T_26_111 T 6.5 27.75
+.point pin_T_26_127 T 6.5 31.75
+.point pin_T_26_173 T 6.5 43.25
+.point pin_T_26_185 T 6.5 46.25
+.point gnd_T_27_34 T 6.75 8.5
+.point gnd_T_27_36 T 6.75 9
+.point pin_T_27_53 T 6.75 13.25
+.point pin_T_27_57 T 6.75 14.25
+.point pin_T_27_65 T 6.75 16.25
+.point pin_T_27_69 T 6.75 17.25
+.point pin_T_27_71 T 6.75 17.75
+.point pin_T_27_111 T 6.75 27.75
+.point pin_T_27_127 T 6.75 31.75
+.point pin_T_27_173 T 6.75 43.25
+.point vdd_T_27_175 T 6.75 43.75
+.point pin_T_27_181 T 6.75 45.25
+.point pin_T_27_182 T 6.75 45.5
+.point pin_T_27_183 T 6.75 45.75
+.point pin_T_27_185 T 6.75 46.25
+.point vdd_T_28_32 T 7 8
+.point pin_T_28_45 T 7 11.25
+.point pin_T_28_48 T 7 12
+.point vdd_T_28_55 T 7 13.75
+.point vdd_T_28_59 T 7 14.75
+.point pin_T_28_61 T 7 15.25
+.point pin_T_28_67 T 7 16.75
+.point pin_T_28_73 T 7 18.25
+.point pin_T_28_111 T 7 27.75
+.point pin_T_28_127 T 7 31.75
+.point pin_T_28_173 T 7 43.25
+.point pin_T_28_185 T 7 46.25
+.point pin_T_29_34 T 7.25 8.5
+.point pin_T_29_50 T 7.25 12.5
+.point pin_T_29_57 T 7.25 14.25
+.point pin_T_29_65 T 7.25 16.25
+.point pin_T_29_70 T 7.25 17.5
+.point pin_T_29_111 T 7.25 27.75
+.point pin_T_29_127 T 7.25 31.75
+.point pin_T_29_173 T 7.25 43.25
+.point pin_T_29_185 T 7.25 46.25
+.point pin_T_30_15 T 7.5 3.75
+.point pin_T_30_17 T 7.5 4.25
+.point pin_T_30_19 T 7.5 4.75
+.point pin_T_30_21 T 7.5 5.25
+.point pin_T_30_23 T 7.5 5.75
+.point pin_T_30_36 T 7.5 9
+.point pin_T_30_45 T 7.5 11.25
+.point pin_T_30_52 T 7.5 13
+.point vdd_T_30_54 T 7.5 13.5
+.point pin_T_30_60 T 7.5 15
+.point gnd_T_30_68 T 7.5 17
+.point pin_T_30_72 T 7.5 18
+.point pin_T_30_74 T 7.5 18.5
+.point pin_T_30_111 T 7.5 27.75
+.point pin_T_30_127 T 7.5 31.75
+.point pin_T_30_173 T 7.5 43.25
+.point pin_T_30_185 T 7.5 46.25
+.point vdd_T_31_33 T 7.75 8.25
+.point pin_T_31_38 T 7.75 9.5
+.point pin_T_31_42 T 7.75 10.5
+.point pin_T_31_50 T 7.75 12.5
+.point pin_T_31_70 T 7.75 17.5
+.point pin_T_31_111 T 7.75 27.75
+.point pin_T_31_127 T 7.75 31.75
+.point pin_T_31_173 T 7.75 43.25
+.point pin_T_31_185 T 7.75 46.25
+.point gnd_T_32_35 T 8 8.75
+.point pin_T_32_44 T 8 11
+.point pin_T_32_54 T 8 13.5
+.point pin_T_32_57 T 8 14.25
+.point vdd_T_32_62 T 8 15.5
+.point gnd_T_32_64 T 8 16
+.point pin_T_32_66 T 8 16.5
+.point pin_T_32_72 T 8 18
+.point pin_T_32_74 T 8 18.5
+.point pin_T_32_111 T 8 27.75
+.point pin_T_32_127 T 8 31.75
+.point pin_T_32_173 T 8 43.25
+.point pin_T_32_185 T 8 46.25
+.point pin_T_33_39 T 8.25 9.75
+.point pin_T_33_41 T 8.25 10.25
+.point gnd_T_33_46 T 8.25 11.5
+.point pin_T_33_48 T 8.25 12
+.point pin_T_33_50 T 8.25 12.5
+.point pin_T_33_59 T 8.25 14.75
+.point pin_T_33_70 T 8.25 17.5
+.point pin_T_33_111 T 8.25 27.75
+.point pin_T_33_127 T 8.25 31.75
+.point pin_T_33_139 T 8.25 34.75
+.point pin_T_33_141 T 8.25 35.25
+.point pin_T_33_143 T 8.25 35.75
+.point pin_T_33_145 T 8.25 36.25
+.point pin_T_33_147 T 8.25 36.75
+.point pin_T_33_149 T 8.25 37.25
+.point pin_T_33_151 T 8.25 37.75
+.point pin_T_33_153 T 8.25 38.25
+.point pin_T_33_155 T 8.25 38.75
+.point pin_T_33_157 T 8.25 39.25
+.point pin_T_33_173 T 8.25 43.25
+.point pin_T_33_185 T 8.25 46.25
+.point pin_T_34_15 T 8.5 3.75
+.point pin_T_34_17 T 8.5 4.25
+.point pin_T_34_19 T 8.5 4.75
+.point pin_T_34_21 T 8.5 5.25
+.point pin_T_34_23 T 8.5 5.75
+.point pin_T_34_32 T 8.5 8
+.point gnd_T_34_34 T 8.5 8.5
+.point vdd_T_34_43 T 8.5 10.75
+.point gnd_T_34_52 T 8.5 13
+.point pin_T_34_54 T 8.5 13.5
+.point pin_T_34_56 T 8.5 14
+.point pin_T_34_61 T 8.5 15.25
+.point pin_T_34_67 T 8.5 16.75
+.point pin_T_34_73 T 8.5 18.25
+.point pin_T_34_111 T 8.5 27.75
+.point pin_T_34_127 T 8.5 31.75
+.point pin_T_34_173 T 8.5 43.25
+.point pin_T_34_185 T 8.5 46.25
+.point pin_T_35_45 T 8.75 11.25
+.point pin_T_35_65 T 8.75 16.25
+.point pin_T_35_69 T 8.75 17.25
+.point pin_T_35_111 T 8.75 27.75
+.point pin_T_35_127 T 8.75 31.75
+.point pin_T_35_157 T 8.75 39.25
+.point pin_T_35_173 T 8.75 43.25
+.point pin_T_35_185 T 8.75 46.25
+.point pin_T_36_32 T 9 8
+.point pin_T_36_35 T 9 8.75
+.point pin_T_36_41 T 9 10.25
+.point pin_T_36_43 T 9 10.75
+.point pin_T_36_53 T 9 13.25
+.point pin_T_36_60 T 9 15
+.point pin_T_36_72 T 9 18
+.point pin_T_36_111 T 9 27.75
+.point pin_T_36_127 T 9 31.75
+.point pin_T_36_173 T 9 43.25
+.point pin_T_36_185 T 9 46.25
+.point pin_T_37_46 T 9.25 11.5
+.point pin_T_37_48 T 9.25 12
+.point pin_T_37_55 T 9.25 13.75
+.point gnd_T_37_65 T 9.25 16.25
+.point pin_T_37_67 T 9.25 16.75
+.point gnd_T_37_69 T 9.25 17.25
+.point vdd_T_37_74 T 9.25 18.5
+.point pin_T_37_111 T 9.25 27.75
+.point pin_T_37_127 T 9.25 31.75
+.point pin_T_37_157 T 9.25 39.25
+.point pin_T_37_173 T 9.25 43.25
+.point pin_T_37_185 T 9.25 46.25
+.point pin_T_38_15 T 9.5 3.75
+.point pin_T_38_17 T 9.5 4.25
+.point pin_T_38_19 T 9.5 4.75
+.point pin_T_38_21 T 9.5 5.25
+.point pin_T_38_23 T 9.5 5.75
+.point pin_T_38_34 T 9.5 8.5
+.point pin_T_38_41 T 9.5 10.25
+.point pin_T_38_43 T 9.5 10.75
+.point pin_T_38_50 T 9.5 12.5
+.point pin_T_38_57 T 9.5 14.25
+.point pin_T_38_59 T 9.5 14.75
+.point pin_T_38_61 T 9.5 15.25
+.point pin_T_38_71 T 9.5 17.75
+.point pin_T_38_111 T 9.5 27.75
+.point pin_T_38_127 T 9.5 31.75
+.point pin_T_38_173 T 9.5 43.25
+.point pin_T_38_185 T 9.5 46.25
+.point pin_T_39_45 T 9.75 11.25
+.point pin_T_39_53 T 9.75 13.25
+.point pin_T_39_55 T 9.75 13.75
+.point pin_T_39_67 T 9.75 16.75
+.point pin_T_39_69 T 9.75 17.25
+.point pin_T_39_73 T 9.75 18.25
+.point pin_T_39_111 T 9.75 27.75
+.point pin_T_39_127 T 9.75 31.75
+.point pin_T_39_157 T 9.75 39.25
+.point pin_T_39_173 T 9.75 43.25
+.point pin_T_39_185 T 9.75 46.25
+.point pin_T_40_36 T 10 9
+.point pin_T_40_41 T 10 10.25
+.point pin_T_40_43 T 10 10.75
+.point pin_T_40_62 T 10 15.5
+.point pin_T_40_111 T 10 27.75
+.point pin_T_40_127 T 10 31.75
+.point pin_T_40_173 T 10 43.25
+.point pin_T_40_185 T 10 46.25
+.point pin_T_41_32 T 10.25 8
+.point pin_T_41_34 T 10.25 8.5
+.point vdd_T_41_53 T 10.25 13.25
+.point pin_T_41_55 T 10.25 13.75
+.point pin_T_41_60 T 10.25 15
+.point pin_T_41_64 T 10.25 16
+.point pin_T_41_68 T 10.25 17
+.point pin_T_41_71 T 10.25 17.75
+.point pin_T_41_73 T 10.25 18.25
+.point pin_T_41_111 T 10.25 27.75
+.point pin_T_41_127 T 10.25 31.75
+.point pin_T_41_157 T 10.25 39.25
+.point pin_T_41_173 T 10.25 43.25
+.point pin_T_41_185 T 10.25 46.25
+.point pin_T_42_15 T 10.5 3.75
+.point pin_T_42_17 T 10.5 4.25
+.point pin_T_42_19 T 10.5 4.75
+.point pin_T_42_21 T 10.5 5.25
+.point pin_T_42_23 T 10.5 5.75
+.point pin_T_42_36 T 10.5 9
+.point gnd_T_42_40 T 10.5 10
+.point pin_T_42_42 T 10.5 10.5
+.point pin_T_42_62 T 10.5 15.5
+.point pin_T_42_95 T 10.5 23.75
+.point pin_T_42_96 T 10.5 24
+.point pin_T_42_97 T 10.5 24.25
+.point pin_T_42_98 T 10.5 24.5
+.point pin_T_42_99 T 10.5 24.75
+.point pin_T_42_100 T 10.5 25
+.point pin_T_42_101 T 10.5 25.25
+.point pin_T_42_102 T 10.5 25.5
+.point pin_T_42_103 T 10.5 25.75
+.point pin_T_42_104 T 10.5 26
+.point pin_T_42_105 T 10.5 26.25
+.point pin_T_42_106 T 10.5 26.5
+.point pin_T_42_107 T 10.5 26.75
+.point pin_T_42_108 T 10.5 27
+.point pin_T_42_109 T 10.5 27.25
+.point pin_T_42_110 T 10.5 27.5
+.point pin_T_42_111 T 10.5 27.75
+.point pin_T_42_127 T 10.5 31.75
+.point pin_T_42_173 T 10.5 43.25
+.point pin_T_42_185 T 10.5 46.25
+.point pin_T_43_32 T 10.75 8
+.point pin_T_43_34 T 10.75 8.5
+.point pin_T_43_53 T 10.75 13.25
+.point pin_T_43_59 T 10.75 14.75
+.point pin_T_43_68 T 10.75 17
+.point pin_T_43_72 T 10.75 18
+.point pin_T_43_95 T 10.75 23.75
+.point pin_T_43_127 T 10.75 31.75
+.point pin_T_43_157 T 10.75 39.25
+.point pin_T_43_173 T 10.75 43.25
+.point pin_T_43_185 T 10.75 46.25
+.point vdd_T_44_61 T 11 15.25
+.point pin_T_44_74 T 11 18.5
+.point pin_T_44_95 T 11 23.75
+.point pin_T_44_127 T 11 31.75
+.point pin_T_44_173 T 11 43.25
+.point pin_T_44_185 T 11 46.25
+.point pin_T_45_33 T 11.25 8.25
+.point pin_T_45_42 T 11.25 10.5
+.point pin_T_45_44 T 11.25 11
+.point pin_T_45_51 T 11.25 12.75
+.point pin_T_45_59 T 11.25 14.75
+.point pin_T_45_70 T 11.25 17.5
+.point pin_T_45_95 T 11.25 23.75
+.point pin_T_45_127 T 11.25 31.75
+.point pin_T_45_157 T 11.25 39.25
+.point pin_T_45_173 T 11.25 43.25
+.point pin_T_45_185 T 11.25 46.25
+.point pin_T_46_15 T 11.5 3.75
+.point pin_T_46_17 T 11.5 4.25
+.point pin_T_46_19 T 11.5 4.75
+.point pin_T_46_21 T 11.5 5.25
+.point pin_T_46_23 T 11.5 5.75
+.point pin_T_46_35 T 11.5 8.75
+.point pin_T_46_37 T 11.5 9.25
+.point pin_T_46_46 T 11.5 11.5
+.point pin_T_46_48 T 11.5 12
+.point pin_T_46_53 T 11.5 13.25
+.point pin_T_46_61 T 11.5 15.25
+.point pin_T_46_68 T 11.5 17
+.point gnd_T_46_72 T 11.5 18
+.point vdd_T_46_74 T 11.5 18.5
+.point pin_T_46_95 T 11.5 23.75
+.point pin_T_46_127 T 11.5 31.75
+.point pin_T_46_173 T 11.5 43.25
+.point pin_T_46_185 T 11.5 46.25
+.point pin_T_47_33 T 11.75 8.25
+.point pin_T_47_50 T 11.75 12.5
+.point pin_T_47_63 T 11.75 15.75
+.point pin_T_47_70 T 11.75 17.5
+.point pin_T_47_95 T 11.75 23.75
+.point pin_T_47_127 T 11.75 31.75
+.point pin_T_47_157 T 11.75 39.25
+.point pin_T_47_173 T 11.75 43.25
+.point pin_T_47_185 T 11.75 46.25
+.point pin_T_48_37 T 12 9.25
+.point pin_T_48_44 T 12 11
+.point gnd_T_48_52 T 12 13
+.point pin_T_48_60 T 12 15
+.point vdd_T_48_67 T 12 16.75
+.point pin_T_48_72 T 12 18
+.point pin_T_48_74 T 12 18.5
+.point pin_T_48_95 T 12 23.75
+.point pin_T_48_127 T 12 31.75
+.point pin_T_48_173 T 12 43.25
+.point pin_T_48_185 T 12 46.25
+.point pin_T_49_33 T 12.25 8.25
+.point pin_T_49_46 T 12.25 11.5
+.point pin_T_49_48 T 12.25 12
+.point pin_T_49_50 T 12.25 12.5
+.point pin_T_49_56 T 12.25 14
+.point vdd_T_49_62 T 12.25 15.5
+.point gnd_T_49_64 T 12.25 16
+.point pin_T_49_69 T 12.25 17.25
+.point pin_T_49_95 T 12.25 23.75
+.point pin_T_49_127 T 12.25 31.75
+.point pin_T_49_140 T 12.25 35
+.point pin_T_49_157 T 12.25 39.25
+.point pin_T_49_173 T 12.25 43.25
+.point pin_T_49_185 T 12.25 46.25
+.point pin_T_50_15 T 12.5 3.75
+.point pin_T_50_17 T 12.5 4.25
+.point pin_T_50_19 T 12.5 4.75
+.point pin_T_50_21 T 12.5 5.25
+.point pin_T_50_23 T 12.5 5.75
+.point pin_T_50_37 T 12.5 9.25
+.point pin_T_50_44 T 12.5 11
+.point vdd_T_50_66 T 12.5 16.5
+.point vdd_T_50_71 T 12.5 17.75
+.point pin_T_50_95 T 12.5 23.75
+.point pin_T_50_127 T 12.5 31.75
+.point pin_T_50_173 T 12.5 43.25
+.point pin_T_50_185 T 12.5 46.25
+.point vdd_T_51_32 T 12.75 8
+.point pin_T_51_41 T 12.75 10.25
+.point pin_T_51_51 T 12.75 12.75
+.point pin_T_51_53 T 12.75 13.25
+.point pin_T_51_59 T 12.75 14.75
+.point pin_T_51_68 T 12.75 17
+.point pin_T_51_73 T 12.75 18.25
+.point pin_T_51_95 T 12.75 23.75
+.point pin_T_51_127 T 12.75 31.75
+.point pin_T_51_139 T 12.75 34.75
+.point pin_T_51_157 T 12.75 39.25
+.point pin_T_51_173 T 12.75 43.25
+.point pin_T_51_185 T 12.75 46.25
+.point pin_T_52_34 T 13 8.5
+.point pin_T_52_36 T 13 9
+.point pin_T_52_43 T 13 10.75
+.point pin_T_52_61 T 13 15.25
+.point pin_T_52_70 T 13 17.5
+.point pin_T_52_95 T 13 23.75
+.point pin_T_52_127 T 13 31.75
+.point pin_T_52_173 T 13 43.25
+.point pin_T_52_185 T 13 46.25
+.point pin_T_53_51 T 13.25 12.75
+.point pin_T_53_53 T 13.25 13.25
+.point vdd_T_53_57 T 13.25 14.25
+.point pin_T_53_59 T 13.25 14.75
+.point pin_T_53_68 T 13.25 17
+.point pin_T_53_72 T 13.25 18
+.point pin_T_53_74 T 13.25 18.5
+.point pin_T_53_95 T 13.25 23.75
+.point pin_T_53_127 T 13.25 31.75
+.point pin_T_53_173 T 13.25 43.25
+.point pin_T_53_185 T 13.25 46.25
+.point pin_T_54_15 T 13.5 3.75
+.point pin_T_54_17 T 13.5 4.25
+.point pin_T_54_19 T 13.5 4.75
+.point pin_T_54_21 T 13.5 5.25
+.point pin_T_54_23 T 13.5 5.75
+.point pin_T_54_33 T 13.5 8.25
+.point pin_T_54_36 T 13.5 9
+.point gnd_T_54_42 T 13.5 10.5
+.point pin_T_54_44 T 13.5 11
+.point pin_T_54_47 T 13.5 11.75
+.point pin_T_54_61 T 13.5 15.25
+.point pin_T_54_70 T 13.5 17.5
+.point pin_T_54_95 T 13.5 23.75
+.point pin_T_54_127 T 13.5 31.75
+.point pin_T_54_173 T 13.5 43.25
+.point pin_T_54_185 T 13.5 46.25
+.point gnd_T_55_52 T 13.75 13
+.point pin_T_55_54 T 13.75 13.5
+.point pin_T_55_68 T 13.75 17
+.point pin_T_55_72 T 13.75 18
+.point pin_T_55_95 T 13.75 23.75
+.point pin_T_55_127 T 13.75 31.75
+.point pin_T_55_173 T 13.75 43.25
+.point pin_T_55_185 T 13.75 46.25
+.point pin_T_56_33 T 14 8.25
+.point pin_T_56_42 T 14 10.5
+.point gnd_T_56_44 T 14 11
+.point vdd_T_56_48 T 14 12
+.point pin_T_56_61 T 14 15.25
+.point pin_T_56_74 T 14 18.5
+.point pin_T_56_95 T 14 23.75
+.point pin_T_56_127 T 14 31.75
+.point pin_T_56_173 T 14 43.25
+.point pin_T_56_185 T 14 46.25
+.point pin_T_57_37 T 14.25 9.25
+.point pin_T_57_46 T 14.25 11.5
+.point pin_T_57_50 T 14.25 12.5
+.point pin_T_57_53 T 14.25 13.25
+.point pin_T_57_55 T 14.25 13.75
+.point gnd_T_57_59 T 14.25 14.75
+.point pin_T_57_68 T 14.25 17
+.point gnd_T_57_70 T 14.25 17.5
+.point pin_T_57_72 T 14.25 18
+.point pin_T_57_95 T 14.25 23.75
+.point pin_T_57_127 T 14.25 31.75
+.point pin_T_57_173 T 14.25 43.25
+.point pin_T_57_185 T 14.25 46.25
+.point pin_T_58_15 T 14.5 3.75
+.point pin_T_58_17 T 14.5 4.25
+.point pin_T_58_19 T 14.5 4.75
+.point pin_T_58_21 T 14.5 5.25
+.point pin_T_58_23 T 14.5 5.75
+.point pin_T_58_35 T 14.5 8.75
+.point pin_T_58_41 T 14.5 10.25
+.point pin_T_58_43 T 14.5 10.75
+.point pin_T_58_57 T 14.5 14.25
+.point pin_T_58_61 T 14.5 15.25
+.point pin_T_58_63 T 14.5 15.75
+.point pin_T_58_74 T 14.5 18.5
+.point pin_T_58_95 T 14.5 23.75
+.point pin_T_58_127 T 14.5 31.75
+.point pin_T_58_173 T 14.5 43.25
+.point pin_T_58_185 T 14.5 46.25
+.point vdd_T_59_32 T 14.75 8
+.point pin_T_59_45 T 14.75 11.25
+.point pin_T_59_47 T 14.75 11.75
+.point pin_T_59_49 T 14.75 12.25
+.point gnd_T_59_52 T 14.75 13
+.point gnd_T_59_54 T 14.75 13.5
+.point pin_T_59_59 T 14.75 14.75
+.point gnd_T_59_65 T 14.75 16.25
+.point pin_T_59_67 T 14.75 16.75
+.point gnd_T_59_69 T 14.75 17.25
+.point pin_T_59_95 T 14.75 23.75
+.point pin_T_59_127 T 14.75 31.75
+.point pin_T_59_173 T 14.75 43.25
+.point pin_T_59_185 T 14.75 46.25
+.point gnd_T_60_34 T 15 8.5
+.point pin_T_60_41 T 15 10.25
+.point pin_T_60_43 T 15 10.75
+.point vdd_T_60_56 T 15 14
+.point pin_T_60_61 T 15 15.25
+.point pin_T_60_63 T 15 15.75
+.point pin_T_60_95 T 15 23.75
+.point pin_T_60_127 T 15 31.75
+.point pin_T_60_173 T 15 43.25
+.point pin_T_60_185 T 15 46.25
+.point pin_T_61_32 T 15.25 8
+.point gnd_T_61_36 T 15.25 9
+.point pin_T_61_48 T 15.25 12
+.point vdd_T_61_54 T 15.25 13.5
+.point pin_T_61_67 T 15.25 16.75
+.point pin_T_61_70 T 15.25 17.5
+.point pin_T_61_72 T 15.25 18
+.point pin_T_61_74 T 15.25 18.5
+.point pin_T_61_95 T 15.25 23.75
+.point pin_T_61_127 T 15.25 31.75
+.point pin_T_61_173 T 15.25 43.25
+.point pin_T_61_185 T 15.25 46.25
+.point pin_T_62_15 T 15.5 3.75
+.point pin_T_62_17 T 15.5 4.25
+.point pin_T_62_19 T 15.5 4.75
+.point pin_T_62_21 T 15.5 5.25
+.point pin_T_62_23 T 15.5 5.75
+.point pin_T_62_42 T 15.5 10.5
+.point pin_T_62_45 T 15.5 11.25
+.point gnd_T_62_60 T 15.5 15
+.point pin_T_62_95 T 15.5 23.75
+.point pin_T_62_127 T 15.5 31.75
+.point pin_T_62_139 T 15.5 34.75
+.point pin_T_62_141 T 15.5 35.25
+.point pin_T_62_143 T 15.5 35.75
+.point pin_T_62_145 T 15.5 36.25
+.point pin_T_62_147 T 15.5 36.75
+.point pin_T_62_149 T 15.5 37.25
+.point pin_T_62_151 T 15.5 37.75
+.point pin_T_62_153 T 15.5 38.25
+.point pin_T_62_155 T 15.5 38.75
+.point pin_T_62_157 T 15.5 39.25
+.point pin_T_62_173 T 15.5 43.25
+.point pin_T_62_185 T 15.5 46.25
+.point pin_T_63_33 T 15.75 8.25
+.point pin_T_63_49 T 15.75 12.25
+.point pin_T_63_51 T 15.75 12.75
+.point pin_T_63_58 T 15.75 14.5
+.point pin_T_63_62 T 15.75 15.5
+.point vdd_T_63_66 T 15.75 16.5
+.point pin_T_63_68 T 15.75 17
+.point pin_T_63_74 T 15.75 18.5
+.point pin_T_63_95 T 15.75 23.75
+.point pin_T_63_127 T 15.75 31.75
+.point pin_T_63_173 T 15.75 43.25
+.point pin_T_63_185 T 15.75 46.25
+.point vdd_T_64_37 T 16 9.25
+.point pin_T_64_45 T 16 11.25
+.point pin_T_64_47 T 16 11.75
+.point pin_T_64_53 T 16 13.25
+.point pin_T_64_60 T 16 15
+.point pin_T_64_70 T 16 17.5
+.point pin_T_64_72 T 16 18
+.point pin_T_64_95 T 16 23.75
+.point pin_T_64_127 T 16 31.75
+.point pin_T_64_157 T 16 39.25
+.point pin_T_64_173 T 16 43.25
+.point pin_T_64_185 T 16 46.25
+.point pin_T_65_33 T 16.25 8.25
+.point vdd_T_65_50 T 16.25 12.5
+.point pin_T_65_55 T 16.25 13.75
+.point pin_T_65_57 T 16.25 14.25
+.point pin_T_65_67 T 16.25 16.75
+.point pin_T_65_74 T 16.25 18.5
+.point pin_T_65_95 T 16.25 23.75
+.point pin_T_65_127 T 16.25 31.75
+.point pin_T_65_173 T 16.25 43.25
+.point pin_T_65_185 T 16.25 46.25
+.point pin_T_66_15 T 16.5 3.75
+.point pin_T_66_17 T 16.5 4.25
+.point pin_T_66_19 T 16.5 4.75
+.point pin_T_66_21 T 16.5 5.25
+.point pin_T_66_23 T 16.5 5.75
+.point pin_T_66_37 T 16.5 9.25
+.point vdd_T_66_44 T 16.5 11
+.point pin_T_66_46 T 16.5 11.5
+.point vdd_T_66_52 T 16.5 13
+.point pin_T_66_59 T 16.5 14.75
+.point pin_T_66_61 T 16.5 15.25
+.point pin_T_66_63 T 16.5 15.75
+.point gnd_T_66_69 T 16.5 17.25
+.point pin_T_66_71 T 16.5 17.75
+.point pin_T_66_95 T 16.5 23.75
+.point pin_T_66_127 T 16.5 31.75
+.point pin_T_66_157 T 16.5 39.25
+.point pin_T_66_173 T 16.5 43.25
+.point pin_T_66_185 T 16.5 46.25
+.point vdd_T_67_33 T 16.75 8.25
+.point pin_T_67_41 T 16.75 10.25
+.point pin_T_67_48 T 16.75 12
+.point pin_T_67_54 T 16.75 13.5
+.point pin_T_67_56 T 16.75 14
+.point pin_T_67_65 T 16.75 16.25
+.point pin_T_67_67 T 16.75 16.75
+.point pin_T_67_95 T 16.75 23.75
+.point pin_T_67_127 T 16.75 31.75
+.point pin_T_67_173 T 16.75 43.25
+.point pin_T_67_185 T 16.75 46.25
+.point gnd_T_68_37 T 17 9.25
+.point pin_T_68_45 T 17 11.25
+.point vdd_T_68_52 T 17 13
+.point pin_T_68_58 T 17 14.5
+.point pin_T_68_60 T 17 15
+.point pin_T_68_62 T 17 15.5
+.point pin_T_68_70 T 17 17.5
+.point pin_T_68_95 T 17 23.75
+.point pin_T_68_127 T 17 31.75
+.point pin_T_68_157 T 17 39.25
+.point pin_T_68_173 T 17 43.25
+.point pin_T_68_185 T 17 46.25
+.point pin_T_69_95 T 17.25 23.75
+.point pin_T_69_127 T 17.25 31.75
+.point pin_T_69_173 T 17.25 43.25
+.point pin_T_69_185 T 17.25 46.25
+.point pin_T_70_15 T 17.5 3.75
+.point pin_T_70_17 T 17.5 4.25
+.point pin_T_70_19 T 17.5 4.75
+.point pin_T_70_21 T 17.5 5.25
+.point pin_T_70_23 T 17.5 5.75
+.point pin_T_70_95 T 17.5 23.75
+.point pin_T_70_127 T 17.5 31.75
+.point pin_T_70_157 T 17.5 39.25
+.point pin_T_70_173 T 17.5 43.25
+.point pin_T_70_185 T 17.5 46.25
+.point pin_T_71_95 T 17.75 23.75
+.point pin_T_71_127 T 17.75 31.75
+.point pin_T_71_173 T 17.75 43.25
+.point pin_T_71_185 T 17.75 46.25
+.point pin_T_72_32 T 18 8
+.point pin_T_72_34 T 18 8.5
+.point pin_T_72_36 T 18 9
+.point pin_T_72_38 T 18 9.5
+.point pin_T_72_40 T 18 10
+.point pin_T_72_42 T 18 10.5
+.point pin_T_72_44 T 18 11
+.point pin_T_72_46 T 18 11.5
+.point pin_T_72_48 T 18 12
+.point pin_T_72_50 T 18 12.5
+.point pin_T_72_95 T 18 23.75
+.point pin_T_72_127 T 18 31.75
+.point pin_T_72_157 T 18 39.25
+.point pin_T_72_173 T 18 43.25
+.point pin_T_72_185 T 18 46.25
+.point pin_T_73_95 T 18.25 23.75
+.point pin_T_73_127 T 18.25 31.75
+.point pin_T_73_173 T 18.25 43.25
+.point pin_T_73_185 T 18.25 46.25
+.point pin_T_74_15 T 18.5 3.75
+.point pin_T_74_17 T 18.5 4.25
+.point pin_T_74_19 T 18.5 4.75
+.point pin_T_74_21 T 18.5 5.25
+.point pin_T_74_23 T 18.5 5.75
+.point pin_T_74_50 T 18.5 12.5
+.point pin_T_74_95 T 18.5 23.75
+.point pin_T_74_127 T 18.5 31.75
+.point pin_T_74_157 T 18.5 39.25
+.point pin_T_74_173 T 18.5 43.25
+.point pin_T_74_175 T 18.5 43.75
+.point pin_T_74_176 T 18.5 44
+.point pin_T_74_177 T 18.5 44.25
+.point vdd_T_74_183 T 18.5 45.75
+.point pin_T_74_185 T 18.5 46.25
+.point pin_T_75_95 T 18.75 23.75
+.point pin_T_75_96 T 18.75 24
+.point pin_T_75_97 T 18.75 24.25
+.point pin_T_75_98 T 18.75 24.5
+.point pin_T_75_99 T 18.75 24.75
+.point pin_T_75_100 T 18.75 25
+.point pin_T_75_101 T 18.75 25.25
+.point pin_T_75_102 T 18.75 25.5
+.point pin_T_75_103 T 18.75 25.75
+.point pin_T_75_104 T 18.75 26
+.point pin_T_75_105 T 18.75 26.25
+.point pin_T_75_106 T 18.75 26.5
+.point pin_T_75_107 T 18.75 26.75
+.point pin_T_75_108 T 18.75 27
+.point pin_T_75_109 T 18.75 27.25
+.point pin_T_75_110 T 18.75 27.5
+.point pin_T_75_111 T 18.75 27.75
+.point pin_T_75_112 T 18.75 28
+.point pin_T_75_113 T 18.75 28.25
+.point pin_T_75_114 T 18.75 28.5
+.point pin_T_75_115 T 18.75 28.75
+.point pin_T_75_116 T 18.75 29
+.point pin_T_75_117 T 18.75 29.25
+.point pin_T_75_118 T 18.75 29.5
+.point pin_T_75_119 T 18.75 29.75
+.point pin_T_75_120 T 18.75 30
+.point pin_T_75_121 T 18.75 30.25
+.point pin_T_75_122 T 18.75 30.5
+.point pin_T_75_123 T 18.75 30.75
+.point pin_T_75_124 T 18.75 31
+.point pin_T_75_125 T 18.75 31.25
+.point pin_T_75_126 T 18.75 31.5
+.point pin_T_75_127 T 18.75 31.75
+.point pin_T_75_173 T 18.75 43.25
+.point pin_T_75_185 T 18.75 46.25
+.point pin_T_76_50 T 19 12.5
+.point pin_T_76_74 T 19 18.5
+.point pin_T_76_77 T 19 19.25
+.point pin_T_76_157 T 19 39.25
+.point pin_T_76_173 T 19 43.25
+.point pin_T_76_175 T 19 43.75
+.point pin_T_76_176 T 19 44
+.point pin_T_76_177 T 19 44.25
+.point gnd_T_76_183 T 19 45.75
+.point pin_T_76_185 T 19 46.25
+.point pin_T_77_73 T 19.25 18.25
+.point pin_T_77_76 T 19.25 19
+.point pin_T_77_173 T 19.25 43.25
+.point pin_T_77_185 T 19.25 46.25
+.point pin_T_78_15 T 19.5 3.75
+.point pin_T_78_17 T 19.5 4.25
+.point pin_T_78_19 T 19.5 4.75
+.point pin_T_78_21 T 19.5 5.25
+.point pin_T_78_23 T 19.5 5.75
+.point pin_T_78_50 T 19.5 12.5
+.point pin_T_78_72 T 19.5 18
+.point pin_T_78_75 T 19.5 18.75
+.point pin_T_78_157 T 19.5 39.25
+.point pin_T_78_173 T 19.5 43.25
+.point pin_T_78_185 T 19.5 46.25
+.point pin_T_79_71 T 19.75 17.75
+.point pin_T_79_74 T 19.75 18.5
+.point vdd_T_79_77 T 19.75 19.25
+.point pin_T_79_140 T 19.75 35
+.point pin_T_79_173 T 19.75 43.25
+.point pin_T_79_174 T 19.75 43.5
+.point pin_T_79_175 T 19.75 43.75
+.point pin_T_79_176 T 19.75 44
+.point pin_T_79_177 T 19.75 44.25
+.point pin_T_79_178 T 19.75 44.5
+.point pin_T_79_179 T 19.75 44.75
+.point pin_T_79_180 T 19.75 45
+.point pin_T_79_181 T 19.75 45.25
+.point pin_T_79_182 T 19.75 45.5
+.point pin_T_79_183 T 19.75 45.75
+.point pin_T_79_184 T 19.75 46
+.point pin_T_79_185 T 19.75 46.25
+.point pin_T_80_50 T 20 12.5
+.point pin_T_80_72 T 20 18
+.point pin_T_80_75 T 20 18.75
+.point pin_T_80_110 T 20 27.5
+.point pin_T_80_111 T 20 27.75
+.point pin_T_80_112 T 20 28
+.point pin_T_80_114 T 20 28.5
+.point pin_T_80_116 T 20 29
+.point pin_T_80_118 T 20 29.5
+.point pin_T_80_120 T 20 30
+.point pin_T_80_122 T 20 30.5
+.point pin_T_80_124 T 20 31
+.point pin_T_80_126 T 20 31.5
+.point pin_T_80_128 T 20 32
+.point pin_T_80_130 T 20 32.5
+.point pin_T_80_132 T 20 33
+.point pin_T_80_134 T 20 33.5
+.point pin_T_80_136 T 20 34
+.point pin_T_80_157 T 20 39.25
+.point pin_T_81_73 T 20.25 18.25
+.point pin_T_81_76 T 20.25 19
+.point pin_T_81_139 T 20.25 34.75
+.point pin_T_82_15 T 20.5 3.75
+.point pin_T_82_17 T 20.5 4.25
+.point pin_T_82_19 T 20.5 4.75
+.point pin_T_82_21 T 20.5 5.25
+.point pin_T_82_23 T 20.5 5.75
+.point pin_T_82_50 T 20.5 12.5
+.point gnd_T_82_74 T 20.5 18.5
+.point pin_T_82_77 T 20.5 19.25
+.point pin_T_83_73 T 20.75 18.25
+.point pin_T_83_76 T 20.75 19
+.point pin_T_83_112 T 20.75 28
+.point pin_T_83_114 T 20.75 28.5
+.point pin_T_83_116 T 20.75 29
+.point pin_T_83_118 T 20.75 29.5
+.point pin_T_83_120 T 20.75 30
+.point pin_T_83_122 T 20.75 30.5
+.point pin_T_83_124 T 20.75 31
+.point pin_T_83_126 T 20.75 31.5
+.point pin_T_83_128 T 20.75 32
+.point pin_T_83_130 T 20.75 32.5
+.point pin_T_83_132 T 20.75 33
+.point pin_T_83_134 T 20.75 33.5
+.point pin_T_83_136 T 20.75 34
+.point pin_T_84_50 T 21 12.5
+.point pin_T_84_72 T 21 18
+.point pin_T_84_75 T 21 18.75
+.point pin_T_84_110 T 21 27.5
+.point pin_T_85_71 T 21.25 17.75
+.point pin_T_85_74 T 21.25 18.5
+.point vdd_T_85_77 T 21.25 19.25
+.point pin_T_85_112 T 21.25 28
+.point pin_T_85_134 T 21.25 33.5
+.point pin_T_85_136 T 21.25 34
+.point pin_T_86_15 T 21.5 3.75
+.point pin_T_86_17 T 21.5 4.25
+.point pin_T_86_19 T 21.5 4.75
+.point pin_T_86_21 T 21.5 5.25
+.point pin_T_86_23 T 21.5 5.75
+.point pin_T_86_50 T 21.5 12.5
+.point pin_T_86_72 T 21.5 18
+.point pin_T_86_75 T 21.5 18.75
+.point pin_T_86_110 T 21.5 27.5
+.point pin_T_87_73 T 21.75 18.25
+.point pin_T_87_76 T 21.75 19
+.point pin_T_87_112 T 21.75 28
+.point pin_T_87_134 T 21.75 33.5
+.point pin_T_87_136 T 21.75 34
+.point pin_T_88_33 T 22 8.25
+.point pin_T_88_50 T 22 12.5
+.point gnd_T_88_74 T 22 18.5
+.point pin_T_88_77 T 22 19.25
+.point pin_T_88_110 T 22 27.5
+.point pin_T_89_73 T 22.25 18.25
+.point pin_T_89_76 T 22.25 19
+.point pin_T_89_112 T 22.25 28
+.point pin_T_89_134 T 22.25 33.5
+.point pin_T_89_136 T 22.25 34
+.point pin_T_89_166 T 22.25 41.5
+.point pin_T_89_167 T 22.25 41.75
+.point pin_T_89_168 T 22.25 42
+.point pin_T_89_170 T 22.25 42.5
+.point pin_T_89_172 T 22.25 43
+.point pin_T_89_174 T 22.25 43.5
+.point pin_T_89_176 T 22.25 44
+.point pin_T_89_178 T 22.25 44.5
+.point pin_T_89_180 T 22.25 45
+.point pin_T_89_182 T 22.25 45.5
+.point pin_T_89_184 T 22.25 46
+.point pin_T_89_186 T 22.25 46.5
+.point pin_T_89_188 T 22.25 47
+.point pin_T_89_190 T 22.25 47.5
+.point pin_T_89_192 T 22.25 48
+.point pin_T_90_15 T 22.5 3.75
+.point pin_T_90_17 T 22.5 4.25
+.point pin_T_90_19 T 22.5 4.75
+.point pin_T_90_21 T 22.5 5.25
+.point pin_T_90_23 T 22.5 5.75
+.point pin_T_90_32 T 22.5 8
+.point pin_T_90_50 T 22.5 12.5
+.point pin_T_90_72 T 22.5 18
+.point pin_T_90_75 T 22.5 18.75
+.point pin_T_90_110 T 22.5 27.5
+.point pin_T_90_161 T 22.5 40.25
+.point pin_T_90_162 T 22.5 40.5
+.point pin_T_90_163 T 22.5 40.75
+.point pin_T_91_71 T 22.75 17.75
+.point pin_T_91_74 T 22.75 18.5
+.point vdd_T_91_77 T 22.75 19.25
+.point pin_T_91_112 T 22.75 28
+.point pin_T_91_134 T 22.75 33.5
+.point pin_T_91_136 T 22.75 34
+.point pin_T_91_139 T 22.75 34.75
+.point pin_T_91_141 T 22.75 35.25
+.point pin_T_91_143 T 22.75 35.75
+.point pin_T_91_145 T 22.75 36.25
+.point pin_T_91_147 T 22.75 36.75
+.point pin_T_91_149 T 22.75 37.25
+.point pin_T_91_151 T 22.75 37.75
+.point pin_T_91_153 T 22.75 38.25
+.point pin_T_91_155 T 22.75 38.75
+.point pin_T_91_157 T 22.75 39.25
+.point pin_T_92_8 T 23 2
+.point pin_T_92_9 T 23 2.25
+.point pin_T_92_10 T 23 2.5
+.point pin_T_92_72 T 23 18
+.point pin_T_92_75 T 23 18.75
+.point pin_T_92_110 T 23 27.5
+.point pin_T_92_168 T 23 42
+.point pin_T_92_170 T 23 42.5
+.point pin_T_92_172 T 23 43
+.point pin_T_92_174 T 23 43.5
+.point pin_T_92_176 T 23 44
+.point pin_T_92_178 T 23 44.5
+.point pin_T_92_180 T 23 45
+.point pin_T_92_182 T 23 45.5
+.point pin_T_92_184 T 23 46
+.point pin_T_92_186 T 23 46.5
+.point pin_T_92_188 T 23 47
+.point pin_T_92_190 T 23 47.5
+.point pin_T_92_192 T 23 48
+.point pin_T_93_73 T 23.25 18.25
+.point pin_T_93_76 T 23.25 19
+.point vdd_T_93_84 T 23.25 21
+.point vdd_T_93_89 T 23.25 22.25
+.point vdd_T_93_94 T 23.25 23.5
+.point pin_T_93_112 T 23.25 28
+.point pin_T_93_134 T 23.25 33.5
+.point pin_T_93_136 T 23.25 34
+.point pin_T_93_157 T 23.25 39.25
+.point pin_T_93_166 T 23.25 41.5
+.point pin_T_94_15 T 23.5 3.75
+.point pin_T_94_17 T 23.5 4.25
+.point pin_T_94_19 T 23.5 4.75
+.point pin_T_94_21 T 23.5 5.25
+.point pin_T_94_23 T 23.5 5.75
+.point gnd_T_94_74 T 23.5 18.5
+.point pin_T_94_77 T 23.5 19.25
+.point pin_T_94_110 T 23.5 27.5
+.point pin_T_94_168 T 23.5 42
+.point pin_T_94_190 T 23.5 47.5
+.point pin_T_94_192 T 23.5 48
+.point pin_T_95_73 T 23.75 18.25
+.point pin_T_95_76 T 23.75 19
+.point pin_T_95_83 T 23.75 20.75
+.point pin_T_95_88 T 23.75 22
+.point pin_T_95_93 T 23.75 23.25
+.point pin_T_95_112 T 23.75 28
+.point pin_T_95_134 T 23.75 33.5
+.point pin_T_95_136 T 23.75 34
+.point pin_T_95_157 T 23.75 39.25
+.point pin_T_95_161 T 23.75 40.25
+.point pin_T_95_162 T 23.75 40.5
+.point pin_T_95_163 T 23.75 40.75
+.point pin_T_95_166 T 23.75 41.5
+.point pin_T_96_67 T 24 16.75
+.point pin_T_96_72 T 24 18
+.point pin_T_96_75 T 24 18.75
+.point pin_T_96_110 T 24 27.5
+.point pin_T_96_168 T 24 42
+.point pin_T_96_190 T 24 47.5
+.point pin_T_96_192 T 24 48
+.point pin_T_97_8 T 24.25 2
+.point pin_T_97_9 T 24.25 2.25
+.point pin_T_97_10 T 24.25 2.5
+.point pin_T_97_66 T 24.25 16.5
+.point pin_T_97_71 T 24.25 17.75
+.point pin_T_97_74 T 24.25 18.5
+.point vdd_T_97_77 T 24.25 19.25
+.point pin_T_97_83 T 24.25 20.75
+.point pin_T_97_88 T 24.25 22
+.point pin_T_97_93 T 24.25 23.25
+.point pin_T_97_112 T 24.25 28
+.point pin_T_97_134 T 24.25 33.5
+.point pin_T_97_136 T 24.25 34
+.point pin_T_97_157 T 24.25 39.25
+.point pin_T_97_166 T 24.25 41.5
+.point pin_T_98_15 T 24.5 3.75
+.point pin_T_98_17 T 24.5 4.25
+.point pin_T_98_19 T 24.5 4.75
+.point pin_T_98_21 T 24.5 5.25
+.point pin_T_98_23 T 24.5 5.75
+.point pin_T_98_65 T 24.5 16.25
+.point pin_T_98_72 T 24.5 18
+.point pin_T_98_75 T 24.5 18.75
+.point pin_T_98_110 T 24.5 27.5
+.point pin_T_98_168 T 24.5 42
+.point pin_T_98_190 T 24.5 47.5
+.point pin_T_98_192 T 24.5 48
+.point pin_T_99_64 T 24.75 16
+.point pin_T_99_67 T 24.75 16.75
+.point pin_T_99_73 T 24.75 18.25
+.point pin_T_99_76 T 24.75 19
+.point pin_T_99_85 T 24.75 21.25
+.point pin_T_99_90 T 24.75 22.5
+.point pin_T_99_95 T 24.75 23.75
+.point pin_T_99_112 T 24.75 28
+.point pin_T_99_134 T 24.75 33.5
+.point pin_T_99_136 T 24.75 34
+.point pin_T_99_157 T 24.75 39.25
+.point pin_T_99_166 T 24.75 41.5
+.point pin_T_100_63 T 25 15.75
+.point pin_T_100_66 T 25 16.5
+.point gnd_T_100_74 T 25 18.5
+.point pin_T_100_77 T 25 19.25
+.point pin_T_100_110 T 25 27.5
+.point pin_T_100_168 T 25 42
+.point pin_T_100_190 T 25 47.5
+.point pin_T_100_192 T 25 48
+.point pin_T_101_32 T 25.25 8
+.point pin_T_101_34 T 25.25 8.5
+.point pin_T_101_36 T 25.25 9
+.point pin_T_101_38 T 25.25 9.5
+.point pin_T_101_40 T 25.25 10
+.point pin_T_101_42 T 25.25 10.5
+.point pin_T_101_44 T 25.25 11
+.point pin_T_101_46 T 25.25 11.5
+.point pin_T_101_48 T 25.25 12
+.point pin_T_101_50 T 25.25 12.5
+.point pin_T_101_65 T 25.25 16.25
+.point pin_T_101_73 T 25.25 18.25
+.point pin_T_101_76 T 25.25 19
+.point pin_T_101_85 T 25.25 21.25
+.point pin_T_101_90 T 25.25 22.5
+.point pin_T_101_95 T 25.25 23.75
+.point pin_T_101_112 T 25.25 28
+.point pin_T_101_134 T 25.25 33.5
+.point pin_T_101_136 T 25.25 34
+.point pin_T_101_157 T 25.25 39.25
+.point pin_T_101_166 T 25.25 41.5
+.point pin_T_102_15 T 25.5 3.75
+.point pin_T_102_17 T 25.5 4.25
+.point pin_T_102_19 T 25.5 4.75
+.point pin_T_102_21 T 25.5 5.25
+.point pin_T_102_23 T 25.5 5.75
+.point pin_T_102_64 T 25.5 16
+.point pin_T_102_67 T 25.5 16.75
+.point pin_T_102_72 T 25.5 18
+.point pin_T_102_75 T 25.5 18.75
+.point pin_T_102_110 T 25.5 27.5
+.point pin_T_102_168 T 25.5 42
+.point pin_T_102_190 T 25.5 47.5
+.point pin_T_102_192 T 25.5 48
+.point pin_T_103_50 T 25.75 12.5
+.point pin_T_103_63 T 25.75 15.75
+.point pin_T_103_66 T 25.75 16.5
+.point pin_T_103_71 T 25.75 17.75
+.point pin_T_103_74 T 25.75 18.5
+.point vdd_T_103_77 T 25.75 19.25
+.point pin_T_103_84 T 25.75 21
+.point pin_T_103_89 T 25.75 22.25
+.point pin_T_103_94 T 25.75 23.5
+.point pin_T_103_112 T 25.75 28
+.point pin_T_103_134 T 25.75 33.5
+.point pin_T_103_136 T 25.75 34
+.point pin_T_103_157 T 25.75 39.25
+.point pin_T_103_166 T 25.75 41.5
+.point pin_T_104_65 T 26 16.25
+.point pin_T_104_72 T 26 18
+.point pin_T_104_75 T 26 18.75
+.point pin_T_104_110 T 26 27.5
+.point pin_T_104_168 T 26 42
+.point pin_T_104_190 T 26 47.5
+.point pin_T_104_192 T 26 48
+.point pin_T_105_50 T 26.25 12.5
+.point pin_T_105_64 T 26.25 16
+.point pin_T_105_67 T 26.25 16.75
+.point pin_T_105_73 T 26.25 18.25
+.point pin_T_105_76 T 26.25 19
+.point pin_T_105_84 T 26.25 21
+.point pin_T_105_89 T 26.25 22.25
+.point pin_T_105_94 T 26.25 23.5
+.point pin_T_105_112 T 26.25 28
+.point pin_T_105_134 T 26.25 33.5
+.point pin_T_105_136 T 26.25 34
+.point pin_T_105_157 T 26.25 39.25
+.point pin_T_105_166 T 26.25 41.5
+.point pin_T_106_15 T 26.5 3.75
+.point pin_T_106_17 T 26.5 4.25
+.point pin_T_106_19 T 26.5 4.75
+.point pin_T_106_21 T 26.5 5.25
+.point pin_T_106_23 T 26.5 5.75
+.point pin_T_106_63 T 26.5 15.75
+.point pin_T_106_66 T 26.5 16.5
+.point gnd_T_106_74 T 26.5 18.5
+.point pin_T_106_77 T 26.5 19.25
+.point pin_T_106_110 T 26.5 27.5
+.point pin_T_106_168 T 26.5 42
+.point pin_T_106_190 T 26.5 47.5
+.point pin_T_106_192 T 26.5 48
+.point pin_T_107_50 T 26.75 12.5
+.point pin_T_107_65 T 26.75 16.25
+.point pin_T_107_73 T 26.75 18.25
+.point pin_T_107_76 T 26.75 19
+.point pin_T_107_84 T 26.75 21
+.point pin_T_107_89 T 26.75 22.25
+.point pin_T_107_94 T 26.75 23.5
+.point pin_T_107_112 T 26.75 28
+.point pin_T_107_134 T 26.75 33.5
+.point pin_T_107_136 T 26.75 34
+.point pin_T_107_140 T 26.75 35
+.point pin_T_107_157 T 26.75 39.25
+.point pin_T_107_166 T 26.75 41.5
+.point pin_T_108_64 T 27 16
+.point pin_T_108_72 T 27 18
+.point pin_T_108_75 T 27 18.75
+.point pin_T_108_110 T 27 27.5
+.point pin_T_108_168 T 27 42
+.point pin_T_108_190 T 27 47.5
+.point pin_T_108_192 T 27 48
+.point pin_T_109_50 T 27.25 12.5
+.point pin_T_109_63 T 27.25 15.75
+.point pin_T_109_71 T 27.25 17.75
+.point pin_T_109_74 T 27.25 18.5
+.point vdd_T_109_77 T 27.25 19.25
+.point pin_T_109_84 T 27.25 21
+.point pin_T_109_89 T 27.25 22.25
+.point pin_T_109_94 T 27.25 23.5
+.point pin_T_109_112 T 27.25 28
+.point pin_T_109_134 T 27.25 33.5
+.point pin_T_109_136 T 27.25 34
+.point pin_T_109_139 T 27.25 34.75
+.point pin_T_109_157 T 27.25 39.25
+.point pin_T_109_166 T 27.25 41.5
+.point gnd_T_110_15 T 27.5 3.75
+.point gnd_T_110_17 T 27.5 4.25
+.point gnd_T_110_19 T 27.5 4.75
+.point gnd_T_110_21 T 27.5 5.25
+.point gnd_T_110_23 T 27.5 5.75
+.point pin_T_110_72 T 27.5 18
+.point pin_T_110_75 T 27.5 18.75
+.point pin_T_110_110 T 27.5 27.5
+.point pin_T_110_168 T 27.5 42
+.point pin_T_110_190 T 27.5 47.5
+.point pin_T_110_192 T 27.5 48
+.point pin_T_111_50 T 27.75 12.5
+.point pin_T_111_73 T 27.75 18.25
+.point pin_T_111_76 T 27.75 19
+.point pin_T_111_83 T 27.75 20.75
+.point pin_T_111_88 T 27.75 22
+.point pin_T_111_93 T 27.75 23.25
+.point pin_T_111_110 T 27.75 27.5
+.point pin_T_111_112 T 27.75 28
+.point pin_T_111_114 T 27.75 28.5
+.point pin_T_111_116 T 27.75 29
+.point pin_T_111_118 T 27.75 29.5
+.point pin_T_111_120 T 27.75 30
+.point pin_T_111_122 T 27.75 30.5
+.point pin_T_111_124 T 27.75 31
+.point pin_T_111_126 T 27.75 31.5
+.point pin_T_111_128 T 27.75 32
+.point pin_T_111_130 T 27.75 32.5
+.point pin_T_111_132 T 27.75 33
+.point pin_T_111_134 T 27.75 33.5
+.point pin_T_111_136 T 27.75 34
+.point pin_T_111_166 T 27.75 41.5
+.point pin_T_112_67 T 28 16.75
+.point gnd_T_112_74 T 28 18.5
+.point pin_T_112_77 T 28 19.25
+.point pin_T_112_168 T 28 42
+.point pin_T_112_190 T 28 47.5
+.point pin_T_112_192 T 28 48
+.point pin_T_113_50 T 28.25 12.5
+.point pin_T_113_66 T 28.25 16.5
+.point pin_T_113_73 T 28.25 18.25
+.point pin_T_113_76 T 28.25 19
+.point pin_T_113_83 T 28.25 20.75
+.point pin_T_113_88 T 28.25 22
+.point pin_T_113_93 T 28.25 23.25
+.point pin_T_113_166 T 28.25 41.5
+.point pin_T_114_65 T 28.5 16.25
+.point pin_T_114_72 T 28.5 18
+.point pin_T_114_75 T 28.5 18.75
+.point pin_T_114_110 T 28.5 27.5
+.point pin_T_114_111 T 28.5 27.75
+.point pin_T_114_112 T 28.5 28
+.point pin_T_114_114 T 28.5 28.5
+.point pin_T_114_116 T 28.5 29
+.point pin_T_114_118 T 28.5 29.5
+.point pin_T_114_120 T 28.5 30
+.point pin_T_114_122 T 28.5 30.5
+.point pin_T_114_124 T 28.5 31
+.point pin_T_114_126 T 28.5 31.5
+.point pin_T_114_128 T 28.5 32
+.point pin_T_114_130 T 28.5 32.5
+.point pin_T_114_132 T 28.5 33
+.point pin_T_114_134 T 28.5 33.5
+.point pin_T_114_136 T 28.5 34
+.point pin_T_114_168 T 28.5 42
+.point pin_T_114_190 T 28.5 47.5
+.point pin_T_114_192 T 28.5 48
+.point pin_T_115_50 T 28.75 12.5
+.point pin_T_115_64 T 28.75 16
+.point pin_T_115_67 T 28.75 16.75
+.point pin_T_115_71 T 28.75 17.75
+.point pin_T_115_74 T 28.75 18.5
+.point vdd_T_115_77 T 28.75 19.25
+.point pin_T_115_85 T 28.75 21.25
+.point pin_T_115_90 T 28.75 22.5
+.point pin_T_115_95 T 28.75 23.75
+.point pin_T_115_166 T 28.75 41.5
+.point pin_T_116_63 T 29 15.75
+.point pin_T_116_66 T 29 16.5
+.point pin_T_116_72 T 29 18
+.point pin_T_116_75 T 29 18.75
+.point pin_T_116_168 T 29 42
+.point pin_T_116_190 T 29 47.5
+.point pin_T_116_192 T 29 48
+.point pin_T_117_50 T 29.25 12.5
+.point pin_T_117_65 T 29.25 16.25
+.point pin_T_117_73 T 29.25 18.25
+.point pin_T_117_76 T 29.25 19
+.point pin_T_117_166 T 29.25 41.5
+.point pin_T_118_33 T 29.5 8.25
+.point pin_T_118_64 T 29.5 16
+.point pin_T_118_67 T 29.5 16.75
+.point gnd_T_118_74 T 29.5 18.5
+.point pin_T_118_77 T 29.5 19.25
+.point pin_T_118_85 T 29.5 21.25
+.point pin_T_118_90 T 29.5 22.5
+.point pin_T_118_95 T 29.5 23.75
+.point pin_T_118_168 T 29.5 42
+.point pin_T_118_190 T 29.5 47.5
+.point pin_T_118_192 T 29.5 48
+.point pin_T_119_50 T 29.75 12.5
+.point pin_T_119_63 T 29.75 15.75
+.point pin_T_119_66 T 29.75 16.5
+.point pin_T_119_73 T 29.75 18.25
+.point pin_T_119_76 T 29.75 19
+.point pin_T_119_166 T 29.75 41.5
+.point pin_T_120_32 T 30 8
+.point pin_T_120_65 T 30 16.25
+.point pin_T_120_72 T 30 18
+.point pin_T_120_75 T 30 18.75
+.point pin_T_120_84 T 30 21
+.point pin_T_120_89 T 30 22.25
+.point pin_T_120_94 T 30 23.5
+.point pin_T_120_166 T 30 41.5
+.point pin_T_120_168 T 30 42
+.point pin_T_120_170 T 30 42.5
+.point pin_T_120_172 T 30 43
+.point pin_T_120_174 T 30 43.5
+.point pin_T_120_176 T 30 44
+.point pin_T_120_178 T 30 44.5
+.point pin_T_120_180 T 30 45
+.point pin_T_120_182 T 30 45.5
+.point pin_T_120_184 T 30 46
+.point pin_T_120_186 T 30 46.5
+.point pin_T_120_188 T 30 47
+.point pin_T_120_190 T 30 47.5
+.point pin_T_120_192 T 30 48
+.point pin_T_121_64 T 30.25 16
+.point pin_T_121_67 T 30.25 16.75
+.point pin_T_121_71 T 30.25 17.75
+.point pin_T_121_74 T 30.25 18.5
+.point pin_T_122_63 T 30.5 15.75
+.point pin_T_122_66 T 30.5 16.5
+.point pin_T_122_84 T 30.5 21
+.point pin_T_122_89 T 30.5 22.25
+.point pin_T_122_94 T 30.5 23.5
+.point pin_T_123_65 T 30.75 16.25
+.point pin_T_123_72 T 30.75 18
+.point pin_T_123_73 T 30.75 18.25
+.point pin_T_123_74 T 30.75 18.5
+.point pin_T_123_75 T 30.75 18.75
+.point pin_T_123_76 T 30.75 19
+.point pin_T_123_77 T 30.75 19.25
+.point pin_T_123_78 T 30.75 19.5
+.point pin_T_123_166 T 30.75 41.5
+.point pin_T_123_167 T 30.75 41.75
+.point pin_T_123_168 T 30.75 42
+.point pin_T_123_170 T 30.75 42.5
+.point pin_T_123_172 T 30.75 43
+.point pin_T_123_174 T 30.75 43.5
+.point pin_T_123_176 T 30.75 44
+.point pin_T_123_178 T 30.75 44.5
+.point pin_T_123_180 T 30.75 45
+.point pin_T_123_182 T 30.75 45.5
+.point pin_T_123_184 T 30.75 46
+.point pin_T_123_186 T 30.75 46.5
+.point pin_T_123_188 T 30.75 47
+.point pin_T_123_190 T 30.75 47.5
+.point pin_T_123_192 T 30.75 48
+.point pin_T_124_64 T 31 16
+.point pin_T_124_71 T 31 17.75
+.point pin_T_124_72 T 31 18
+.point pin_T_124_73 T 31 18.25
+.point pin_T_124_74 T 31 18.5
+.point pin_T_124_75 T 31 18.75
+.point pin_T_124_76 T 31 19
+.point pin_T_124_77 T 31 19.25
+.point pin_T_124_78 T 31 19.5
+.point pin_T_124_84 T 31 21
+.point pin_T_124_89 T 31 22.25
+.point pin_T_124_94 T 31 23.5
+.point pin_T_125_63 T 31.25 15.75
+.point pin_T_125_71 T 31.25 17.75
+.point pin_T_125_72 T 31.25 18
+.point pin_T_125_73 T 31.25 18.25
+.point pin_T_125_74 T 31.25 18.5
+.point pin_T_125_75 T 31.25 18.75
+.point pin_T_125_76 T 31.25 19
+.point pin_T_125_77 T 31.25 19.25
+.point pin_T_125_78 T 31.25 19.5
+.point pin_T_127_74 T 31.75 18.5
+.point pin_T_127_77 T 31.75 19.25
+.point pin_T_127_84 T 31.75 21
+.point pin_T_127_89 T 31.75 22.25
+.point pin_T_127_94 T 31.75 23.5
+.point pin_T_128_67 T 32 16.75
+.point pin_T_128_73 T 32 18.25
+.point pin_T_128_76 T 32 19
+.point pin_T_129_66 T 32.25 16.5
+.point pin_T_129_72 T 32.25 18
+.point pin_T_129_75 T 32.25 18.75
+.point pin_T_129_83 T 32.25 20.75
+.point pin_T_129_88 T 32.25 22
+.point pin_T_129_93 T 32.25 23.25
+.point pin_T_130_32 T 32.5 8
+.point pin_T_130_34 T 32.5 8.5
+.point pin_T_130_36 T 32.5 9
+.point pin_T_130_38 T 32.5 9.5
+.point pin_T_130_40 T 32.5 10
+.point pin_T_130_42 T 32.5 10.5
+.point pin_T_130_44 T 32.5 11
+.point pin_T_130_46 T 32.5 11.5
+.point pin_T_130_48 T 32.5 12
+.point pin_T_130_50 T 32.5 12.5
+.point pin_T_130_65 T 32.5 16.25
+.point pin_T_130_71 T 32.5 17.75
+.point pin_T_130_74 T 32.5 18.5
+.point vdd_T_130_77 T 32.5 19.25
+.point pin_T_131_64 T 32.75 16
+.point pin_T_131_67 T 32.75 16.75
+.point pin_T_131_72 T 32.75 18
+.point pin_T_131_75 T 32.75 18.75
+.point pin_T_131_83 T 32.75 20.75
+.point pin_T_131_88 T 32.75 22
+.point pin_T_131_93 T 32.75 23.25
+.point pin_T_132_50 T 33 12.5
+.point pin_T_132_63 T 33 15.75
+.point pin_T_132_66 T 33 16.5
+.point pin_T_132_73 T 33 18.25
+.point pin_T_132_76 T 33 19
+.point pin_T_133_65 T 33.25 16.25
+.point gnd_T_133_74 T 33.25 18.5
+.point pin_T_133_77 T 33.25 19.25
+.point pin_T_133_85 T 33.25 21.25
+.point pin_T_133_90 T 33.25 22.5
+.point pin_T_133_95 T 33.25 23.75
+.point pin_T_134_50 T 33.5 12.5
+.point pin_T_134_64 T 33.5 16
+.point pin_T_134_67 T 33.5 16.75
+.point pin_T_134_73 T 33.5 18.25
+.point pin_T_134_76 T 33.5 19
+.point pin_T_135_63 T 33.75 15.75
+.point pin_T_135_66 T 33.75 16.5
+.point pin_T_135_72 T 33.75 18
+.point pin_T_135_75 T 33.75 18.75
+.point pin_T_135_85 T 33.75 21.25
+.point pin_T_135_90 T 33.75 22.5
+.point pin_T_135_95 T 33.75 23.75
+.point pin_T_136_50 T 34 12.5
+.point pin_T_136_65 T 34 16.25
+.point pin_T_136_71 T 34 17.75
+.point pin_T_136_74 T 34 18.5
+.point vdd_T_136_77 T 34 19.25
+.point pin_T_137_64 T 34.25 16
+.point pin_T_137_67 T 34.25 16.75
+.point pin_T_137_72 T 34.25 18
+.point pin_T_137_75 T 34.25 18.75
+.point pin_T_137_84 T 34.25 21
+.point pin_T_137_89 T 34.25 22.25
+.point pin_T_137_94 T 34.25 23.5
+.point pin_T_138_50 T 34.5 12.5
+.point pin_T_138_63 T 34.5 15.75
+.point pin_T_138_66 T 34.5 16.5
+.point pin_T_138_73 T 34.5 18.25
+.point pin_T_138_76 T 34.5 19
+.point pin_T_139_65 T 34.75 16.25
+.point gnd_T_139_74 T 34.75 18.5
+.point pin_T_139_77 T 34.75 19.25
+.point pin_T_139_84 T 34.75 21
+.point pin_T_139_89 T 34.75 22.25
+.point pin_T_139_94 T 34.75 23.5
+.point pin_T_140_50 T 35 12.5
+.point pin_T_140_64 T 35 16
+.point pin_T_140_73 T 35 18.25
+.point pin_T_140_76 T 35 19
+.point pin_T_141_63 T 35.25 15.75
+.point pin_T_141_72 T 35.25 18
+.point pin_T_141_75 T 35.25 18.75
+.point pin_T_141_84 T 35.25 21
+.point pin_T_141_89 T 35.25 22.25
+.point pin_T_141_94 T 35.25 23.5
+.point pin_T_142_50 T 35.5 12.5
+.point pin_T_142_71 T 35.5 17.75
+.point pin_T_142_74 T 35.5 18.5
+.point vdd_T_142_77 T 35.5 19.25
+.point pin_T_143_72 T 35.75 18
+.point pin_T_143_75 T 35.75 18.75
+.point pin_T_143_84 T 35.75 21
+.point pin_T_143_89 T 35.75 22.25
+.point pin_T_143_94 T 35.75 23.5
+.point pin_T_144_50 T 36 12.5
+.point pin_T_144_73 T 36 18.25
+.point pin_T_144_76 T 36 19
+.point gnd_T_145_74 T 36.25 18.5
+.point pin_T_145_77 T 36.25 19.25
+.point pin_T_145_83 T 36.25 20.75
+.point pin_T_145_88 T 36.25 22
+.point pin_T_145_93 T 36.25 23.25
+.point pin_T_146_33 T 36.5 8.25
+.point pin_T_146_50 T 36.5 12.5
+.point pin_T_146_73 T 36.5 18.25
+.point pin_T_146_76 T 36.5 19
+.point pin_T_147_72 T 36.75 18
+.point pin_T_147_75 T 36.75 18.75
+.point pin_T_147_83 T 36.75 20.75
+.point pin_T_147_88 T 36.75 22
+.point pin_T_147_93 T 36.75 23.25
+.point pin_T_148_32 T 37 8
+.point pin_T_148_50 T 37 12.5
+.point pin_T_148_71 T 37 17.75
+.point pin_T_148_74 T 37 18.5
+.point vdd_T_148_77 T 37 19.25
+.point pin_T_149_72 T 37.25 18
+.point pin_T_149_75 T 37.25 18.75
+.point pin_T_149_85 T 37.25 21.25
+.point pin_T_149_90 T 37.25 22.5
+.point pin_T_149_95 T 37.25 23.75
+.point pin_T_150_73 T 37.5 18.25
+.point pin_T_150_76 T 37.5 19
+.point gnd_T_151_74 T 37.75 18.5
+.point pin_T_151_77 T 37.75 19.25
+.point pin_T_151_85 T 37.75 21.25
+.point pin_T_151_90 T 37.75 22.5
+.point pin_T_151_95 T 37.75 23.75
+.point pin_T_152_73 T 38 18.25
+.point pin_T_152_76 T 38 19
+.point pin_T_153_72 T 38.25 18
+.point pin_T_153_75 T 38.25 18.75
+.point pin_T_153_84 T 38.25 21
+.point pin_T_153_89 T 38.25 22.25
+.point pin_T_153_94 T 38.25 23.5
+.point pin_T_154_71 T 38.5 17.75
+.point pin_T_154_74 T 38.5 18.5
+.point vdd_T_154_77 T 38.5 19.25
+.point pin_T_155_72 T 38.75 18
+.point pin_T_155_75 T 38.75 18.75
+.point pin_T_155_84 T 38.75 21
+.point pin_T_155_89 T 38.75 22.25
+.point pin_T_155_94 T 38.75 23.5
+.point pin_T_156_73 T 39 18.25
+.point pin_T_156_76 T 39 19
+.point gnd_T_157_74 T 39.25 18.5
+.point pin_T_157_77 T 39.25 19.25
+.point pin_T_157_84 T 39.25 21
+.point pin_T_157_89 T 39.25 22.25
+.point pin_T_157_94 T 39.25 23.5
+.point pin_T_158_73 T 39.5 18.25
+.point pin_T_158_76 T 39.5 19
+.point pin_T_159_72 T 39.75 18
+.point pin_T_159_75 T 39.75 18.75
+.point pin_T_159_84 T 39.75 21
+.point pin_T_159_89 T 39.75 22.25
+.point pin_T_159_94 T 39.75 23.5
+.point pin_T_160_71 T 40 17.75
+.point pin_T_160_74 T 40 18.5
+.point vdd_T_160_77 T 40 19.25
+.point pin_T_161_72 T 40.25 18
+.point pin_T_161_75 T 40.25 18.75
+.point pin_T_161_83 T 40.25 20.75
+.point pin_T_161_88 T 40.25 22
+.point pin_T_161_93 T 40.25 23.25
+.point pin_T_162_73 T 40.5 18.25
+.point pin_T_162_76 T 40.5 19
+.point gnd_T_163_74 T 40.75 18.5
+.point pin_T_163_77 T 40.75 19.25
+.point pin_T_163_83 T 40.75 20.75
+.point pin_T_163_88 T 40.75 22
+.point pin_T_163_93 T 40.75 23.25
+.point pin_T_164_73 T 41 18.25
+.point pin_T_164_76 T 41 19
+.point pin_T_165_72 T 41.25 18
+.point pin_T_165_75 T 41.25 18.75
+.point pin_T_165_85 T 41.25 21.25
+.point pin_T_165_90 T 41.25 22.5
+.point pin_T_165_95 T 41.25 23.75
+.point pin_T_166_71 T 41.5 17.75
+.point pin_T_166_74 T 41.5 18.5
+.point vdd_T_166_77 T 41.5 19.25
+.point pin_T_167_72 T 41.75 18
+.point pin_T_167_75 T 41.75 18.75
+.point pin_T_167_85 T 41.75 21.25
+.point pin_T_167_90 T 41.75 22.5
+.point pin_T_167_95 T 41.75 23.75
+.point pin_T_168_73 T 42 18.25
+.point pin_T_168_76 T 42 19
+.point gnd_T_169_74 T 42.25 18.5
+.point pin_T_169_77 T 42.25 19.25
+.point pin_T_169_84 T 42.25 21
+.point pin_T_169_89 T 42.25 22.25
+.point pin_T_169_94 T 42.25 23.5
+.point pin_T_170_73 T 42.5 18.25
+.point pin_T_170_76 T 42.5 19
+.point pin_T_171_72 T 42.75 18
+.point pin_T_171_75 T 42.75 18.75
+.point pin_T_171_84 T 42.75 21
+.point pin_T_171_89 T 42.75 22.25
+.point pin_T_171_94 T 42.75 23.5
+.point pin_T_172_71 T 43 17.75
+.point pin_T_172_74 T 43 18.5
+.point pin_T_174_84 T 43.5 21
+.point pin_T_174_89 T 43.5 22.25
+.point pin_T_174_94 T 43.5 23.5
+.point pin_T_176_84 T 44 21
+.point pin_T_176_89 T 44 22.25
+.point pin_T_176_94 T 44 23.5
+.point pin_T_178_83 T 44.5 20.75
+.point pin_T_178_88 T 44.5 22
+.point pin_T_178_93 T 44.5 23.25
+.point pin_T_180_83 T 45 20.75
+.point pin_T_180_88 T 45 22
+.point pin_T_180_93 T 45 23.25
+.point pin_T_182_85 T 45.5 21.25
+.point pin_T_182_90 T 45.5 22.5
+.point pin_T_182_95 T 45.5 23.75
+.point pin_T_184_85 T 46 21.25
+.point pin_T_184_90 T 46 22.5
+.point pin_T_184_95 T 46 23.75
+.point gnd_T_186_84 T 46.5 21
+.point gnd_T_186_89 T 46.5 22.25
+.point gnd_T_186_94 T 46.5 23.5
+.point pin_B_1_121 B 0.25 30.25
+.point pin_B_1_131 B 0.25 32.75
+.point pin_B_2_9 B 0.5 2.25
+.point pin_B_2_13 B 0.5 3.25
+.point pin_B_2_122 B 0.5 30.5
+.point pin_B_2_130 B 0.5 32.5
+.point pin_B_3_7 B 0.75 1.75
+.point pin_B_3_10 B 0.75 2.5
+.point pin_B_3_12 B 0.75 3
+.point pin_B_3_19 B 0.75 4.75
+.point pin_B_3_123 B 0.75 30.75
+.point pin_B_3_129 B 0.75 32.25
+.point pin_B_4_8 B 1 2
+.point pin_B_4_124 B 1 31
+.point pin_B_4_128 B 1 32
+.point pin_B_5_6 B 1.25 1.5
+.point pin_B_5_9 B 1.25 2.25
+.point pin_B_5_11 B 1.25 2.75
+.point pin_B_5_12 B 1.25 3
+.point pin_B_5_125 B 1.25 31.25
+.point pin_B_5_127 B 1.25 31.75
+.point gnd_B_6_121 B 1.5 30.25
+.point pin_B_6_126 B 1.5 31.5
+.point vdd_B_6_131 B 1.5 32.75
+.point pin_B_7_5 B 1.75 1.25
+.point pin_B_7_8 B 1.75 2
+.point pin_B_7_11 B 1.75 2.75
+.point pin_B_7_13 B 1.75 3.25
+.point pin_B_7_125 B 1.75 31.25
+.point pin_B_7_127 B 1.75 31.75
+.point pin_B_8_7 B 2 1.75
+.point pin_B_8_9 B 2 2.25
+.point pin_B_8_124 B 2 31
+.point pin_B_8_128 B 2 32
+.point pin_B_9_10 B 2.25 2.5
+.point pin_B_9_12 B 2.25 3
+.point pin_B_9_123 B 2.25 30.75
+.point pin_B_9_129 B 2.25 32.25
+.point pin_B_10_122 B 2.5 30.5
+.point pin_B_10_130 B 2.5 32.5
+.point pin_B_11_121 B 2.75 30.25
+.point pin_B_11_131 B 2.75 32.75
+.point pin_B_12_12 B 3 3
+.point pin_B_12_14 B 3 3.5
+.point pin_B_13_13 B 3.25 3.25
+.point pin_B_13_121 B 3.25 30.25
+.point pin_B_13_122 B 3.25 30.5
+.point pin_B_13_123 B 3.25 30.75
+.point pin_B_13_124 B 3.25 31
+.point pin_B_13_125 B 3.25 31.25
+.point pin_B_13_126 B 3.25 31.5
+.point pin_B_13_127 B 3.25 31.75
+.point pin_B_13_128 B 3.25 32
+.point pin_B_13_129 B 3.25 32.25
+.point pin_B_13_130 B 3.25 32.5
+.point pin_B_13_131 B 3.25 32.75
+.point pin_B_14_12 B 3.5 3
+.point pin_B_14_14 B 3.5 3.5
+.point vdd_B_14_116 B 3.5 29
+.point pin_B_15_121 B 3.75 30.25
+.point pin_B_15_131 B 3.75 32.75
+.point pin_B_16_122 B 4 30.5
+.point pin_B_16_130 B 4 32.5
+.point pin_B_17_123 B 4.25 30.75
+.point pin_B_17_129 B 4.25 32.25
+.point pin_B_18_116 B 4.5 29
+.point pin_B_18_124 B 4.5 31
+.point pin_B_18_128 B 4.5 32
+.point pin_B_19_125 B 4.75 31.25
+.point pin_B_19_127 B 4.75 31.75
+.point gnd_B_20_121 B 5 30.25
+.point pin_B_20_126 B 5 31.5
+.point vdd_B_20_131 B 5 32.75
+.point pin_B_21_125 B 5.25 31.25
+.point pin_B_21_127 B 5.25 31.75
+.point pin_B_22_116 B 5.5 29
+.point pin_B_22_124 B 5.5 31
+.point pin_B_22_128 B 5.5 32
+.point pin_B_23_123 B 5.75 30.75
+.point pin_B_23_129 B 5.75 32.25
+.point pin_B_24_122 B 6 30.5
+.point pin_B_24_130 B 6 32.5
+.point pin_B_25_121 B 6.25 30.25
+.point pin_B_25_131 B 6.25 32.75
+.point pin_B_26_116 B 6.5 29
+.point pin_B_27_121 B 6.75 30.25
+.point pin_B_27_122 B 6.75 30.5
+.point pin_B_27_123 B 6.75 30.75
+.point pin_B_27_124 B 6.75 31
+.point pin_B_27_125 B 6.75 31.25
+.point pin_B_27_126 B 6.75 31.5
+.point pin_B_27_127 B 6.75 31.75
+.point pin_B_27_128 B 6.75 32
+.point pin_B_27_129 B 6.75 32.25
+.point pin_B_27_130 B 6.75 32.5
+.point pin_B_27_131 B 6.75 32.75
+.point pin_B_29_121 B 7.25 30.25
+.point pin_B_29_131 B 7.25 32.75
+.point pin_B_30_116 B 7.5 29
+.point pin_B_30_122 B 7.5 30.5
+.point pin_B_30_130 B 7.5 32.5
+.point pin_B_31_123 B 7.75 30.75
+.point pin_B_31_129 B 7.75 32.25
+.point pin_B_32_124 B 8 31
+.point pin_B_32_128 B 8 32
+.point pin_B_33_125 B 8.25 31.25
+.point pin_B_33_127 B 8.25 31.75
+.point pin_B_34_116 B 8.5 29
+.point gnd_B_34_121 B 8.5 30.25
+.point pin_B_34_126 B 8.5 31.5
+.point vdd_B_34_131 B 8.5 32.75
+.point pin_B_35_125 B 8.75 31.25
+.point pin_B_35_127 B 8.75 31.75
+.point pin_B_36_124 B 9 31
+.point pin_B_36_128 B 9 32
+.point pin_B_37_123 B 9.25 30.75
+.point pin_B_37_129 B 9.25 32.25
+.point pin_B_38_116 B 9.5 29
+.point pin_B_38_122 B 9.5 30.5
+.point pin_B_38_130 B 9.5 32.5
+.point pin_B_39_121 B 9.75 30.25
+.point pin_B_39_131 B 9.75 32.75
+.point pin_B_41_121 B 10.25 30.25
+.point pin_B_41_122 B 10.25 30.5
+.point pin_B_41_123 B 10.25 30.75
+.point pin_B_41_124 B 10.25 31
+.point pin_B_41_125 B 10.25 31.25
+.point pin_B_41_126 B 10.25 31.5
+.point pin_B_41_127 B 10.25 31.75
+.point pin_B_41_128 B 10.25 32
+.point pin_B_41_129 B 10.25 32.25
+.point pin_B_41_130 B 10.25 32.5
+.point pin_B_41_131 B 10.25 32.75
+.point pin_B_42_116 B 10.5 29
+.point pin_B_43_121 B 10.75 30.25
+.point pin_B_43_131 B 10.75 32.75
+.point pin_B_44_122 B 11 30.5
+.point pin_B_44_130 B 11 32.5
+.point pin_B_45_123 B 11.25 30.75
+.point pin_B_45_129 B 11.25 32.25
+.point pin_B_46_116 B 11.5 29
+.point pin_B_46_124 B 11.5 31
+.point pin_B_46_128 B 11.5 32
+.point pin_B_47_125 B 11.75 31.25
+.point pin_B_47_127 B 11.75 31.75
+.point gnd_B_48_121 B 12 30.25
+.point pin_B_48_126 B 12 31.5
+.point vdd_B_48_131 B 12 32.75
+.point pin_B_49_90 B 12.25 22.5
+.point vdd_B_49_94 B 12.25 23.5
+.point pin_B_49_98 B 12.25 24.5
+.point pin_B_49_125 B 12.25 31.25
+.point pin_B_49_127 B 12.25 31.75
+.point pin_B_50_9 B 12.5 2.25
+.point vdd_B_50_13 B 12.5 3.25
+.point pin_B_50_17 B 12.5 4.25
+.point gnd_B_50_50 B 12.5 12.5
+.point pin_B_50_52 B 12.5 13
+.point pin_B_50_54 B 12.5 13.5
+.point pin_B_50_56 B 12.5 14
+.point pin_B_50_58 B 12.5 14.5
+.point pin_B_50_60 B 12.5 15
+.point pin_B_50_62 B 12.5 15.5
+.point pin_B_50_64 B 12.5 16
+.point pin_B_50_69 B 12.5 17.25
+.point pin_B_50_71 B 12.5 17.75
+.point pin_B_50_73 B 12.5 18.25
+.point pin_B_50_75 B 12.5 18.75
+.point pin_B_50_77 B 12.5 19.25
+.point pin_B_50_79 B 12.5 19.75
+.point pin_B_50_81 B 12.5 20.25
+.point pin_B_50_83 B 12.5 20.75
+.point pin_B_50_91 B 12.5 22.75
+.point pin_B_50_97 B 12.5 24.25
+.point pin_B_50_116 B 12.5 29
+.point pin_B_50_124 B 12.5 31
+.point pin_B_50_128 B 12.5 32
+.point pin_B_51_10 B 12.75 2.5
+.point pin_B_51_16 B 12.75 4
+.point pin_B_51_92 B 12.75 23
+.point pin_B_51_96 B 12.75 24
+.point pin_B_51_123 B 12.75 30.75
+.point pin_B_51_129 B 12.75 32.25
+.point pin_B_52_11 B 13 2.75
+.point pin_B_52_15 B 13 3.75
+.point pin_B_52_50 B 13 12.5
+.point pin_B_52_52 B 13 13
+.point pin_B_52_54 B 13 13.5
+.point pin_B_52_56 B 13 14
+.point pin_B_52_58 B 13 14.5
+.point pin_B_52_60 B 13 15
+.point pin_B_52_62 B 13 15.5
+.point pin_B_52_64 B 13 16
+.point pin_B_52_69 B 13 17.25
+.point pin_B_52_71 B 13 17.75
+.point pin_B_52_73 B 13 18.25
+.point pin_B_52_75 B 13 18.75
+.point pin_B_52_77 B 13 19.25
+.point pin_B_52_79 B 13 19.75
+.point pin_B_52_81 B 13 20.25
+.point pin_B_52_83 B 13 20.75
+.point pin_B_52_93 B 13 23.25
+.point pin_B_52_95 B 13 23.75
+.point pin_B_52_122 B 13 30.5
+.point pin_B_52_130 B 13 32.5
+.point pin_B_53_12 B 13.25 3
+.point pin_B_53_14 B 13.25 3.5
+.point vdd_B_53_90 B 13.25 22.5
+.point pin_B_53_94 B 13.25 23.5
+.point gnd_B_53_98 B 13.25 24.5
+.point pin_B_53_121 B 13.25 30.25
+.point pin_B_53_131 B 13.25 32.75
+.point gnd_B_54_9 B 13.5 2.25
+.point pin_B_54_13 B 13.5 3.25
+.point vdd_B_54_17 B 13.5 4.25
+.point pin_B_54_50 B 13.5 12.5
+.point pin_B_54_52 B 13.5 13
+.point pin_B_54_54 B 13.5 13.5
+.point pin_B_54_56 B 13.5 14
+.point pin_B_54_58 B 13.5 14.5
+.point pin_B_54_60 B 13.5 15
+.point pin_B_54_62 B 13.5 15.5
+.point pin_B_54_64 B 13.5 16
+.point pin_B_54_69 B 13.5 17.25
+.point pin_B_54_71 B 13.5 17.75
+.point pin_B_54_73 B 13.5 18.25
+.point pin_B_54_75 B 13.5 18.75
+.point pin_B_54_77 B 13.5 19.25
+.point pin_B_54_79 B 13.5 19.75
+.point pin_B_54_81 B 13.5 20.25
+.point pin_B_54_83 B 13.5 20.75
+.point pin_B_54_93 B 13.5 23.25
+.point pin_B_54_95 B 13.5 23.75
+.point pin_B_54_116 B 13.5 29
+.point pin_B_55_12 B 13.75 3
+.point pin_B_55_14 B 13.75 3.5
+.point pin_B_55_92 B 13.75 23
+.point pin_B_55_96 B 13.75 24
+.point pin_B_56_11 B 14 2.75
+.point pin_B_56_15 B 14 3.75
+.point pin_B_56_50 B 14 12.5
+.point pin_B_56_52 B 14 13
+.point pin_B_56_54 B 14 13.5
+.point pin_B_56_56 B 14 14
+.point pin_B_56_58 B 14 14.5
+.point pin_B_56_60 B 14 15
+.point pin_B_56_62 B 14 15.5
+.point pin_B_56_64 B 14 16
+.point pin_B_56_69 B 14 17.25
+.point pin_B_56_71 B 14 17.75
+.point pin_B_56_73 B 14 18.25
+.point pin_B_56_75 B 14 18.75
+.point pin_B_56_77 B 14 19.25
+.point pin_B_56_79 B 14 19.75
+.point pin_B_56_81 B 14 20.25
+.point pin_B_56_83 B 14 20.75
+.point pin_B_56_91 B 14 22.75
+.point pin_B_56_97 B 14 24.25
+.point pin_B_57_10 B 14.25 2.5
+.point pin_B_57_16 B 14.25 4
+.point pin_B_57_90 B 14.25 22.5
+.point gnd_B_57_94 B 14.25 23.5
+.point pin_B_57_98 B 14.25 24.5
+.point pin_B_57_121 B 14.25 30.25
+.point pin_B_57_131 B 14.25 32.75
+.point pin_B_58_9 B 14.5 2.25
+.point gnd_B_58_13 B 14.5 3.25
+.point pin_B_58_17 B 14.5 4.25
+.point pin_B_58_50 B 14.5 12.5
+.point pin_B_58_52 B 14.5 13
+.point pin_B_58_54 B 14.5 13.5
+.point pin_B_58_56 B 14.5 14
+.point pin_B_58_58 B 14.5 14.5
+.point pin_B_58_60 B 14.5 15
+.point pin_B_58_62 B 14.5 15.5
+.point pin_B_58_64 B 14.5 16
+.point pin_B_58_69 B 14.5 17.25
+.point pin_B_58_71 B 14.5 17.75
+.point pin_B_58_73 B 14.5 18.25
+.point pin_B_58_75 B 14.5 18.75
+.point pin_B_58_77 B 14.5 19.25
+.point pin_B_58_79 B 14.5 19.75
+.point pin_B_58_81 B 14.5 20.25
+.point pin_B_58_83 B 14.5 20.75
+.point pin_B_58_116 B 14.5 29
+.point pin_B_58_122 B 14.5 30.5
+.point pin_B_58_130 B 14.5 32.5
+.point pin_B_59_123 B 14.75 30.75
+.point pin_B_59_129 B 14.75 32.25
+.point pin_B_60_50 B 15 12.5
+.point pin_B_60_52 B 15 13
+.point pin_B_60_54 B 15 13.5
+.point pin_B_60_56 B 15 14
+.point pin_B_60_58 B 15 14.5
+.point pin_B_60_60 B 15 15
+.point pin_B_60_62 B 15 15.5
+.point pin_B_60_64 B 15 16
+.point pin_B_60_69 B 15 17.25
+.point pin_B_60_71 B 15 17.75
+.point pin_B_60_73 B 15 18.25
+.point pin_B_60_75 B 15 18.75
+.point pin_B_60_77 B 15 19.25
+.point pin_B_60_79 B 15 19.75
+.point pin_B_60_81 B 15 20.25
+.point pin_B_60_83 B 15 20.75
+.point pin_B_60_124 B 15 31
+.point pin_B_60_128 B 15 32
+.point pin_B_61_125 B 15.25 31.25
+.point pin_B_61_127 B 15.25 31.75
+.point pin_B_62_50 B 15.5 12.5
+.point pin_B_62_52 B 15.5 13
+.point pin_B_62_54 B 15.5 13.5
+.point pin_B_62_56 B 15.5 14
+.point pin_B_62_58 B 15.5 14.5
+.point pin_B_62_60 B 15.5 15
+.point pin_B_62_62 B 15.5 15.5
+.point pin_B_62_64 B 15.5 16
+.point pin_B_62_69 B 15.5 17.25
+.point pin_B_62_71 B 15.5 17.75
+.point pin_B_62_73 B 15.5 18.25
+.point pin_B_62_75 B 15.5 18.75
+.point pin_B_62_77 B 15.5 19.25
+.point pin_B_62_79 B 15.5 19.75
+.point pin_B_62_81 B 15.5 20.25
+.point pin_B_62_83 B 15.5 20.75
+.point pin_B_62_116 B 15.5 29
+.point gnd_B_62_121 B 15.5 30.25
+.point pin_B_62_126 B 15.5 31.5
+.point vdd_B_62_131 B 15.5 32.75
+.point pin_B_63_125 B 15.75 31.25
+.point pin_B_63_127 B 15.75 31.75
+.point pin_B_64_50 B 16 12.5
+.point pin_B_64_52 B 16 13
+.point pin_B_64_54 B 16 13.5
+.point pin_B_64_56 B 16 14
+.point pin_B_64_58 B 16 14.5
+.point pin_B_64_60 B 16 15
+.point pin_B_64_62 B 16 15.5
+.point pin_B_64_64 B 16 16
+.point pin_B_64_69 B 16 17.25
+.point pin_B_64_71 B 16 17.75
+.point pin_B_64_73 B 16 18.25
+.point pin_B_64_75 B 16 18.75
+.point pin_B_64_77 B 16 19.25
+.point pin_B_64_79 B 16 19.75
+.point pin_B_64_81 B 16 20.25
+.point pin_B_64_83 B 16 20.75
+.point pin_B_64_124 B 16 31
+.point pin_B_64_128 B 16 32
+.point pin_B_65_123 B 16.25 30.75
+.point pin_B_65_129 B 16.25 32.25
+.point pin_B_66_50 B 16.5 12.5
+.point pin_B_66_52 B 16.5 13
+.point pin_B_66_54 B 16.5 13.5
+.point pin_B_66_56 B 16.5 14
+.point pin_B_66_58 B 16.5 14.5
+.point pin_B_66_60 B 16.5 15
+.point pin_B_66_62 B 16.5 15.5
+.point pin_B_66_64 B 16.5 16
+.point pin_B_66_69 B 16.5 17.25
+.point pin_B_66_71 B 16.5 17.75
+.point pin_B_66_73 B 16.5 18.25
+.point pin_B_66_75 B 16.5 18.75
+.point pin_B_66_77 B 16.5 19.25
+.point pin_B_66_79 B 16.5 19.75
+.point pin_B_66_81 B 16.5 20.25
+.point pin_B_66_83 B 16.5 20.75
+.point pin_B_66_116 B 16.5 29
+.point pin_B_66_122 B 16.5 30.5
+.point pin_B_66_130 B 16.5 32.5
+.point pin_B_67_121 B 16.75 30.25
+.point pin_B_67_131 B 16.75 32.75
+.point pin_B_68_50 B 17 12.5
+.point pin_B_68_52 B 17 13
+.point pin_B_68_54 B 17 13.5
+.point pin_B_68_56 B 17 14
+.point pin_B_68_58 B 17 14.5
+.point pin_B_68_60 B 17 15
+.point pin_B_68_62 B 17 15.5
+.point pin_B_68_64 B 17 16
+.point pin_B_68_69 B 17 17.25
+.point pin_B_68_71 B 17 17.75
+.point pin_B_68_73 B 17 18.25
+.point pin_B_68_75 B 17 18.75
+.point pin_B_68_77 B 17 19.25
+.point pin_B_68_79 B 17 19.75
+.point pin_B_68_81 B 17 20.25
+.point pin_B_68_83 B 17 20.75
+.point pin_B_69_121 B 17.25 30.25
+.point pin_B_69_122 B 17.25 30.5
+.point pin_B_69_123 B 17.25 30.75
+.point pin_B_69_124 B 17.25 31
+.point pin_B_69_125 B 17.25 31.25
+.point pin_B_69_126 B 17.25 31.5
+.point pin_B_69_127 B 17.25 31.75
+.point pin_B_69_128 B 17.25 32
+.point pin_B_69_129 B 17.25 32.25
+.point pin_B_69_130 B 17.25 32.5
+.point pin_B_69_131 B 17.25 32.75
+.point pin_B_70_50 B 17.5 12.5
+.point pin_B_70_52 B 17.5 13
+.point pin_B_70_54 B 17.5 13.5
+.point pin_B_70_56 B 17.5 14
+.point pin_B_70_58 B 17.5 14.5
+.point pin_B_70_60 B 17.5 15
+.point pin_B_70_62 B 17.5 15.5
+.point pin_B_70_64 B 17.5 16
+.point pin_B_70_69 B 17.5 17.25
+.point pin_B_70_71 B 17.5 17.75
+.point pin_B_70_73 B 17.5 18.25
+.point pin_B_70_75 B 17.5 18.75
+.point pin_B_70_77 B 17.5 19.25
+.point pin_B_70_79 B 17.5 19.75
+.point pin_B_70_81 B 17.5 20.25
+.point pin_B_70_83 B 17.5 20.75
+.point pin_B_70_116 B 17.5 29
+.point pin_B_71_121 B 17.75 30.25
+.point pin_B_71_131 B 17.75 32.75
+.point pin_B_72_50 B 18 12.5
+.point pin_B_72_52 B 18 13
+.point pin_B_72_54 B 18 13.5
+.point pin_B_72_56 B 18 14
+.point pin_B_72_58 B 18 14.5
+.point pin_B_72_60 B 18 15
+.point pin_B_72_62 B 18 15.5
+.point pin_B_72_64 B 18 16
+.point pin_B_72_69 B 18 17.25
+.point pin_B_72_71 B 18 17.75
+.point pin_B_72_73 B 18 18.25
+.point pin_B_72_75 B 18 18.75
+.point pin_B_72_77 B 18 19.25
+.point pin_B_72_79 B 18 19.75
+.point pin_B_72_81 B 18 20.25
+.point pin_B_72_83 B 18 20.75
+.point pin_B_72_122 B 18 30.5
+.point pin_B_72_130 B 18 32.5
+.point pin_B_73_123 B 18.25 30.75
+.point pin_B_73_129 B 18.25 32.25
+.point pin_B_74_50 B 18.5 12.5
+.point pin_B_74_52 B 18.5 13
+.point pin_B_74_54 B 18.5 13.5
+.point pin_B_74_56 B 18.5 14
+.point pin_B_74_58 B 18.5 14.5
+.point pin_B_74_60 B 18.5 15
+.point pin_B_74_62 B 18.5 15.5
+.point pin_B_74_64 B 18.5 16
+.point pin_B_74_69 B 18.5 17.25
+.point pin_B_74_71 B 18.5 17.75
+.point pin_B_74_73 B 18.5 18.25
+.point pin_B_74_75 B 18.5 18.75
+.point pin_B_74_77 B 18.5 19.25
+.point pin_B_74_79 B 18.5 19.75
+.point pin_B_74_81 B 18.5 20.25
+.point vdd_B_74_83 B 18.5 20.75
+.point pin_B_74_116 B 18.5 29
+.point pin_B_74_124 B 18.5 31
+.point pin_B_74_128 B 18.5 32
+.point pin_B_75_125 B 18.75 31.25
+.point pin_B_75_127 B 18.75 31.75
+.point gnd_B_76_121 B 19 30.25
+.point pin_B_76_126 B 19 31.5
+.point vdd_B_76_131 B 19 32.75
+.point pin_B_77_125 B 19.25 31.25
+.point pin_B_77_127 B 19.25 31.75
+.point pin_B_78_116 B 19.5 29
+.point pin_B_78_124 B 19.5 31
+.point pin_B_78_128 B 19.5 32
+.point pin_B_79_48 B 19.75 12
+.point pin_B_79_123 B 19.75 30.75
+.point pin_B_79_129 B 19.75 32.25
+.point pin_B_80_33 B 20 8.25
+.point pin_B_80_36 B 20 9
+.point pin_B_80_47 B 20 11.75
+.point pin_B_80_50 B 20 12.5
+.point pin_B_80_61 B 20 15.25
+.point pin_B_80_73 B 20 18.25
+.point pin_B_80_122 B 20 30.5
+.point pin_B_80_130 B 20 32.5
+.point pin_B_81_33 B 20.25 8.25
+.point pin_B_81_38 B 20.25 9.5
+.point pin_B_81_52 B 20.25 13
+.point pin_B_81_60 B 20.25 15
+.point pin_B_81_64 B 20.25 16
+.point pin_B_81_72 B 20.25 18
+.point pin_B_81_75 B 20.25 18.75
+.point pin_B_81_121 B 20.25 30.25
+.point pin_B_81_131 B 20.25 32.75
+.point pin_B_82_33 B 20.5 8.25
+.point pin_B_82_40 B 20.5 10
+.point pin_B_82_46 B 20.5 11.5
+.point pin_B_82_55 B 20.5 13.75
+.point pin_B_82_57 B 20.5 14.25
+.point pin_B_82_59 B 20.5 14.75
+.point pin_B_82_66 B 20.5 16.5
+.point pin_B_82_68 B 20.5 17
+.point pin_B_82_70 B 20.5 17.5
+.point pin_B_82_76 B 20.5 19
+.point pin_B_82_116 B 20.5 29
+.point pin_B_83_33 B 20.75 8.25
+.point pin_B_83_42 B 20.75 10.5
+.point pin_B_83_45 B 20.75 11.25
+.point pin_B_83_78 B 20.75 19.5
+.point pin_B_83_121 B 20.75 30.25
+.point pin_B_83_122 B 20.75 30.5
+.point pin_B_83_123 B 20.75 30.75
+.point pin_B_83_124 B 20.75 31
+.point pin_B_83_125 B 20.75 31.25
+.point pin_B_83_126 B 20.75 31.5
+.point pin_B_83_127 B 20.75 31.75
+.point pin_B_83_128 B 20.75 32
+.point pin_B_83_129 B 20.75 32.25
+.point pin_B_83_130 B 20.75 32.5
+.point pin_B_83_131 B 20.75 32.75
+.point pin_B_84_33 B 21 8.25
+.point pin_B_84_38 B 21 9.5
+.point pin_B_84_44 B 21 11
+.point pin_B_84_62 B 21 15.5
+.point pin_B_84_65 B 21 16.25
+.point pin_B_84_80 B 21 20
+.point pin_B_85_33 B 21.25 8.25
+.point pin_B_85_80 B 21.25 20
+.point pin_B_85_121 B 21.25 30.25
+.point pin_B_85_131 B 21.25 32.75
+.point pin_B_86_33 B 21.5 8.25
+.point pin_B_86_62 B 21.5 15.5
+.point pin_B_86_65 B 21.5 16.25
+.point pin_B_86_74 B 21.5 18.5
+.point pin_B_86_80 B 21.5 20
+.point pin_B_86_116 B 21.5 29
+.point pin_B_86_122 B 21.5 30.5
+.point pin_B_86_130 B 21.5 32.5
+.point pin_B_87_33 B 21.75 8.25
+.point pin_B_87_35 B 21.75 8.75
+.point pin_B_87_123 B 21.75 30.75
+.point pin_B_87_129 B 21.75 32.25
+.point pin_B_88_36 B 22 9
+.point pin_B_88_37 B 22 9.25
+.point pin_B_88_43 B 22 10.75
+.point vdd_B_88_49 B 22 12.25
+.point gnd_B_88_55 B 22 13.75
+.point pin_B_88_72 B 22 18
+.point pin_B_88_74 B 22 18.5
+.point pin_B_88_80 B 22 20
+.point pin_B_88_81 B 22 20.25
+.point pin_B_88_124 B 22 31
+.point pin_B_88_128 B 22 32
+.point pin_B_89_36 B 22.25 9
+.point pin_B_89_81 B 22.25 20.25
+.point pin_B_89_125 B 22.25 31.25
+.point pin_B_89_127 B 22.25 31.75
+.point pin_B_90_37 B 22.5 9.25
+.point pin_B_90_38 B 22.5 9.5
+.point pin_B_90_39 B 22.5 9.75
+.point pin_B_90_80 B 22.5 20
+.point pin_B_90_81 B 22.5 20.25
+.point pin_B_90_116 B 22.5 29
+.point gnd_B_90_121 B 22.5 30.25
+.point pin_B_90_126 B 22.5 31.5
+.point vdd_B_90_131 B 22.5 32.75
+.point pin_B_91_36 B 22.75 9
+.point pin_B_91_80 B 22.75 20
+.point pin_B_91_125 B 22.75 31.25
+.point pin_B_91_127 B 22.75 31.75
+.point pin_B_92_36 B 23 9
+.point pin_B_92_44 B 23 11
+.point pin_B_92_69 B 23 17.25
+.point pin_B_92_80 B 23 20
+.point pin_B_92_81 B 23 20.25
+.point pin_B_92_124 B 23 31
+.point pin_B_92_128 B 23 32
+.point pin_B_93_36 B 23.25 9
+.point pin_B_93_50 B 23.25 12.5
+.point pin_B_93_68 B 23.25 17
+.point pin_B_93_71 B 23.25 17.75
+.point pin_B_93_81 B 23.25 20.25
+.point pin_B_93_123 B 23.25 30.75
+.point pin_B_93_129 B 23.25 32.25
+.point pin_B_94_35 B 23.5 8.75
+.point pin_B_94_36 B 23.5 9
+.point pin_B_94_37 B 23.5 9.25
+.point pin_B_94_38 B 23.5 9.5
+.point pin_B_94_39 B 23.5 9.75
+.point pin_B_94_40 B 23.5 10
+.point pin_B_94_41 B 23.5 10.25
+.point pin_B_94_43 B 23.5 10.75
+.point pin_B_94_49 B 23.5 12.25
+.point pin_B_94_52 B 23.5 13
+.point pin_B_94_67 B 23.5 16.75
+.point pin_B_94_73 B 23.5 18.25
+.point pin_B_94_116 B 23.5 29
+.point pin_B_94_122 B 23.5 30.5
+.point pin_B_94_130 B 23.5 32.5
+.point pin_B_95_41 B 23.75 10.25
+.point pin_B_95_42 B 23.75 10.5
+.point pin_B_95_48 B 23.75 12
+.point pin_B_95_53 B 23.75 13.25
+.point pin_B_95_63 B 23.75 15.75
+.point pin_B_95_65 B 23.75 16.25
+.point pin_B_95_75 B 23.75 18.75
+.point pin_B_95_77 B 23.75 19.25
+.point pin_B_95_121 B 23.75 30.25
+.point pin_B_95_131 B 23.75 32.75
+.point pin_B_96_36 B 24 9
+.point pin_B_96_37 B 24 9.25
+.point pin_B_96_44 B 24 11
+.point pin_B_96_55 B 24 13.75
+.point pin_B_96_62 B 24 15.5
+.point pin_B_96_79 B 24 19.75
+.point pin_B_97_37 B 24.25 9.25
+.point pin_B_97_45 B 24.25 11.25
+.point pin_B_97_47 B 24.25 11.75
+.point vdd_B_97_51 B 24.25 12.75
+.point pin_B_97_57 B 24.25 14.25
+.point pin_B_97_61 B 24.25 15.25
+.point gnd_B_97_69 B 24.25 17.25
+.point pin_B_97_80 B 24.25 20
+.point pin_B_97_121 B 24.25 30.25
+.point pin_B_97_122 B 24.25 30.5
+.point pin_B_97_123 B 24.25 30.75
+.point pin_B_97_124 B 24.25 31
+.point pin_B_97_125 B 24.25 31.25
+.point pin_B_97_126 B 24.25 31.5
+.point pin_B_97_127 B 24.25 31.75
+.point pin_B_97_128 B 24.25 32
+.point pin_B_97_129 B 24.25 32.25
+.point pin_B_97_130 B 24.25 32.5
+.point pin_B_97_131 B 24.25 32.75
+.point pin_B_98_37 B 24.5 9.25
+.point pin_B_98_38 B 24.5 9.5
+.point pin_B_98_46 B 24.5 11.5
+.point pin_B_98_59 B 24.5 14.75
+.point pin_B_98_80 B 24.5 20
+.point pin_B_98_81 B 24.5 20.25
+.point pin_B_98_116 B 24.5 29
+.point pin_B_99_34 B 24.75 8.5
+.point pin_B_99_56 B 24.75 14
+.point pin_B_99_64 B 24.75 16
+.point pin_B_99_121 B 24.75 30.25
+.point pin_B_99_131 B 24.75 32.75
+.point pin_B_100_122 B 25 30.5
+.point pin_B_100_130 B 25 32.5
+.point vdd_B_101_36 B 25.25 9
+.point vdd_B_101_49 B 25.25 12.25
+.point vdd_B_101_58 B 25.25 14.5
+.point pin_B_101_73 B 25.25 18.25
+.point pin_B_101_75 B 25.25 18.75
+.point pin_B_101_123 B 25.25 30.75
+.point pin_B_101_129 B 25.25 32.25
+.point pin_B_102_116 B 25.5 29
+.point pin_B_102_124 B 25.5 31
+.point pin_B_102_128 B 25.5 32
+.point vdd_B_103_33 B 25.75 8.25
+.point gnd_B_103_58 B 25.75 14.5
+.point pin_B_103_73 B 25.75 18.25
+.point pin_B_103_76 B 25.75 19
+.point pin_B_103_125 B 25.75 31.25
+.point pin_B_103_127 B 25.75 31.75
+.point vdd_B_104_62 B 26 15.5
+.point gnd_B_104_121 B 26 30.25
+.point pin_B_104_126 B 26 31.5
+.point vdd_B_104_131 B 26 32.75
+.point gnd_B_105_69 B 26.25 17.25
+.point pin_B_105_73 B 26.25 18.25
+.point pin_B_105_76 B 26.25 19
+.point pin_B_105_80 B 26.25 20
+.point pin_B_105_125 B 26.25 31.25
+.point pin_B_105_127 B 26.25 31.75
+.point gnd_B_106_49 B 26.5 12.25
+.point gnd_B_106_71 B 26.5 17.75
+.point gnd_B_106_78 B 26.5 19.5
+.point pin_B_106_116 B 26.5 29
+.point pin_B_106_124 B 26.5 31
+.point pin_B_106_128 B 26.5 32
+.point gnd_B_107_42 B 26.75 10.5
+.point pin_B_107_69 B 26.75 17.25
+.point pin_B_107_75 B 26.75 18.75
+.point pin_B_107_123 B 26.75 30.75
+.point pin_B_107_129 B 26.75 32.25
+.point vdd_B_108_60 B 27 15
+.point pin_B_108_73 B 27 18.25
+.point pin_B_108_77 B 27 19.25
+.point pin_B_108_79 B 27 19.75
+.point pin_B_108_122 B 27 30.5
+.point pin_B_108_130 B 27 32.5
+.point gnd_B_109_33 B 27.25 8.25
+.point pin_B_109_35 B 27.25 8.75
+.point pin_B_109_44 B 27.25 11
+.point pin_B_109_53 B 27.25 13.25
+.point pin_B_109_57 B 27.25 14.25
+.point vdd_B_109_62 B 27.25 15.5
+.point vdd_B_109_75 B 27.25 18.75
+.point pin_B_109_121 B 27.25 30.25
+.point pin_B_109_131 B 27.25 32.75
+.point pin_B_110_41 B 27.5 10.25
+.point pin_B_110_47 B 27.5 11.75
+.point gnd_B_110_49 B 27.5 12.25
+.point pin_B_110_51 B 27.5 12.75
+.point pin_B_110_59 B 27.5 14.75
+.point pin_B_110_66 B 27.5 16.5
+.point gnd_B_110_71 B 27.5 17.75
+.point pin_B_110_116 B 27.5 29
+.point pin_B_111_34 B 27.75 8.5
+.point pin_B_111_36 B 27.75 9
+.point gnd_B_111_44 B 27.75 11
+.point pin_B_111_53 B 27.75 13.25
+.point pin_B_111_55 B 27.75 13.75
+.point gnd_B_111_61 B 27.75 15.25
+.point pin_B_112_38 B 28 9.5
+.point pin_B_112_41 B 28 10.25
+.point pin_B_112_46 B 28 11.5
+.point pin_B_112_48 B 28 12
+.point pin_B_112_50 B 28 12.5
+.point pin_B_112_57 B 28 14.25
+.point pin_B_113_34 B 28.25 8.5
+.point pin_B_113_36 B 28.25 9
+.point vdd_B_113_44 B 28.25 11
+.point pin_B_113_52 B 28.25 13
+.point pin_B_113_54 B 28.25 13.5
+.point vdd_B_113_61 B 28.25 15.25
+.point pin_B_113_75 B 28.25 18.75
+.point vdd_B_114_56 B 28.5 14
+.point pin_B_114_116 B 28.5 29
+.point pin_B_115_35 B 28.75 8.75
+.point pin_B_115_42 B 28.75 10.5
+.point pin_B_115_48 B 28.75 12
+.point pin_B_115_53 B 28.75 13.25
+.point pin_B_115_60 B 28.75 15
+.point gnd_B_115_74 B 28.75 18.5
+.point pin_B_116_37 B 29 9.25
+.point vdd_B_116_40 B 29 10
+.point pin_B_116_45 B 29 11.25
+.point pin_B_116_50 B 29 12.5
+.point gnd_B_116_69 B 29 17.25
+.point gnd_B_117_35 B 29.25 8.75
+.point pin_B_117_47 B 29.25 11.75
+.point vdd_B_118_65 B 29.5 16.25
+.point gnd_B_118_116 B 29.5 29
+.point pin_B_119_33 B 29.75 8.25
+.point vdd_B_119_72 B 29.75 18
+.point pin_B_120_38 B 30 9.5
+.point vdd_B_120_40 B 30 10
+.point pin_B_120_49 B 30 12.25
+.point pin_B_120_51 B 30 12.75
+.point pin_B_120_53 B 30 13.25
+.point pin_B_120_55 B 30 13.75
+.point vdd_B_121_42 B 30.25 10.5
+.point pin_B_121_44 B 30.25 11
+.point pin_B_121_46 B 30.25 11.5
+.point pin_B_121_67 B 30.25 16.75
+.point gnd_B_121_71 B 30.25 17.75
+.point vdd_B_121_73 B 30.25 18.25
+.point pin_B_121_79 B 30.25 19.75
+.point vdd_B_122_53 B 30.5 13.25
+.point pin_B_122_63 B 30.5 15.75
+.point pin_B_122_65 B 30.5 16.25
+.point pin_B_122_69 B 30.5 17.25
+.point pin_B_122_76 B 30.5 19
+.point vdd_B_123_35 B 30.75 8.75
+.point pin_B_123_42 B 30.75 10.5
+.point pin_B_123_44 B 30.75 11
+.point gnd_B_123_46 B 30.75 11.5
+.point gnd_B_123_60 B 30.75 15
+.point gnd_B_123_67 B 30.75 16.75
+.point gnd_B_123_71 B 30.75 17.75
+.point pin_B_123_73 B 30.75 18.25
+.point vdd_B_123_78 B 30.75 19.5
+.point vdd_B_123_80 B 30.75 20
+.point gnd_B_124_33 B 31 8.25
+.point pin_B_124_37 B 31 9.25
+.point pin_B_124_39 B 31 9.75
+.point vdd_B_125_77 B 31.25 19.25
+.point vdd_B_127_68 B 31.75 17
+.point vdd_B_128_33 B 32 8.25
+.point gnd_B_128_35 B 32 8.75
+.point gnd_B_129_45 B 32.25 11.25
+.point vdd_B_130_34 B 32.5 8.5
+.point gnd_B_130_36 B 32.5 9
+.point pin_B_131_44 B 32.75 11
+.point pin_B_131_57 B 32.75 14.25
+.point pin_B_131_60 B 32.75 15
+.point pin_B_131_62 B 32.75 15.5
+.point gnd_B_131_68 B 32.75 17
+.point vdd_B_131_78 B 32.75 19.5
+.point pin_B_131_88 B 32.75 22
+.point pin_B_131_90 B 32.75 22.5
+.point pin_B_131_92 B 32.75 23
+.point nofly_B_131_99 B 32.75 24.75
+.point nofly_B_131_100 B 32.75 25
+.point nofly_B_131_101 B 32.75 25.25
+.point nofly_B_131_102 B 32.75 25.5
+.point nofly_B_131_103 B 32.75 25.75
+.point nofly_B_131_104 B 32.75 26
+.point nofly_B_131_105 B 32.75 26.25
+.point nofly_B_131_106 B 32.75 26.5
+.point nofly_B_131_107 B 32.75 26.75
+.point nofly_B_131_108 B 32.75 27
+.point nofly_B_131_109 B 32.75 27.25
+.point nofly_B_131_110 B 32.75 27.5
+.point nofly_B_131_111 B 32.75 27.75
+.point nofly_B_131_112 B 32.75 28
+.point nofly_B_131_113 B 32.75 28.25
+.point nofly_B_131_114 B 32.75 28.5
+.point pin_B_132_17 B 33 4.25
+.point pin_B_132_35 B 33 8.75
+.point pin_B_132_38 B 33 9.5
+.point vdd_B_132_46 B 33 11.5
+.point pin_B_132_70 B 33 17.5
+.point pin_B_132_72 B 33 18
+.point pin_B_132_76 B 33 19
+.point pin_B_132_80 B 33 20
+.point nofly_B_132_99 B 33 24.75
+.point nofly_B_132_114 B 33 28.5
+.point pin_B_133_40 B 33.25 10
+.point pin_B_133_43 B 33.25 10.75
+.point pin_B_133_54 B 33.25 13.5
+.point pin_B_133_57 B 33.25 14.25
+.point gnd_B_133_66 B 33.25 16.5
+.point pin_B_133_68 B 33.25 17
+.point pin_B_133_89 B 33.25 22.25
+.point pin_B_133_91 B 33.25 22.75
+.point nofly_B_133_99 B 33.25 24.75
+.point nofly_B_133_114 B 33.25 28.5
+.point vdd_B_134_38 B 33.5 9.5
+.point nofly_B_134_99 B 33.5 24.75
+.point nofly_B_134_114 B 33.5 28.5
+.point pin_B_135_33 B 33.75 8.25
+.point pin_B_135_40 B 33.75 10
+.point pin_B_135_43 B 33.75 10.75
+.point gnd_B_135_54 B 33.75 13.5
+.point pin_B_135_57 B 33.75 14.25
+.point pin_B_135_59 B 33.75 14.75
+.point pin_B_135_65 B 33.75 16.25
+.point pin_B_135_67 B 33.75 16.75
+.point pin_B_135_88 B 33.75 22
+.point pin_B_135_90 B 33.75 22.5
+.point pin_B_135_92 B 33.75 23
+.point nofly_B_135_99 B 33.75 24.75
+.point nofly_B_135_114 B 33.75 28.5
+.point nofly_B_136_99 B 34 24.75
+.point nofly_B_136_114 B 34 28.5
+.point pin_B_137_33 B 34.25 8.25
+.point pin_B_137_35 B 34.25 8.75
+.point pin_B_137_39 B 34.25 9.75
+.point pin_B_137_41 B 34.25 10.25
+.point pin_B_137_43 B 34.25 10.75
+.point pin_B_137_67 B 34.25 16.75
+.point pin_B_137_74 B 34.25 18.5
+.point pin_B_137_89 B 34.25 22.25
+.point pin_B_137_91 B 34.25 22.75
+.point nofly_B_137_99 B 34.25 24.75
+.point nofly_B_137_114 B 34.25 28.5
+.point vdd_B_138_76 B 34.5 19
+.point gnd_B_138_80 B 34.5 20
+.point nofly_B_138_99 B 34.5 24.75
+.point nofly_B_138_114 B 34.5 28.5
+.point pin_B_139_34 B 34.75 8.5
+.point pin_B_139_36 B 34.75 9
+.point gnd_B_139_39 B 34.75 9.75
+.point pin_B_139_42 B 34.75 10.5
+.point pin_B_139_52 B 34.75 13
+.point pin_B_139_54 B 34.75 13.5
+.point pin_B_139_64 B 34.75 16
+.point pin_B_139_66 B 34.75 16.5
+.point gnd_B_139_73 B 34.75 18.25
+.point pin_B_139_88 B 34.75 22
+.point pin_B_139_90 B 34.75 22.5
+.point pin_B_139_92 B 34.75 23
+.point nofly_B_139_99 B 34.75 24.75
+.point nofly_B_139_114 B 34.75 28.5
+.point gnd_B_140_44 B 35 11
+.point nofly_B_140_99 B 35 24.75
+.point nofly_B_140_114 B 35 28.5
+.point pin_B_141_33 B 35.25 8.25
+.point vdd_B_141_35 B 35.25 8.75
+.point pin_B_141_37 B 35.25 9.25
+.point gnd_B_141_39 B 35.25 9.75
+.point pin_B_141_41 B 35.25 10.25
+.point gnd_B_141_46 B 35.25 11.5
+.point pin_B_141_50 B 35.25 12.5
+.point pin_B_141_53 B 35.25 13.25
+.point pin_B_141_55 B 35.25 13.75
+.point pin_B_141_64 B 35.25 16
+.point gnd_B_141_72 B 35.25 18
+.point pin_B_141_89 B 35.25 22.25
+.point pin_B_141_91 B 35.25 22.75
+.point nofly_B_141_99 B 35.25 24.75
+.point nofly_B_141_114 B 35.25 28.5
+.point vdd_B_142_43 B 35.5 10.75
+.point pin_B_142_57 B 35.5 14.25
+.point pin_B_142_59 B 35.5 14.75
+.point pin_B_142_61 B 35.5 15.25
+.point pin_B_142_66 B 35.5 16.5
+.point vdd_B_142_79 B 35.5 19.75
+.point nofly_B_142_99 B 35.5 24.75
+.point nofly_B_142_114 B 35.5 28.5
+.point pin_B_143_33 B 35.75 8.25
+.point vdd_B_143_40 B 35.75 10
+.point pin_B_143_48 B 35.75 12
+.point pin_B_143_53 B 35.75 13.25
+.point pin_B_143_55 B 35.75 13.75
+.point vdd_B_143_63 B 35.75 15.75
+.point vdd_B_143_71 B 35.75 17.75
+.point pin_B_143_73 B 35.75 18.25
+.point pin_B_143_88 B 35.75 22
+.point pin_B_143_90 B 35.75 22.5
+.point pin_B_143_92 B 35.75 23
+.point nofly_B_143_99 B 35.75 24.75
+.point nofly_B_143_114 B 35.75 28.5
+.point nofly_B_144_99 B 36 24.75
+.point nofly_B_144_114 B 36 28.5
+.point pin_B_145_89 B 36.25 22.25
+.point pin_B_145_91 B 36.25 22.75
+.point nofly_B_145_99 B 36.25 24.75
+.point nofly_B_145_114 B 36.25 28.5
+.point nofly_B_146_99 B 36.5 24.75
+.point nofly_B_146_114 B 36.5 28.5
+.point pin_B_147_88 B 36.75 22
+.point pin_B_147_90 B 36.75 22.5
+.point pin_B_147_92 B 36.75 23
+.point nofly_B_147_99 B 36.75 24.75
+.point nofly_B_147_114 B 36.75 28.5
+.point nofly_B_148_99 B 37 24.75
+.point nofly_B_148_114 B 37 28.5
+.point pin_B_149_89 B 37.25 22.25
+.point pin_B_149_91 B 37.25 22.75
+.point nofly_B_149_99 B 37.25 24.75
+.point nofly_B_149_114 B 37.25 28.5
+.point nofly_B_150_99 B 37.5 24.75
+.point nofly_B_150_114 B 37.5 28.5
+.point pin_B_151_88 B 37.75 22
+.point pin_B_151_90 B 37.75 22.5
+.point pin_B_151_92 B 37.75 23
+.point nofly_B_151_99 B 37.75 24.75
+.point nofly_B_151_114 B 37.75 28.5
+.point nofly_B_152_99 B 38 24.75
+.point nofly_B_152_114 B 38 28.5
+.point pin_B_153_89 B 38.25 22.25
+.point pin_B_153_91 B 38.25 22.75
+.point nofly_B_153_99 B 38.25 24.75
+.point nofly_B_153_114 B 38.25 28.5
+.point nofly_B_154_99 B 38.5 24.75
+.point nofly_B_154_114 B 38.5 28.5
+.point pin_B_155_88 B 38.75 22
+.point pin_B_155_90 B 38.75 22.5
+.point pin_B_155_92 B 38.75 23
+.point nofly_B_155_99 B 38.75 24.75
+.point nofly_B_155_114 B 38.75 28.5
+.point nofly_B_156_99 B 39 24.75
+.point nofly_B_156_114 B 39 28.5
+.point pin_B_157_89 B 39.25 22.25
+.point pin_B_157_91 B 39.25 22.75
+.point nofly_B_157_99 B 39.25 24.75
+.point nofly_B_157_114 B 39.25 28.5
+.point nofly_B_158_99 B 39.5 24.75
+.point nofly_B_158_114 B 39.5 28.5
+.point pin_B_159_88 B 39.75 22
+.point pin_B_159_90 B 39.75 22.5
+.point pin_B_159_92 B 39.75 23
+.point nofly_B_159_99 B 39.75 24.75
+.point nofly_B_159_114 B 39.75 28.5
+.point nofly_B_160_99 B 40 24.75
+.point nofly_B_160_114 B 40 28.5
+.point pin_B_161_89 B 40.25 22.25
+.point pin_B_161_91 B 40.25 22.75
+.point nofly_B_161_99 B 40.25 24.75
+.point nofly_B_161_114 B 40.25 28.5
+.point nofly_B_162_99 B 40.5 24.75
+.point nofly_B_162_114 B 40.5 28.5
+.point pin_B_163_88 B 40.75 22
+.point pin_B_163_90 B 40.75 22.5
+.point pin_B_163_92 B 40.75 23
+.point nofly_B_163_99 B 40.75 24.75
+.point nofly_B_163_114 B 40.75 28.5
+.point nofly_B_164_99 B 41 24.75
+.point nofly_B_164_114 B 41 28.5
+.point nofly_B_165_99 B 41.25 24.75
+.point nofly_B_165_114 B 41.25 28.5
+.point pin_B_166_89 B 41.5 22.25
+.point pin_B_166_91 B 41.5 22.75
+.point nofly_B_166_99 B 41.5 24.75
+.point nofly_B_166_114 B 41.5 28.5
+.point nofly_B_167_99 B 41.75 24.75
+.point nofly_B_167_114 B 41.75 28.5
+.point pin_B_168_88 B 42 22
+.point pin_B_168_90 B 42 22.5
+.point pin_B_168_92 B 42 23
+.point nofly_B_168_99 B 42 24.75
+.point nofly_B_168_114 B 42 28.5
+.point nofly_B_169_99 B 42.25 24.75
+.point nofly_B_169_114 B 42.25 28.5
+.point pin_B_170_89 B 42.5 22.25
+.point pin_B_170_91 B 42.5 22.75
+.point nofly_B_170_99 B 42.5 24.75
+.point nofly_B_170_114 B 42.5 28.5
+.point nofly_B_171_99 B 42.75 24.75
+.point nofly_B_171_114 B 42.75 28.5
+.point pin_B_172_88 B 43 22
+.point pin_B_172_90 B 43 22.5
+.point pin_B_172_92 B 43 23
+.point nofly_B_172_99 B 43 24.75
+.point nofly_B_172_114 B 43 28.5
+.point nofly_B_173_99 B 43.25 24.75
+.point nofly_B_173_114 B 43.25 28.5
+.point pin_B_174_89 B 43.5 22.25
+.point pin_B_174_91 B 43.5 22.75
+.point nofly_B_174_99 B 43.5 24.75
+.point nofly_B_174_114 B 43.5 28.5
+.point nofly_B_175_99 B 43.75 24.75
+.point nofly_B_175_114 B 43.75 28.5
+.point vdd_B_176_88 B 44 22
+.point gnd_B_176_92 B 44 23
+.point nofly_B_176_99 B 44 24.75
+.point nofly_B_176_100 B 44 25
+.point nofly_B_176_101 B 44 25.25
+.point nofly_B_176_102 B 44 25.5
+.point nofly_B_176_103 B 44 25.75
+.point nofly_B_176_104 B 44 26
+.point nofly_B_176_105 B 44 26.25
+.point nofly_B_176_106 B 44 26.5
+.point nofly_B_176_107 B 44 26.75
+.point nofly_B_176_108 B 44 27
+.point nofly_B_176_109 B 44 27.25
+.point nofly_B_176_110 B 44 27.5
+.point nofly_B_176_111 B 44 27.75
+.point nofly_B_176_112 B 44 28
+.point nofly_B_176_113 B 44 28.25
+.point nofly_B_176_114 B 44 28.5
+.net net_0 118 vdd_T_1_176 vdd_T_4_33 vdd_T_4_45 vdd_T_4_57 vdd_T_6_15 vdd_T_6_17 vdd_T_6_19 vdd_T_6_21 vdd_T_6_23 vdd_T_12_145 vdd_T_16_57 vdd_T_21_47 vdd_T_21_72 vdd_T_22_45 vdd_T_23_34 vdd_T_23_52 vdd_T_24_74 vdd_T_24_145 vdd_T_26_41 vdd_T_27_175 vdd_T_28_32 vdd_T_28_55 vdd_T_28_59 vdd_T_30_54 vdd_T_31_33 vdd_T_32_62 vdd_T_34_43 vdd_T_37_74 vdd_T_41_53 vdd_T_44_61 vdd_T_46_74 vdd_T_48_67 vdd_T_49_62 vdd_T_50_66 vdd_T_50_71 vdd_T_51_32 vdd_T_53_57 vdd_T_56_48 vdd_T_59_32 vdd_T_60_56 vdd_T_61_54 vdd_T_63_66 vdd_T_64_37 vdd_T_65_50 vdd_T_66_44 vdd_T_66_52 vdd_T_67_33 vdd_T_68_52 vdd_T_74_183 vdd_T_79_77 vdd_T_85_77 vdd_T_91_77 vdd_T_93_84 vdd_T_93_89 vdd_T_93_94 vdd_T_97_77 vdd_T_103_77 vdd_T_109_77 vdd_T_115_77 vdd_T_130_77 vdd_T_136_77 vdd_T_142_77 vdd_T_148_77 vdd_T_154_77 vdd_T_160_77 vdd_T_166_77 vdd_B_6_131 vdd_B_14_116 vdd_B_20_131 vdd_B_34_131 vdd_B_48_131 vdd_B_49_94 vdd_B_50_13 vdd_B_53_90 vdd_B_54_17 vdd_B_62_131 vdd_B_74_83 vdd_B_76_131 vdd_B_88_49 vdd_B_90_131 vdd_B_97_51 vdd_B_101_36 vdd_B_101_49 vdd_B_101_58 vdd_B_103_33 vdd_B_104_62 vdd_B_104_131 vdd_B_108_60 vdd_B_109_62 vdd_B_109_75 vdd_B_113_44 vdd_B_113_61 vdd_B_114_56 vdd_B_116_40 vdd_B_118_65 vdd_B_119_72 vdd_B_120_40 vdd_B_121_42 vdd_B_121_73 vdd_B_122_53 vdd_B_123_35 vdd_B_123_78 vdd_B_123_80 vdd_B_125_77 vdd_B_127_68 vdd_B_128_33 vdd_B_130_34 vdd_B_131_78 vdd_B_132_46 vdd_B_134_38 vdd_B_138_76 vdd_B_141_35 vdd_B_142_43 vdd_B_142_79 vdd_B_143_40 vdd_B_143_63 vdd_B_143_71 vdd_B_176_88 
+.net net_1 114 gnd_T_3_176 gnd_T_4_65 gnd_T_12_33 gnd_T_12_45 gnd_T_12_153 gnd_T_16_65 gnd_T_21_51 gnd_T_21_66 gnd_T_23_47 gnd_T_23_58 gnd_T_24_45 gnd_T_24_153 gnd_T_25_175 gnd_T_27_34 gnd_T_27_36 gnd_T_30_68 gnd_T_32_35 gnd_T_32_64 gnd_T_33_46 gnd_T_34_34 gnd_T_34_52 gnd_T_37_65 gnd_T_37_69 gnd_T_42_40 gnd_T_46_72 gnd_T_48_52 gnd_T_49_64 gnd_T_54_42 gnd_T_55_52 gnd_T_56_44 gnd_T_57_59 gnd_T_57_70 gnd_T_59_52 gnd_T_59_54 gnd_T_59_65 gnd_T_59_69 gnd_T_60_34 gnd_T_61_36 gnd_T_62_60 gnd_T_66_69 gnd_T_68_37 gnd_T_76_183 gnd_T_82_74 gnd_T_88_74 gnd_T_94_74 gnd_T_100_74 gnd_T_106_74 gnd_T_110_15 gnd_T_110_17 gnd_T_110_19 gnd_T_110_21 gnd_T_110_23 gnd_T_112_74 gnd_T_118_74 gnd_T_133_74 gnd_T_139_74 gnd_T_145_74 gnd_T_151_74 gnd_T_157_74 gnd_T_163_74 gnd_T_169_74 gnd_T_186_84 gnd_T_186_89 gnd_T_186_94 gnd_B_6_121 gnd_B_20_121 gnd_B_34_121 gnd_B_48_121 gnd_B_50_50 gnd_B_53_98 gnd_B_54_9 gnd_B_57_94 gnd_B_58_13 gnd_B_62_121 gnd_B_76_121 gnd_B_88_55 gnd_B_90_121 gnd_B_97_69 gnd_B_103_58 gnd_B_104_121 gnd_B_105_69 gnd_B_106_49 gnd_B_106_71 gnd_B_106_78 gnd_B_107_42 gnd_B_109_33 gnd_B_110_49 gnd_B_110_71 gnd_B_111_44 gnd_B_111_61 gnd_B_115_74 gnd_B_116_69 gnd_B_117_35 gnd_B_118_116 gnd_B_121_71 gnd_B_123_46 gnd_B_123_60 gnd_B_123_67 gnd_B_123_71 gnd_B_124_33 gnd_B_128_35 gnd_B_129_45 gnd_B_130_36 gnd_B_131_68 gnd_B_133_66 gnd_B_135_54 gnd_B_138_80 gnd_B_139_39 gnd_B_139_73 gnd_B_140_44 gnd_B_141_39 gnd_B_141_46 gnd_B_141_72 gnd_B_176_92 
+.net net_2 3 clock_T_8_39 clock_T_10_61 clock_T_18_149 
+.net net_3 2 pin_T_24_36 pin_B_58_9 
+.net net_4 1 pin_B_16_122 
+.net net_5 1 pin_T_124_75 
+.net net_6 3 pin_T_72_34 pin_T_101_166 pin_B_60_58 
+.net net_7 2 pin_T_80_157 pin_T_182_85 
+.net net_8 1 pin_T_17_111 
+.net net_9 2 pin_T_62_155 pin_B_67_121 
+.net net_10 1 pin_T_34_127 
+.net net_11 1 pin_T_77_185 
+.net net_12 1 pin_T_123_174 
+.net net_13 1 pin_T_41_185 
+.net net_14 2 pin_T_92_190 pin_T_114_126 
+.net net_15 1 pin_T_6_91 
+.net net_16 2 pin_B_74_79 pin_B_82_68 
+.net net_17 1 pin_T_137_75 
+.net net_18 1 pin_B_63_127 
+.net net_19 1 pin_B_50_17 
+.net net_20 2 pin_T_22_185 pin_T_91_112 
+.net net_21 1 pin_B_139_90 
+.net net_22 1 pin_B_74_77 
+.net net_23 2 pin_T_49_46 pin_T_51_51 
+.net net_24 1 pin_B_113_54 
+.net net_25 1 pin_T_79_180 
+.net net_26 1 pin_T_10_19 
+.net net_27 2 pin_T_22_19 pin_T_180_83 
+.net net_28 1 pin_T_12_41 
+.net net_29 1 pin_T_42_108 
+.net net_30 1 pin_T_178_83 
+.net net_31 1 pin_T_41_127 
+.net net_32 2 pin_T_117_166 pin_B_62_77 
+.net net_33 1 pin_B_142_57 
+.net net_34 4 pin_T_91_143 pin_B_9_12 pin_B_69_126 pin_B_81_33 
+.net net_35 1 pin_T_111_120 
+.net net_36 1 pin_T_39_173 
+.net net_37 2 pin_T_18_127 pin_B_7_8 
+.net net_38 1 pin_T_22_183 
+.net net_39 1 pin_T_139_94 
+.net net_40 1 pin_B_82_66 
+.net net_41 2 pin_T_49_33 pin_T_93_76 
+.net net_42 3 pin_T_23_54 pin_T_128_67 pin_T_135_75 
+.net net_43 2 pin_B_56_60 pin_B_94_52 
+.net net_44 2 pin_T_118_85 pin_B_83_128 
+.net net_45 2 pin_T_65_127 pin_B_50_97 
+.net net_46 1 pin_T_24_127 
+.net net_47 3 pin_T_111_83 pin_T_114_120 pin_B_60_60 
+.net net_48 2 pin_T_12_37 pin_T_30_19 
+.net net_49 2 pin_T_139_65 pin_B_60_75 
+.net net_50 2 pin_T_165_90 pin_B_5_125 
+.net net_51 1 pin_B_82_46 
+.net net_52 1 pin_B_143_73 
+.net net_53 2 pin_B_55_12 pin_B_139_88 
+.net net_54 1 pin_T_132_76 
+.net net_55 1 pin_T_33_48 
+.net net_56 1 pin_B_72_50 
+.net net_57 1 pin_T_6_45 
+.net net_58 1 pin_B_50_124 
+.net net_59 1 pin_T_100_110 
+.net net_60 1 pin_B_13_124 
+.net net_61 1 pin_B_141_37 
+.net net_62 2 pin_T_91_145 pin_B_62_79 
+.net net_63 1 pin_T_105_134 
+.net net_64 3 pin_T_16_59 pin_T_41_68 pin_B_166_91 
+.net net_65 1 pin_T_38_111 
+.net net_66 2 pin_T_54_95 pin_T_113_66 
+.net net_67 3 pin_T_113_88 pin_T_130_40 pin_B_120_53 
+.net net_68 1 pin_T_133_90 
+.net net_69 1 pin_T_90_15 
+.net net_70 3 pin_T_27_53 pin_T_71_127 pin_T_151_77 
+.net net_71 1 pin_T_121_71 
+.net net_72 3 pin_T_17_127 pin_T_112_67 pin_B_50_60 
+.net net_73 2 pin_T_101_85 pin_B_56_15 
+.net net_74 2 pin_B_109_44 pin_B_115_53 
+.net net_75 1 pin_T_6_86 
+.net net_76 2 pin_T_22_176 pin_B_70_73 
+.net net_77 1 pin_B_135_90 
+.net net_78 1 pin_T_54_19 
+.net net_79 2 pin_T_21_43 pin_B_74_71 
+.net net_80 1 pin_T_21_56 
+.net net_81 2 pin_T_153_89 pin_T_167_75 
+.net net_82 1 pin_T_75_95 
+.net net_83 2 pin_T_33_141 pin_T_95_163 
+.net net_84 2 pin_T_53_74 pin_T_99_76 
+.net net_85 1 pin_B_135_40 
+.net net_86 1 pin_T_58_43 
+.net net_87 1 pin_T_91_151 
+.net net_88 1 pin_T_51_173 
+.net net_89 2 pin_T_49_50 pin_B_98_80 
+.net net_90 1 pin_T_109_157 
+.net net_91 3 pin_T_39_111 pin_T_91_136 pin_T_114_192 
+.net net_92 3 pin_T_27_182 pin_T_73_173 pin_T_141_89 
+.net net_93 2 pin_T_10_21 pin_T_74_177 
+.net net_94 1 pin_B_102_128 
+.net net_95 2 pin_T_99_134 pin_B_18_116 
+.net net_96 2 pin_T_79_176 pin_T_116_190 
+.net net_97 1 pin_B_72_75 
+.net net_98 1 pin_B_52_56 
+.net net_99 1 pin_B_97_130 
+.net net_100 1 pin_T_127_84 
+.net net_101 2 pin_T_124_71 pin_B_113_52 
+.net net_102 3 pin_T_89_192 pin_T_102_15 pin_B_46_116 
+.net net_103 2 pin_B_52_93 pin_B_97_121 
+.net net_104 1 pin_B_54_50 
+.net net_105 1 pin_T_27_127 
+.net net_106 2 pin_T_10_118 pin_T_76_173 
+.net net_107 1 pin_B_82_76 
+.net net_108 2 pin_T_65_55 pin_T_96_75 
+.net net_109 2 pin_T_102_21 pin_B_174_89 
+.net net_110 1 pin_T_6_33 
+.net net_111 1 pin_B_70_50 
+.net net_112 1 pin_B_80_50 
+.net net_113 4 pin_T_124_84 pin_B_16_130 pin_B_69_123 pin_B_80_73 
+.net net_114 3 pin_T_72_95 pin_T_110_110 pin_B_85_33 
+.net net_115 2 pin_T_58_17 pin_B_65_123 
+.net net_116 3 pin_T_21_53 pin_T_22_62 pin_T_148_71 
+.net net_117 1 pin_T_90_50 
+.net net_118 1 pin_T_24_185 
+.net net_119 1 pin_T_66_21 
+.net net_120 2 pin_T_123_186 pin_B_55_92 
+.net net_121 5 pin_T_4_82 pin_T_10_115 pin_T_98_75 pin_T_102_192 pin_B_52_83 
+.net net_122 1 pin_T_57_95 
+.net net_123 1 pin_T_154_71 
+.net net_124 1 pin_B_73_129 
+.net net_125 2 pin_B_27_131 pin_B_89_81 
+.net net_126 1 pin_B_54_71 
+.net net_127 1 pin_B_37_123 
+.net net_128 1 pin_B_82_116 
+.net net_129 2 pin_T_107_112 pin_B_56_75 
+.net net_130 2 pin_T_30_36 pin_T_34_54 
+.net net_131 1 pin_T_59_127 
+.net net_132 1 pin_T_58_74 
+.net net_133 2 pin_T_92_182 pin_T_98_110 
+.net net_134 2 pin_B_6_126 pin_B_50_58 
+.net net_135 1 pin_B_68_81 
+.net net_136 1 pin_T_2_75
+.net net_137 1 pin_T_2_77
+.net net_138 1 pin_T_2_80
+.net net_139 1 pin_T_2_82
+.net net_140 1 pin_T_2_173
+.net net_141 1 pin_T_2_179
+.net net_142 1 pin_T_3_76
+.net net_143 1 pin_T_3_81
+.net net_144 1 pin_T_4_35
+.net net_145 1 pin_T_4_37
+.net net_146 1 pin_T_4_39
+.net net_147 1 pin_T_4_41
+.net net_148 1 pin_T_4_43
+.net net_149 1 pin_T_4_59
+.net net_150 1 pin_T_4_61
+.net net_151 1 pin_T_4_63
+.net net_152 1 pin_T_4_75
+.net net_153 1 pin_T_4_77
+.net net_154 1 pin_T_4_80
+.net net_155 1 pin_T_4_157
+.net net_156 1 pin_T_5_150
+.net net_157 1 pin_T_5_152
+.net net_158 1 pin_T_5_156
+.net net_159 1 pin_T_5_158
+.net net_160 1 pin_T_6_39
+.net net_161 1 pin_T_6_57
+.net net_162 1 pin_T_6_65
+.net net_163 1 pin_T_6_151
+.net net_164 1 pin_T_6_155
+.net net_165 1 pin_T_6_157
+.net net_166 1 pin_T_6_159
+.net net_167 1 pin_T_7_86
+.net net_168 1 pin_T_7_91
+.net net_169 1 pin_T_7_150
+.net net_170 1 pin_T_7_152
+.net net_171 1 pin_T_7_156
+.net net_172 1 pin_T_7_158
+.net net_173 1 pin_T_8_33
+.net net_174 1 pin_T_8_45
+.net net_175 1 pin_T_8_57
+.net net_176 1 pin_T_8_65
+.net net_177 1 pin_T_8_86
+.net net_178 1 pin_T_8_91
+.net net_179 1 pin_T_8_157
+.net net_180 1 pin_T_10_15
+.net net_181 1 pin_T_10_17
+.net net_182 1 pin_T_10_23
+.net net_183 1 pin_T_10_33
+.net net_184 1 pin_T_10_39
+.net net_185 1 pin_T_10_45
+.net net_186 1 pin_T_10_57
+.net net_187 1 pin_T_10_59
+.net net_188 1 pin_T_10_63
+.net net_189 1 pin_T_10_65
+.net net_190 1 pin_T_10_111
+.net net_191 1 pin_T_10_112
+.net net_192 1 pin_T_10_113
+.net net_193 1 pin_T_10_114
+.net net_194 1 pin_T_10_116
+.net net_195 1 pin_T_10_117
+.net net_196 1 pin_T_10_119
+.net net_197 1 pin_T_10_120
+.net net_198 1 pin_T_10_121
+.net net_199 1 pin_T_10_122
+.net net_200 1 pin_T_10_123
+.net net_201 1 pin_T_10_124
+.net net_202 1 pin_T_10_125
+.net net_203 1 pin_T_10_126
+.net net_204 1 pin_T_10_127
+.net net_205 1 pin_T_11_111
+.net net_206 1 pin_T_11_127
+.net net_207 1 pin_T_12_35
+.net net_208 1 pin_T_12_39
+.net net_209 1 pin_T_12_43
+.net net_210 1 pin_T_12_57
+.net net_211 1 pin_T_12_65
+.net net_212 1 pin_T_12_111
+.net net_213 1 pin_T_12_127
+.net net_214 1 pin_T_12_147
+.net net_215 1 pin_T_12_149
+.net net_216 1 pin_T_12_151
+.net net_217 1 pin_T_13_111
+.net net_218 1 pin_T_13_127
+.net net_219 1 pin_T_14_15
+.net net_220 1 pin_T_14_17
+.net net_221 1 pin_T_14_19
+.net net_222 1 pin_T_14_21
+.net net_223 1 pin_T_14_23
+.net net_224 1 pin_T_14_57
+.net net_225 1 pin_T_14_65
+.net net_226 1 pin_T_14_111
+.net net_227 1 pin_T_14_127
+.net net_228 1 pin_T_14_145
+.net net_229 1 pin_T_14_153
+.net net_230 1 pin_T_15_111
+.net net_231 1 pin_T_15_127
+.net net_232 1 pin_T_16_61
+.net net_233 1 pin_T_16_63
+.net net_234 1 pin_T_16_111
+.net net_235 1 pin_T_16_127
+.net net_236 1 pin_T_16_145
+.net net_237 1 pin_T_16_153
+.net net_238 1 pin_T_18_15
+.net net_239 1 pin_T_18_17
+.net net_240 1 pin_T_18_19
+.net net_241 1 pin_T_18_21
+.net net_242 1 pin_T_18_23
+.net net_243 1 pin_T_18_111
+.net net_244 1 pin_T_18_145
+.net net_245 1 pin_T_18_147
+.net net_246 1 pin_T_18_151
+.net net_247 1 pin_T_18_153
+.net net_248 1 pin_T_19_111
+.net net_249 1 pin_T_19_127
+.net net_250 1 pin_T_20_111
+.net net_251 1 pin_T_20_127
+.net net_252 1 pin_T_20_145
+.net net_253 1 pin_T_20_153
+.net net_254 1 pin_T_21_32
+.net net_255 1 pin_T_21_34
+.net net_256 1 pin_T_21_58
+.net net_257 1 pin_T_21_60
+.net net_258 1 pin_T_21_69
+.net net_259 1 pin_T_21_111
+.net net_260 1 pin_T_21_127
+.net net_261 1 pin_T_22_15
+.net net_262 1 pin_T_22_17
+.net net_263 1 pin_T_22_21
+.net net_264 1 pin_T_22_23
+.net net_265 1 pin_T_22_36
+.net net_266 1 pin_T_22_64
+.net net_267 1 pin_T_22_74
+.net net_268 1 pin_T_22_111
+.net net_269 1 pin_T_22_127
+.net net_270 1 pin_T_22_145
+.net net_271 1 pin_T_22_153
+.net net_272 1 pin_T_22_173
+.net net_273 1 pin_T_22_174
+.net net_274 1 pin_T_22_175
+.net net_275 1 pin_T_22_177
+.net net_276 1 pin_T_22_178
+.net net_277 1 pin_T_22_179
+.net net_278 1 pin_T_22_180
+.net net_279 1 pin_T_22_181
+.net net_280 1 pin_T_22_182
+.net net_281 1 pin_T_22_184
+.net net_282 1 pin_T_23_43
+.net net_283 1 pin_T_23_60
+.net net_284 1 pin_T_23_66
+.net net_285 1 pin_T_23_68
+.net net_286 1 pin_T_23_71
+.net net_287 1 pin_T_23_111
+.net net_288 1 pin_T_23_127
+.net net_289 1 pin_T_23_173
+.net net_290 1 pin_T_23_185
+.net net_291 1 pin_T_24_32
+.net net_292 1 pin_T_24_41
+.net net_293 1 pin_T_24_56
+.net net_294 1 pin_T_24_62
+.net net_295 1 pin_T_24_64
+.net net_296 1 pin_T_24_111
+.net net_297 1 pin_T_24_147
+.net net_298 1 pin_T_24_149
+.net net_299 1 pin_T_24_151
+.net net_300 1 pin_T_24_173
+.net net_301 1 pin_T_25_34
+.net net_302 1 pin_T_25_53
+.net net_303 1 pin_T_25_59
+.net net_304 1 pin_T_25_67
+.net net_305 1 pin_T_25_71
+.net net_306 1 pin_T_25_111
+.net net_307 1 pin_T_25_127
+.net net_308 1 pin_T_25_173
+.net net_309 1 pin_T_25_181
+.net net_310 1 pin_T_25_182
+.net net_311 1 pin_T_25_183
+.net net_312 1 pin_T_25_185
+.net net_313 1 pin_T_26_15
+.net net_314 1 pin_T_26_17
+.net net_315 1 pin_T_26_19
+.net net_316 1 pin_T_26_21
+.net net_317 1 pin_T_26_23
+.net net_318 1 pin_T_26_32
+.net net_319 1 pin_T_26_43
+.net net_320 1 pin_T_26_45
+.net net_321 1 pin_T_26_55
+.net net_322 1 pin_T_26_61
+.net net_323 1 pin_T_26_63
+.net net_324 1 pin_T_26_74
+.net net_325 1 pin_T_26_111
+.net net_326 1 pin_T_26_127
+.net net_327 1 pin_T_26_173
+.net net_328 1 pin_T_26_185
+.net net_329 1 pin_T_27_57
+.net net_330 1 pin_T_27_65
+.net net_331 1 pin_T_27_69
+.net net_332 1 pin_T_27_71
+.net net_333 1 pin_T_27_111
+.net net_334 1 pin_T_27_173
+.net net_335 1 pin_T_27_181
+.net net_336 1 pin_T_27_183
+.net net_337 1 pin_T_27_185
+.net net_338 1 pin_T_28_45
+.net net_339 1 pin_T_28_48
+.net net_340 1 pin_T_28_61
+.net net_341 1 pin_T_28_67
+.net net_342 1 pin_T_28_73
+.net net_343 1 pin_T_28_111
+.net net_344 1 pin_T_28_127
+.net net_345 1 pin_T_28_173
+.net net_346 1 pin_T_28_185
+.net net_347 1 pin_T_29_34
+.net net_348 1 pin_T_29_50
+.net net_349 1 pin_T_29_57
+.net net_350 1 pin_T_29_65
+.net net_351 1 pin_T_29_70
+.net net_352 1 pin_T_29_111
+.net net_353 1 pin_T_29_127
+.net net_354 1 pin_T_29_173
+.net net_355 1 pin_T_29_185
+.net net_356 1 pin_T_30_15
+.net net_357 1 pin_T_30_17
+.net net_358 1 pin_T_30_21
+.net net_359 1 pin_T_30_23
+.net net_360 1 pin_T_30_45
+.net net_361 1 pin_T_30_52
+.net net_362 1 pin_T_30_60
+.net net_363 1 pin_T_30_72
+.net net_364 1 pin_T_30_74
+.net net_365 1 pin_T_30_111
+.net net_366 1 pin_T_30_127
+.net net_367 1 pin_T_30_173
+.net net_368 1 pin_T_30_185
+.net net_369 1 pin_T_31_38
+.net net_370 1 pin_T_31_42
+.net net_371 1 pin_T_31_50
+.net net_372 1 pin_T_31_70
+.net net_373 1 pin_T_31_111
+.net net_374 1 pin_T_31_127
+.net net_375 1 pin_T_31_173
+.net net_376 1 pin_T_31_185
+.net net_377 1 pin_T_32_44
+.net net_378 1 pin_T_32_54
+.net net_379 1 pin_T_32_57
+.net net_380 1 pin_T_32_66
+.net net_381 1 pin_T_32_72
+.net net_382 1 pin_T_32_74
+.net net_383 1 pin_T_32_111
+.net net_384 1 pin_T_32_127
+.net net_385 1 pin_T_32_173
+.net net_386 1 pin_T_32_185
+.net net_387 1 pin_T_33_39
+.net net_388 1 pin_T_33_41
+.net net_389 1 pin_T_33_50
+.net net_390 1 pin_T_33_59
+.net net_391 1 pin_T_33_70
+.net net_392 1 pin_T_33_111
+.net net_393 1 pin_T_33_127
+.net net_394 1 pin_T_33_139
+.net net_395 1 pin_T_33_143
+.net net_396 1 pin_T_33_145
+.net net_397 1 pin_T_33_147
+.net net_398 1 pin_T_33_149
+.net net_399 1 pin_T_33_151
+.net net_400 1 pin_T_33_153
+.net net_401 1 pin_T_33_155
+.net net_402 1 pin_T_33_157
+.net net_403 1 pin_T_33_173
+.net net_404 1 pin_T_33_185
+.net net_405 1 pin_T_34_15
+.net net_406 1 pin_T_34_17
+.net net_407 1 pin_T_34_19
+.net net_408 1 pin_T_34_21
+.net net_409 1 pin_T_34_23
+.net net_410 1 pin_T_34_32
+.net net_411 1 pin_T_34_56
+.net net_412 1 pin_T_34_61
+.net net_413 1 pin_T_34_67
+.net net_414 1 pin_T_34_73
+.net net_415 1 pin_T_34_111
+.net net_416 1 pin_T_34_173
+.net net_417 1 pin_T_34_185
+.net net_418 1 pin_T_35_45
+.net net_419 1 pin_T_35_65
+.net net_420 1 pin_T_35_69
+.net net_421 1 pin_T_35_111
+.net net_422 1 pin_T_35_127
+.net net_423 1 pin_T_35_157
+.net net_424 1 pin_T_35_173
+.net net_425 1 pin_T_35_185
+.net net_426 1 pin_T_36_32
+.net net_427 1 pin_T_36_35
+.net net_428 1 pin_T_36_41
+.net net_429 1 pin_T_36_43
+.net net_430 1 pin_T_36_53
+.net net_431 1 pin_T_36_60
+.net net_432 1 pin_T_36_72
+.net net_433 1 pin_T_36_111
+.net net_434 1 pin_T_36_127
+.net net_435 1 pin_T_36_173
+.net net_436 1 pin_T_36_185
+.net net_437 1 pin_T_37_46
+.net net_438 1 pin_T_37_48
+.net net_439 1 pin_T_37_55
+.net net_440 1 pin_T_37_67
+.net net_441 1 pin_T_37_111
+.net net_442 1 pin_T_37_127
+.net net_443 1 pin_T_37_157
+.net net_444 1 pin_T_37_173
+.net net_445 1 pin_T_37_185
+.net net_446 1 pin_T_38_15
+.net net_447 1 pin_T_38_17
+.net net_448 1 pin_T_38_19
+.net net_449 1 pin_T_38_21
+.net net_450 1 pin_T_38_23
+.net net_451 1 pin_T_38_34
+.net net_452 1 pin_T_38_41
+.net net_453 1 pin_T_38_43
+.net net_454 1 pin_T_38_50
+.net net_455 1 pin_T_38_57
+.net net_456 1 pin_T_38_59
+.net net_457 1 pin_T_38_61
+.net net_458 1 pin_T_38_71
+.net net_459 1 pin_T_38_127
+.net net_460 1 pin_T_38_173
+.net net_461 1 pin_T_38_185
+.net net_462 1 pin_T_39_45
+.net net_463 1 pin_T_39_53
+.net net_464 1 pin_T_39_55
+.net net_465 1 pin_T_39_67
+.net net_466 1 pin_T_39_69
+.net net_467 1 pin_T_39_73
+.net net_468 1 pin_T_39_127
+.net net_469 1 pin_T_39_157
+.net net_470 1 pin_T_39_185
+.net net_471 1 pin_T_40_36
+.net net_472 1 pin_T_40_41
+.net net_473 1 pin_T_40_43
+.net net_474 1 pin_T_40_62
+.net net_475 1 pin_T_40_111
+.net net_476 1 pin_T_40_127
+.net net_477 1 pin_T_40_173
+.net net_478 1 pin_T_40_185
+.net net_479 1 pin_T_41_32
+.net net_480 1 pin_T_41_34
+.net net_481 1 pin_T_41_55
+.net net_482 1 pin_T_41_60
+.net net_483 1 pin_T_41_64
+.net net_484 1 pin_T_41_71
+.net net_485 1 pin_T_41_73
+.net net_486 1 pin_T_41_111
+.net net_487 1 pin_T_41_157
+.net net_488 1 pin_T_41_173
+.net net_489 1 pin_T_42_15
+.net net_490 1 pin_T_42_17
+.net net_491 1 pin_T_42_19
+.net net_492 1 pin_T_42_21
+.net net_493 1 pin_T_42_23
+.net net_494 1 pin_T_42_36
+.net net_495 1 pin_T_42_42
+.net net_496 1 pin_T_42_62
+.net net_497 1 pin_T_42_95
+.net net_498 1 pin_T_42_96
+.net net_499 1 pin_T_42_97
+.net net_500 1 pin_T_42_98
+.net net_501 1 pin_T_42_99
+.net net_502 1 pin_T_42_100
+.net net_503 1 pin_T_42_101
+.net net_504 1 pin_T_42_102
+.net net_505 1 pin_T_42_103
+.net net_506 1 pin_T_42_104
+.net net_507 1 pin_T_42_105
+.net net_508 1 pin_T_42_106
+.net net_509 1 pin_T_42_107
+.net net_510 1 pin_T_42_109
+.net net_511 1 pin_T_42_110
+.net net_512 1 pin_T_42_111
+.net net_513 1 pin_T_42_127
+.net net_514 1 pin_T_42_173
+.net net_515 1 pin_T_42_185
+.net net_516 1 pin_T_43_32
+.net net_517 1 pin_T_43_34
+.net net_518 1 pin_T_43_53
+.net net_519 1 pin_T_43_59
+.net net_520 1 pin_T_43_68
+.net net_521 1 pin_T_43_72
+.net net_522 1 pin_T_43_95
+.net net_523 1 pin_T_43_127
+.net net_524 1 pin_T_43_157
+.net net_525 1 pin_T_43_173
+.net net_526 1 pin_T_43_185
+.net net_527 1 pin_T_44_74
+.net net_528 1 pin_T_44_95
+.net net_529 1 pin_T_44_127
+.net net_530 1 pin_T_44_173
+.net net_531 1 pin_T_44_185
+.net net_532 1 pin_T_45_33
+.net net_533 1 pin_T_45_42
+.net net_534 1 pin_T_45_44
+.net net_535 1 pin_T_45_51
+.net net_536 1 pin_T_45_59
+.net net_537 1 pin_T_45_70
+.net net_538 1 pin_T_45_95
+.net net_539 1 pin_T_45_127
+.net net_540 1 pin_T_45_157
+.net net_541 1 pin_T_45_173
+.net net_542 1 pin_T_45_185
+.net net_543 1 pin_T_46_15
+.net net_544 1 pin_T_46_17
+.net net_545 1 pin_T_46_19
+.net net_546 1 pin_T_46_21
+.net net_547 1 pin_T_46_23
+.net net_548 1 pin_T_46_35
+.net net_549 1 pin_T_46_37
+.net net_550 1 pin_T_46_46
+.net net_551 1 pin_T_46_48
+.net net_552 1 pin_T_46_53
+.net net_553 1 pin_T_46_61
+.net net_554 1 pin_T_46_68
+.net net_555 1 pin_T_46_95
+.net net_556 1 pin_T_46_127
+.net net_557 1 pin_T_46_173
+.net net_558 1 pin_T_46_185
+.net net_559 1 pin_T_47_33
+.net net_560 1 pin_T_47_50
+.net net_561 1 pin_T_47_63
+.net net_562 1 pin_T_47_70
+.net net_563 1 pin_T_47_95
+.net net_564 1 pin_T_47_127
+.net net_565 1 pin_T_47_157
+.net net_566 1 pin_T_47_173
+.net net_567 1 pin_T_47_185
+.net net_568 1 pin_T_48_37
+.net net_569 1 pin_T_48_44
+.net net_570 1 pin_T_48_60
+.net net_571 1 pin_T_48_72
+.net net_572 1 pin_T_48_74
+.net net_573 1 pin_T_48_95
+.net net_574 1 pin_T_48_127
+.net net_575 1 pin_T_48_173
+.net net_576 1 pin_T_48_185
+.net net_577 1 pin_T_49_48
+.net net_578 1 pin_T_49_56
+.net net_579 1 pin_T_49_69
+.net net_580 1 pin_T_49_95
+.net net_581 1 pin_T_49_127
+.net net_582 1 pin_T_49_140
+.net net_583 1 pin_T_49_157
+.net net_584 1 pin_T_49_173
+.net net_585 1 pin_T_49_185
+.net net_586 1 pin_T_50_15
+.net net_587 1 pin_T_50_17
+.net net_588 1 pin_T_50_19
+.net net_589 1 pin_T_50_21
+.net net_590 1 pin_T_50_23
+.net net_591 1 pin_T_50_37
+.net net_592 1 pin_T_50_44
+.net net_593 1 pin_T_50_95
+.net net_594 1 pin_T_50_127
+.net net_595 1 pin_T_50_173
+.net net_596 1 pin_T_50_185
+.net net_597 1 pin_T_51_41
+.net net_598 1 pin_T_51_53
+.net net_599 1 pin_T_51_59
+.net net_600 1 pin_T_51_68
+.net net_601 1 pin_T_51_73
+.net net_602 1 pin_T_51_95
+.net net_603 1 pin_T_51_127
+.net net_604 1 pin_T_51_139
+.net net_605 1 pin_T_51_157
+.net net_606 1 pin_T_51_185
+.net net_607 1 pin_T_52_34
+.net net_608 1 pin_T_52_36
+.net net_609 1 pin_T_52_43
+.net net_610 1 pin_T_52_61
+.net net_611 1 pin_T_52_70
+.net net_612 1 pin_T_52_95
+.net net_613 1 pin_T_52_127
+.net net_614 1 pin_T_52_173
+.net net_615 1 pin_T_52_185
+.net net_616 1 pin_T_53_51
+.net net_617 1 pin_T_53_53
+.net net_618 1 pin_T_53_59
+.net net_619 1 pin_T_53_68
+.net net_620 1 pin_T_53_72
+.net net_621 1 pin_T_53_95
+.net net_622 1 pin_T_53_127
+.net net_623 1 pin_T_53_173
+.net net_624 1 pin_T_53_185
+.net net_625 1 pin_T_54_15
+.net net_626 1 pin_T_54_17
+.net net_627 1 pin_T_54_21
+.net net_628 1 pin_T_54_23
+.net net_629 1 pin_T_54_33
+.net net_630 1 pin_T_54_36
+.net net_631 1 pin_T_54_44
+.net net_632 1 pin_T_54_47
+.net net_633 1 pin_T_54_61
+.net net_634 1 pin_T_54_70
+.net net_635 1 pin_T_54_127
+.net net_636 1 pin_T_54_173
+.net net_637 1 pin_T_54_185
+.net net_638 1 pin_T_55_54
+.net net_639 1 pin_T_55_68
+.net net_640 1 pin_T_55_72
+.net net_641 1 pin_T_55_95
+.net net_642 1 pin_T_55_127
+.net net_643 1 pin_T_55_173
+.net net_644 1 pin_T_55_185
+.net net_645 1 pin_T_56_33
+.net net_646 1 pin_T_56_42
+.net net_647 1 pin_T_56_61
+.net net_648 1 pin_T_56_74
+.net net_649 1 pin_T_56_95
+.net net_650 1 pin_T_56_127
+.net net_651 1 pin_T_56_173
+.net net_652 1 pin_T_56_185
+.net net_653 1 pin_T_57_37
+.net net_654 1 pin_T_57_46
+.net net_655 1 pin_T_57_50
+.net net_656 1 pin_T_57_53
+.net net_657 1 pin_T_57_55
+.net net_658 1 pin_T_57_68
+.net net_659 1 pin_T_57_72
+.net net_660 1 pin_T_57_127
+.net net_661 1 pin_T_57_173
+.net net_662 1 pin_T_57_185
+.net net_663 1 pin_T_58_15
+.net net_664 1 pin_T_58_19
+.net net_665 1 pin_T_58_21
+.net net_666 1 pin_T_58_23
+.net net_667 1 pin_T_58_35
+.net net_668 1 pin_T_58_41
+.net net_669 1 pin_T_58_57
+.net net_670 1 pin_T_58_61
+.net net_671 1 pin_T_58_63
+.net net_672 1 pin_T_58_95
+.net net_673 1 pin_T_58_127
+.net net_674 1 pin_T_58_173
+.net net_675 1 pin_T_58_185
+.net net_676 1 pin_T_59_45
+.net net_677 1 pin_T_59_47
+.net net_678 1 pin_T_59_49
+.net net_679 1 pin_T_59_59
+.net net_680 1 pin_T_59_67
+.net net_681 1 pin_T_59_95
+.net net_682 1 pin_T_59_173
+.net net_683 1 pin_T_59_185
+.net net_684 1 pin_T_60_41
+.net net_685 1 pin_T_60_43
+.net net_686 1 pin_T_60_61
+.net net_687 1 pin_T_60_63
+.net net_688 1 pin_T_60_95
+.net net_689 1 pin_T_60_127
+.net net_690 1 pin_T_60_173
+.net net_691 1 pin_T_60_185
+.net net_692 1 pin_T_61_32
+.net net_693 1 pin_T_61_48
+.net net_694 1 pin_T_61_67
+.net net_695 1 pin_T_61_70
+.net net_696 1 pin_T_61_72
+.net net_697 1 pin_T_61_74
+.net net_698 1 pin_T_61_95
+.net net_699 1 pin_T_61_127
+.net net_700 1 pin_T_61_173
+.net net_701 1 pin_T_61_185
+.net net_702 1 pin_T_62_15
+.net net_703 1 pin_T_62_17
+.net net_704 1 pin_T_62_19
+.net net_705 1 pin_T_62_21
+.net net_706 1 pin_T_62_23
+.net net_707 1 pin_T_62_42
+.net net_708 1 pin_T_62_45
+.net net_709 1 pin_T_62_95
+.net net_710 1 pin_T_62_127
+.net net_711 1 pin_T_62_139
+.net net_712 1 pin_T_62_141
+.net net_713 1 pin_T_62_143
+.net net_714 1 pin_T_62_145
+.net net_715 1 pin_T_62_147
+.net net_716 1 pin_T_62_149
+.net net_717 1 pin_T_62_151
+.net net_718 1 pin_T_62_153
+.net net_719 1 pin_T_62_157
+.net net_720 1 pin_T_62_173
+.net net_721 1 pin_T_62_185
+.net net_722 1 pin_T_63_33
+.net net_723 1 pin_T_63_49
+.net net_724 1 pin_T_63_51
+.net net_725 1 pin_T_63_58
+.net net_726 1 pin_T_63_62
+.net net_727 1 pin_T_63_68
+.net net_728 1 pin_T_63_74
+.net net_729 1 pin_T_63_95
+.net net_730 1 pin_T_63_127
+.net net_731 1 pin_T_63_173
+.net net_732 1 pin_T_63_185
+.net net_733 1 pin_T_64_45
+.net net_734 1 pin_T_64_47
+.net net_735 1 pin_T_64_53
+.net net_736 1 pin_T_64_60
+.net net_737 1 pin_T_64_70
+.net net_738 1 pin_T_64_72
+.net net_739 1 pin_T_64_95
+.net net_740 1 pin_T_64_127
+.net net_741 1 pin_T_64_157
+.net net_742 1 pin_T_64_173
+.net net_743 1 pin_T_64_185
+.net net_744 1 pin_T_65_33
+.net net_745 1 pin_T_65_57
+.net net_746 1 pin_T_65_67
+.net net_747 1 pin_T_65_74
+.net net_748 1 pin_T_65_95
+.net net_749 1 pin_T_65_173
+.net net_750 1 pin_T_65_185
+.net net_751 1 pin_T_66_15
+.net net_752 1 pin_T_66_17
+.net net_753 1 pin_T_66_19
+.net net_754 1 pin_T_66_23
+.net net_755 1 pin_T_66_37
+.net net_756 1 pin_T_66_46
+.net net_757 1 pin_T_66_59
+.net net_758 1 pin_T_66_61
+.net net_759 1 pin_T_66_63
+.net net_760 1 pin_T_66_71
+.net net_761 1 pin_T_66_95
+.net net_762 1 pin_T_66_127
+.net net_763 1 pin_T_66_157
+.net net_764 1 pin_T_66_173
+.net net_765 1 pin_T_66_185
+.net net_766 1 pin_T_67_41
+.net net_767 1 pin_T_67_48
+.net net_768 1 pin_T_67_54
+.net net_769 1 pin_T_67_56
+.net net_770 1 pin_T_67_65
+.net net_771 1 pin_T_67_67
+.net net_772 1 pin_T_67_95
+.net net_773 1 pin_T_67_127
+.net net_774 1 pin_T_67_173
+.net net_775 1 pin_T_67_185
+.net net_776 1 pin_T_68_45
+.net net_777 1 pin_T_68_58
+.net net_778 1 pin_T_68_60
+.net net_779 1 pin_T_68_62
+.net net_780 1 pin_T_68_70
+.net net_781 1 pin_T_68_95
+.net net_782 1 pin_T_68_127
+.net net_783 1 pin_T_68_157
+.net net_784 1 pin_T_68_173
+.net net_785 1 pin_T_68_185
+.net net_786 1 pin_T_69_95
+.net net_787 1 pin_T_69_127
+.net net_788 1 pin_T_69_173
+.net net_789 1 pin_T_69_185
+.net net_790 1 pin_T_70_15
+.net net_791 1 pin_T_70_17
+.net net_792 1 pin_T_70_19
+.net net_793 1 pin_T_70_21
+.net net_794 1 pin_T_70_23
+.net net_795 1 pin_T_70_95
+.net net_796 1 pin_T_70_127
+.net net_797 1 pin_T_70_157
+.net net_798 1 pin_T_70_173
+.net net_799 1 pin_T_70_185
+.net net_800 1 pin_T_71_95
+.net net_801 1 pin_T_71_173
+.net net_802 1 pin_T_71_185
+.net net_803 1 pin_T_72_32
+.net net_804 1 pin_T_72_36
+.net net_805 1 pin_T_72_38
+.net net_806 1 pin_T_72_40
+.net net_807 1 pin_T_72_42
+.net net_808 1 pin_T_72_44
+.net net_809 1 pin_T_72_46
+.net net_810 1 pin_T_72_48
+.net net_811 1 pin_T_72_50
+.net net_812 1 pin_T_72_127
+.net net_813 1 pin_T_72_157
+.net net_814 1 pin_T_72_173
+.net net_815 1 pin_T_72_185
+.net net_816 1 pin_T_73_95
+.net net_817 1 pin_T_73_127
+.net net_818 1 pin_T_73_185
+.net net_819 1 pin_T_74_15
+.net net_820 1 pin_T_74_17
+.net net_821 1 pin_T_74_19
+.net net_822 1 pin_T_74_21
+.net net_823 1 pin_T_74_23
+.net net_824 1 pin_T_74_50
+.net net_825 1 pin_T_74_95
+.net net_826 1 pin_T_74_127
+.net net_827 1 pin_T_74_157
+.net net_828 1 pin_T_74_173
+.net net_829 1 pin_T_74_175
+.net net_830 1 pin_T_74_176
+.net net_831 1 pin_T_74_185
+.net net_832 1 pin_T_75_96
+.net net_833 1 pin_T_75_97
+.net net_834 1 pin_T_75_98
+.net net_835 1 pin_T_75_99
+.net net_836 1 pin_T_75_100
+.net net_837 1 pin_T_75_101
+.net net_838 1 pin_T_75_102
+.net net_839 1 pin_T_75_103
+.net net_840 1 pin_T_75_104
+.net net_841 1 pin_T_75_105
+.net net_842 1 pin_T_75_106
+.net net_843 1 pin_T_75_107
+.net net_844 1 pin_T_75_108
+.net net_845 1 pin_T_75_109
+.net net_846 1 pin_T_75_110
+.net net_847 1 pin_T_75_111
+.net net_848 1 pin_T_75_112
+.net net_849 1 pin_T_75_113
+.net net_850 1 pin_T_75_114
+.net net_851 1 pin_T_75_115
+.net net_852 1 pin_T_75_116
+.net net_853 1 pin_T_75_117
+.net net_854 1 pin_T_75_118
+.net net_855 1 pin_T_75_119
+.net net_856 1 pin_T_75_120
+.net net_857 1 pin_T_75_121
+.net net_858 1 pin_T_75_122
+.net net_859 1 pin_T_75_123
+.net net_860 1 pin_T_75_124
+.net net_861 1 pin_T_75_125
+.net net_862 1 pin_T_75_126
+.net net_863 1 pin_T_75_127
+.net net_864 1 pin_T_75_173
+.net net_865 1 pin_T_75_185
+.net net_866 1 pin_T_76_50
+.net net_867 1 pin_T_76_74
+.net net_868 1 pin_T_76_77
+.net net_869 1 pin_T_76_157
+.net net_870 1 pin_T_76_175
+.net net_871 1 pin_T_76_176
+.net net_872 1 pin_T_76_177
+.net net_873 1 pin_T_76_185
+.net net_874 1 pin_T_77_73
+.net net_875 1 pin_T_77_76
+.net net_876 1 pin_T_77_173
+.net net_877 1 pin_T_78_15
+.net net_878 1 pin_T_78_17
+.net net_879 1 pin_T_78_19
+.net net_880 1 pin_T_78_21
+.net net_881 1 pin_T_78_23
+.net net_882 1 pin_T_78_50
+.net net_883 1 pin_T_78_72
+.net net_884 1 pin_T_78_75
+.net net_885 1 pin_T_78_157
+.net net_886 1 pin_T_78_173
+.net net_887 1 pin_T_78_185
+.net net_888 1 pin_T_79_71
+.net net_889 1 pin_T_79_74
+.net net_890 1 pin_T_79_140
+.net net_891 1 pin_T_79_173
+.net net_892 1 pin_T_79_174
+.net net_893 1 pin_T_79_175
+.net net_894 1 pin_T_79_177
+.net net_895 1 pin_T_79_178
+.net net_896 1 pin_T_79_179
+.net net_897 1 pin_T_79_181
+.net net_898 1 pin_T_79_182
+.net net_899 1 pin_T_79_183
+.net net_900 1 pin_T_79_184
+.net net_901 1 pin_T_79_185
+.net net_902 1 pin_T_80_50
+.net net_903 1 pin_T_80_72
+.net net_904 1 pin_T_80_75
+.net net_905 1 pin_T_80_110
+.net net_906 1 pin_T_80_111
+.net net_907 1 pin_T_80_112
+.net net_908 1 pin_T_80_114
+.net net_909 1 pin_T_80_116
+.net net_910 1 pin_T_80_118
+.net net_911 1 pin_T_80_120
+.net net_912 1 pin_T_80_122
+.net net_913 1 pin_T_80_124
+.net net_914 1 pin_T_80_126
+.net net_915 1 pin_T_80_128
+.net net_916 1 pin_T_80_130
+.net net_917 1 pin_T_80_132
+.net net_918 1 pin_T_80_134
+.net net_919 1 pin_T_80_136
+.net net_920 1 pin_T_81_73
+.net net_921 1 pin_T_81_76
+.net net_922 1 pin_T_81_139
+.net net_923 1 pin_T_82_15
+.net net_924 1 pin_T_82_17
+.net net_925 1 pin_T_82_19
+.net net_926 1 pin_T_82_21
+.net net_927 1 pin_T_82_23
+.net net_928 1 pin_T_82_50
+.net net_929 1 pin_T_82_77
+.net net_930 1 pin_T_83_73
+.net net_931 1 pin_T_83_76
+.net net_932 1 pin_T_83_112
+.net net_933 1 pin_T_83_114
+.net net_934 1 pin_T_83_116
+.net net_935 1 pin_T_83_118
+.net net_936 1 pin_T_83_120
+.net net_937 1 pin_T_83_122
+.net net_938 1 pin_T_83_124
+.net net_939 1 pin_T_83_126
+.net net_940 1 pin_T_83_128
+.net net_941 1 pin_T_83_130
+.net net_942 1 pin_T_83_132
+.net net_943 1 pin_T_83_134
+.net net_944 1 pin_T_83_136
+.net net_945 1 pin_T_84_50
+.net net_946 1 pin_T_84_72
+.net net_947 1 pin_T_84_75
+.net net_948 1 pin_T_84_110
+.net net_949 1 pin_T_85_71
+.net net_950 1 pin_T_85_74
+.net net_951 1 pin_T_85_112
+.net net_952 1 pin_T_85_134
+.net net_953 1 pin_T_85_136
+.net net_954 1 pin_T_86_15
+.net net_955 1 pin_T_86_17
+.net net_956 1 pin_T_86_19
+.net net_957 1 pin_T_86_21
+.net net_958 1 pin_T_86_23
+.net net_959 1 pin_T_86_50
+.net net_960 1 pin_T_86_72
+.net net_961 1 pin_T_86_75
+.net net_962 1 pin_T_86_110
+.net net_963 1 pin_T_87_73
+.net net_964 1 pin_T_87_76
+.net net_965 1 pin_T_87_112
+.net net_966 1 pin_T_87_134
+.net net_967 1 pin_T_87_136
+.net net_968 1 pin_T_88_33
+.net net_969 1 pin_T_88_50
+.net net_970 1 pin_T_88_77
+.net net_971 1 pin_T_88_110
+.net net_972 1 pin_T_89_73
+.net net_973 1 pin_T_89_76
+.net net_974 1 pin_T_89_112
+.net net_975 1 pin_T_89_134
+.net net_976 1 pin_T_89_136
+.net net_977 1 pin_T_89_166
+.net net_978 1 pin_T_89_167
+.net net_979 1 pin_T_89_168
+.net net_980 1 pin_T_89_170
+.net net_981 1 pin_T_89_172
+.net net_982 1 pin_T_89_174
+.net net_983 1 pin_T_89_176
+.net net_984 1 pin_T_89_178
+.net net_985 1 pin_T_89_180
+.net net_986 1 pin_T_89_182
+.net net_987 1 pin_T_89_184
+.net net_988 1 pin_T_89_186
+.net net_989 1 pin_T_89_188
+.net net_990 1 pin_T_89_190
+.net net_991 1 pin_T_90_17
+.net net_992 1 pin_T_90_19
+.net net_993 1 pin_T_90_21
+.net net_994 1 pin_T_90_23
+.net net_995 1 pin_T_90_32
+.net net_996 1 pin_T_90_72
+.net net_997 1 pin_T_90_75
+.net net_998 1 pin_T_90_110
+.net net_999 1 pin_T_90_161
+.net net_1000 1 pin_T_90_162
+.net net_1001 1 pin_T_90_163
+.net net_1002 1 pin_T_91_71
+.net net_1003 1 pin_T_91_74
+.net net_1004 1 pin_T_91_134
+.net net_1005 1 pin_T_91_139
+.net net_1006 1 pin_T_91_141
+.net net_1007 1 pin_T_91_147
+.net net_1008 1 pin_T_91_149
+.net net_1009 1 pin_T_91_153
+.net net_1010 1 pin_T_91_155
+.net net_1011 1 pin_T_91_157
+.net net_1012 1 pin_T_92_8
+.net net_1013 1 pin_T_92_9
+.net net_1014 1 pin_T_92_10
+.net net_1015 1 pin_T_92_72
+.net net_1016 1 pin_T_92_75
+.net net_1017 1 pin_T_92_110
+.net net_1018 1 pin_T_92_168
+.net net_1019 1 pin_T_92_170
+.net net_1020 1 pin_T_92_172
+.net net_1021 1 pin_T_92_174
+.net net_1022 1 pin_T_92_176
+.net net_1023 1 pin_T_92_178
+.net net_1024 1 pin_T_92_180
+.net net_1025 1 pin_T_92_184
+.net net_1026 1 pin_T_92_186
+.net net_1027 1 pin_T_92_188
+.net net_1028 1 pin_T_92_192
+.net net_1029 1 pin_T_93_73
+.net net_1030 1 pin_T_93_112
+.net net_1031 1 pin_T_93_134
+.net net_1032 1 pin_T_93_136
+.net net_1033 1 pin_T_93_157
+.net net_1034 1 pin_T_93_166
+.net net_1035 1 pin_T_94_15
+.net net_1036 1 pin_T_94_17
+.net net_1037 1 pin_T_94_19
+.net net_1038 1 pin_T_94_21
+.net net_1039 1 pin_T_94_23
+.net net_1040 1 pin_T_94_77
+.net net_1041 1 pin_T_94_110
+.net net_1042 1 pin_T_94_168
+.net net_1043 1 pin_T_94_190
+.net net_1044 1 pin_T_94_192
+.net net_1045 1 pin_T_95_73
+.net net_1046 1 pin_T_95_76
+.net net_1047 1 pin_T_95_83
+.net net_1048 1 pin_T_95_88
+.net net_1049 1 pin_T_95_93
+.net net_1050 1 pin_T_95_112
+.net net_1051 1 pin_T_95_134
+.net net_1052 1 pin_T_95_136
+.net net_1053 1 pin_T_95_157
+.net net_1054 1 pin_T_95_161
+.net net_1055 1 pin_T_95_162
+.net net_1056 1 pin_T_95_166
+.net net_1057 1 pin_T_96_67
+.net net_1058 1 pin_T_96_72
+.net net_1059 1 pin_T_96_110
+.net net_1060 1 pin_T_96_168
+.net net_1061 1 pin_T_96_190
+.net net_1062 1 pin_T_96_192
+.net net_1063 1 pin_T_97_8
+.net net_1064 1 pin_T_97_9
+.net net_1065 1 pin_T_97_10
+.net net_1066 1 pin_T_97_66
+.net net_1067 1 pin_T_97_71
+.net net_1068 1 pin_T_97_74
+.net net_1069 1 pin_T_97_83
+.net net_1070 1 pin_T_97_88
+.net net_1071 1 pin_T_97_93
+.net net_1072 1 pin_T_97_112
+.net net_1073 1 pin_T_97_134
+.net net_1074 1 pin_T_97_136
+.net net_1075 1 pin_T_97_157
+.net net_1076 1 pin_T_97_166
+.net net_1077 1 pin_T_98_15
+.net net_1078 1 pin_T_98_17
+.net net_1079 1 pin_T_98_19
+.net net_1080 1 pin_T_98_21
+.net net_1081 1 pin_T_98_23
+.net net_1082 1 pin_T_98_65
+.net net_1083 1 pin_T_98_72
+.net net_1084 1 pin_T_98_168
+.net net_1085 1 pin_T_98_190
+.net net_1086 1 pin_T_98_192
+.net net_1087 1 pin_T_99_64
+.net net_1088 1 pin_T_99_67
+.net net_1089 1 pin_T_99_73
+.net net_1090 1 pin_T_99_85
+.net net_1091 1 pin_T_99_90
+.net net_1092 1 pin_T_99_95
+.net net_1093 1 pin_T_99_112
+.net net_1094 1 pin_T_99_136
+.net net_1095 1 pin_T_99_157
+.net net_1096 1 pin_T_99_166
+.net net_1097 1 pin_T_100_63
+.net net_1098 1 pin_T_100_66
+.net net_1099 1 pin_T_100_77
+.net net_1100 1 pin_T_100_168
+.net net_1101 1 pin_T_100_190
+.net net_1102 1 pin_T_100_192
+.net net_1103 1 pin_T_101_32
+.net net_1104 1 pin_T_101_34
+.net net_1105 1 pin_T_101_36
+.net net_1106 1 pin_T_101_38
+.net net_1107 1 pin_T_101_40
+.net net_1108 1 pin_T_101_42
+.net net_1109 1 pin_T_101_44
+.net net_1110 1 pin_T_101_46
+.net net_1111 1 pin_T_101_48
+.net net_1112 1 pin_T_101_50
+.net net_1113 1 pin_T_101_65
+.net net_1114 1 pin_T_101_73
+.net net_1115 1 pin_T_101_76
+.net net_1116 1 pin_T_101_90
+.net net_1117 1 pin_T_101_95
+.net net_1118 1 pin_T_101_112
+.net net_1119 1 pin_T_101_134
+.net net_1120 1 pin_T_101_136
+.net net_1121 1 pin_T_101_157
+.net net_1122 1 pin_T_102_17
+.net net_1123 1 pin_T_102_19
+.net net_1124 1 pin_T_102_23
+.net net_1125 1 pin_T_102_64
+.net net_1126 1 pin_T_102_67
+.net net_1127 1 pin_T_102_72
+.net net_1128 1 pin_T_102_75
+.net net_1129 1 pin_T_102_110
+.net net_1130 1 pin_T_102_168
+.net net_1131 1 pin_T_102_190
+.net net_1132 1 pin_T_103_50
+.net net_1133 1 pin_T_103_63
+.net net_1134 1 pin_T_103_66
+.net net_1135 1 pin_T_103_71
+.net net_1136 1 pin_T_103_74
+.net net_1137 1 pin_T_103_84
+.net net_1138 1 pin_T_103_89
+.net net_1139 1 pin_T_103_94
+.net net_1140 1 pin_T_103_112
+.net net_1141 1 pin_T_103_134
+.net net_1142 1 pin_T_103_136
+.net net_1143 1 pin_T_103_157
+.net net_1144 1 pin_T_103_166
+.net net_1145 1 pin_T_104_65
+.net net_1146 1 pin_T_104_72
+.net net_1147 1 pin_T_104_75
+.net net_1148 1 pin_T_104_110
+.net net_1149 1 pin_T_104_168
+.net net_1150 1 pin_T_104_190
+.net net_1151 1 pin_T_104_192
+.net net_1152 1 pin_T_105_50
+.net net_1153 1 pin_T_105_64
+.net net_1154 1 pin_T_105_67
+.net net_1155 1 pin_T_105_73
+.net net_1156 1 pin_T_105_76
+.net net_1157 1 pin_T_105_84
+.net net_1158 1 pin_T_105_89
+.net net_1159 1 pin_T_105_94
+.net net_1160 1 pin_T_105_112
+.net net_1161 1 pin_T_105_136
+.net net_1162 1 pin_T_105_157
+.net net_1163 1 pin_T_105_166
+.net net_1164 1 pin_T_106_15
+.net net_1165 1 pin_T_106_17
+.net net_1166 1 pin_T_106_19
+.net net_1167 1 pin_T_106_21
+.net net_1168 1 pin_T_106_23
+.net net_1169 1 pin_T_106_63
+.net net_1170 1 pin_T_106_66
+.net net_1171 1 pin_T_106_77
+.net net_1172 1 pin_T_106_110
+.net net_1173 1 pin_T_106_168
+.net net_1174 1 pin_T_106_190
+.net net_1175 1 pin_T_106_192
+.net net_1176 1 pin_T_107_50
+.net net_1177 1 pin_T_107_65
+.net net_1178 1 pin_T_107_73
+.net net_1179 1 pin_T_107_76
+.net net_1180 1 pin_T_107_84
+.net net_1181 1 pin_T_107_89
+.net net_1182 1 pin_T_107_94
+.net net_1183 1 pin_T_107_134
+.net net_1184 1 pin_T_107_136
+.net net_1185 1 pin_T_107_140
+.net net_1186 1 pin_T_107_157
+.net net_1187 1 pin_T_107_166
+.net net_1188 1 pin_T_108_64
+.net net_1189 1 pin_T_108_72
+.net net_1190 1 pin_T_108_75
+.net net_1191 1 pin_T_108_110
+.net net_1192 1 pin_T_108_168
+.net net_1193 1 pin_T_108_190
+.net net_1194 1 pin_T_108_192
+.net net_1195 1 pin_T_109_50
+.net net_1196 1 pin_T_109_63
+.net net_1197 1 pin_T_109_71
+.net net_1198 1 pin_T_109_74
+.net net_1199 1 pin_T_109_84
+.net net_1200 1 pin_T_109_89
+.net net_1201 1 pin_T_109_94
+.net net_1202 1 pin_T_109_112
+.net net_1203 1 pin_T_109_134
+.net net_1204 1 pin_T_109_136
+.net net_1205 1 pin_T_109_139
+.net net_1206 1 pin_T_109_166
+.net net_1207 1 pin_T_110_72
+.net net_1208 1 pin_T_110_75
+.net net_1209 1 pin_T_110_168
+.net net_1210 1 pin_T_110_190
+.net net_1211 1 pin_T_110_192
+.net net_1212 1 pin_T_111_50
+.net net_1213 1 pin_T_111_73
+.net net_1214 1 pin_T_111_76
+.net net_1215 1 pin_T_111_88
+.net net_1216 1 pin_T_111_93
+.net net_1217 1 pin_T_111_110
+.net net_1218 1 pin_T_111_112
+.net net_1219 1 pin_T_111_114
+.net net_1220 1 pin_T_111_116
+.net net_1221 1 pin_T_111_118
+.net net_1222 1 pin_T_111_122
+.net net_1223 1 pin_T_111_124
+.net net_1224 1 pin_T_111_126
+.net net_1225 1 pin_T_111_128
+.net net_1226 1 pin_T_111_130
+.net net_1227 1 pin_T_111_132
+.net net_1228 1 pin_T_111_134
+.net net_1229 1 pin_T_111_136
+.net net_1230 1 pin_T_111_166
+.net net_1231 1 pin_T_112_77
+.net net_1232 1 pin_T_112_168
+.net net_1233 1 pin_T_112_190
+.net net_1234 1 pin_T_112_192
+.net net_1235 1 pin_T_113_50
+.net net_1236 1 pin_T_113_73
+.net net_1237 1 pin_T_113_76
+.net net_1238 1 pin_T_113_83
+.net net_1239 1 pin_T_113_93
+.net net_1240 1 pin_T_113_166
+.net net_1241 1 pin_T_114_65
+.net net_1242 1 pin_T_114_72
+.net net_1243 1 pin_T_114_75
+.net net_1244 1 pin_T_114_110
+.net net_1245 1 pin_T_114_111
+.net net_1246 1 pin_T_114_112
+.net net_1247 1 pin_T_114_114
+.net net_1248 1 pin_T_114_116
+.net net_1249 1 pin_T_114_118
+.net net_1250 1 pin_T_114_122
+.net net_1251 1 pin_T_114_124
+.net net_1252 1 pin_T_114_128
+.net net_1253 1 pin_T_114_130
+.net net_1254 1 pin_T_114_132
+.net net_1255 1 pin_T_114_134
+.net net_1256 1 pin_T_114_136
+.net net_1257 1 pin_T_114_168
+.net net_1258 1 pin_T_114_190
+.net net_1259 1 pin_T_115_50
+.net net_1260 1 pin_T_115_64
+.net net_1261 1 pin_T_115_67
+.net net_1262 1 pin_T_115_71
+.net net_1263 1 pin_T_115_74
+.net net_1264 1 pin_T_115_85
+.net net_1265 1 pin_T_115_90
+.net net_1266 1 pin_T_115_95
+.net net_1267 1 pin_T_115_166
+.net net_1268 1 pin_T_116_63
+.net net_1269 1 pin_T_116_66
+.net net_1270 1 pin_T_116_72
+.net net_1271 1 pin_T_116_75
+.net net_1272 1 pin_T_116_168
+.net net_1273 1 pin_T_116_192
+.net net_1274 1 pin_T_117_50
+.net net_1275 1 pin_T_117_65
+.net net_1276 1 pin_T_117_73
+.net net_1277 1 pin_T_117_76
+.net net_1278 1 pin_T_118_33
+.net net_1279 1 pin_T_118_64
+.net net_1280 1 pin_T_118_67
+.net net_1281 1 pin_T_118_77
+.net net_1282 1 pin_T_118_90
+.net net_1283 1 pin_T_118_95
+.net net_1284 1 pin_T_118_168
+.net net_1285 1 pin_T_118_190
+.net net_1286 1 pin_T_118_192
+.net net_1287 1 pin_T_119_50
+.net net_1288 1 pin_T_119_63
+.net net_1289 1 pin_T_119_66
+.net net_1290 1 pin_T_119_73
+.net net_1291 1 pin_T_119_76
+.net net_1292 1 pin_T_119_166
+.net net_1293 1 pin_T_120_32
+.net net_1294 1 pin_T_120_65
+.net net_1295 1 pin_T_120_72
+.net net_1296 1 pin_T_120_75
+.net net_1297 1 pin_T_120_84
+.net net_1298 1 pin_T_120_89
+.net net_1299 1 pin_T_120_94
+.net net_1300 1 pin_T_120_166
+.net net_1301 1 pin_T_120_168
+.net net_1302 1 pin_T_120_170
+.net net_1303 1 pin_T_120_172
+.net net_1304 1 pin_T_120_174
+.net net_1305 1 pin_T_120_176
+.net net_1306 1 pin_T_120_178
+.net net_1307 1 pin_T_120_180
+.net net_1308 1 pin_T_120_182
+.net net_1309 1 pin_T_120_184
+.net net_1310 1 pin_T_120_186
+.net net_1311 1 pin_T_120_188
+.net net_1312 1 pin_T_120_190
+.net net_1313 1 pin_T_120_192
+.net net_1314 1 pin_T_121_64
+.net net_1315 1 pin_T_121_67
+.net net_1316 1 pin_T_121_74
+.net net_1317 1 pin_T_122_63
+.net net_1318 1 pin_T_122_66
+.net net_1319 1 pin_T_122_84
+.net net_1320 1 pin_T_122_89
+.net net_1321 1 pin_T_122_94
+.net net_1322 1 pin_T_123_65
+.net net_1323 1 pin_T_123_72
+.net net_1324 1 pin_T_123_73
+.net net_1325 1 pin_T_123_74
+.net net_1326 1 pin_T_123_75
+.net net_1327 1 pin_T_123_76
+.net net_1328 1 pin_T_123_77
+.net net_1329 1 pin_T_123_78
+.net net_1330 1 pin_T_123_166
+.net net_1331 1 pin_T_123_167
+.net net_1332 1 pin_T_123_168
+.net net_1333 1 pin_T_123_170
+.net net_1334 1 pin_T_123_172
+.net net_1335 1 pin_T_123_176
+.net net_1336 1 pin_T_123_178
+.net net_1337 1 pin_T_123_180
+.net net_1338 1 pin_T_123_182
+.net net_1339 1 pin_T_123_184
+.net net_1340 1 pin_T_123_188
+.net net_1341 1 pin_T_123_190
+.net net_1342 1 pin_T_123_192
+.net net_1343 1 pin_T_124_64
+.net net_1344 1 pin_T_124_72
+.net net_1345 1 pin_T_124_73
+.net net_1346 1 pin_T_124_74
+.net net_1347 1 pin_T_124_76
+.net net_1348 1 pin_T_124_77
+.net net_1349 1 pin_T_124_78
+.net net_1350 1 pin_T_124_89
+.net net_1351 1 pin_T_124_94
+.net net_1352 1 pin_T_125_63
+.net net_1353 1 pin_T_125_71
+.net net_1354 1 pin_T_125_72
+.net net_1355 1 pin_T_125_73
+.net net_1356 1 pin_T_125_74
+.net net_1357 1 pin_T_125_75
+.net net_1358 1 pin_T_125_76
+.net net_1359 1 pin_T_125_77
+.net net_1360 1 pin_T_125_78
+.net net_1361 1 pin_T_127_74
+.net net_1362 1 pin_T_127_77
+.net net_1363 1 pin_T_127_89
+.net net_1364 1 pin_T_127_94
+.net net_1365 1 pin_T_128_73
+.net net_1366 1 pin_T_128_76
+.net net_1367 1 pin_T_129_66
+.net net_1368 1 pin_T_129_72
+.net net_1369 1 pin_T_129_75
+.net net_1370 1 pin_T_129_83
+.net net_1371 1 pin_T_129_88
+.net net_1372 1 pin_T_129_93
+.net net_1373 1 pin_T_130_32
+.net net_1374 1 pin_T_130_34
+.net net_1375 1 pin_T_130_36
+.net net_1376 1 pin_T_130_38
+.net net_1377 1 pin_T_130_42
+.net net_1378 1 pin_T_130_44
+.net net_1379 1 pin_T_130_46
+.net net_1380 1 pin_T_130_48
+.net net_1381 1 pin_T_130_50
+.net net_1382 1 pin_T_130_65
+.net net_1383 1 pin_T_130_71
+.net net_1384 1 pin_T_130_74
+.net net_1385 1 pin_T_131_64
+.net net_1386 1 pin_T_131_67
+.net net_1387 1 pin_T_131_72
+.net net_1388 1 pin_T_131_75
+.net net_1389 1 pin_T_131_83
+.net net_1390 1 pin_T_131_88
+.net net_1391 1 pin_T_131_93
+.net net_1392 1 pin_T_132_50
+.net net_1393 1 pin_T_132_63
+.net net_1394 1 pin_T_132_66
+.net net_1395 1 pin_T_132_73
+.net net_1396 1 pin_T_133_65
+.net net_1397 1 pin_T_133_77
+.net net_1398 1 pin_T_133_85
+.net net_1399 1 pin_T_133_95
+.net net_1400 1 pin_T_134_50
+.net net_1401 1 pin_T_134_64
+.net net_1402 1 pin_T_134_67
+.net net_1403 1 pin_T_134_73
+.net net_1404 1 pin_T_134_76
+.net net_1405 1 pin_T_135_63
+.net net_1406 1 pin_T_135_66
+.net net_1407 1 pin_T_135_72
+.net net_1408 1 pin_T_135_85
+.net net_1409 1 pin_T_135_90
+.net net_1410 1 pin_T_135_95
+.net net_1411 1 pin_T_136_50
+.net net_1412 1 pin_T_136_65
+.net net_1413 1 pin_T_136_71
+.net net_1414 1 pin_T_136_74
+.net net_1415 1 pin_T_137_64
+.net net_1416 1 pin_T_137_67
+.net net_1417 1 pin_T_137_72
+.net net_1418 1 pin_T_137_84
+.net net_1419 1 pin_T_137_89
+.net net_1420 1 pin_T_137_94
+.net net_1421 1 pin_T_138_50
+.net net_1422 1 pin_T_138_63
+.net net_1423 1 pin_T_138_66
+.net net_1424 1 pin_T_138_73
+.net net_1425 1 pin_T_138_76
+.net net_1426 1 pin_T_139_77
+.net net_1427 1 pin_T_139_84
+.net net_1428 1 pin_T_139_89
+.net net_1429 1 pin_T_140_50
+.net net_1430 1 pin_T_140_64
+.net net_1431 1 pin_T_140_73
+.net net_1432 1 pin_T_140_76
+.net net_1433 1 pin_T_141_63
+.net net_1434 1 pin_T_141_72
+.net net_1435 1 pin_T_141_75
+.net net_1436 1 pin_T_141_84
+.net net_1437 1 pin_T_141_94
+.net net_1438 1 pin_T_142_50
+.net net_1439 1 pin_T_142_71
+.net net_1440 1 pin_T_142_74
+.net net_1441 1 pin_T_143_72
+.net net_1442 1 pin_T_143_75
+.net net_1443 1 pin_T_143_84
+.net net_1444 1 pin_T_143_89
+.net net_1445 1 pin_T_143_94
+.net net_1446 1 pin_T_144_50
+.net net_1447 1 pin_T_144_73
+.net net_1448 1 pin_T_144_76
+.net net_1449 1 pin_T_145_77
+.net net_1450 1 pin_T_145_83
+.net net_1451 1 pin_T_145_88
+.net net_1452 1 pin_T_145_93
+.net net_1453 1 pin_T_146_33
+.net net_1454 1 pin_T_146_50
+.net net_1455 1 pin_T_146_73
+.net net_1456 1 pin_T_146_76
+.net net_1457 1 pin_T_147_72
+.net net_1458 1 pin_T_147_75
+.net net_1459 1 pin_T_147_83
+.net net_1460 1 pin_T_147_88
+.net net_1461 1 pin_T_147_93
+.net net_1462 1 pin_T_148_32
+.net net_1463 1 pin_T_148_50
+.net net_1464 1 pin_T_148_74
+.net net_1465 1 pin_T_149_72
+.net net_1466 1 pin_T_149_75
+.net net_1467 1 pin_T_149_85
+.net net_1468 1 pin_T_149_90
+.net net_1469 1 pin_T_149_95
+.net net_1470 1 pin_T_150_73
+.net net_1471 1 pin_T_150_76
+.net net_1472 1 pin_T_151_85
+.net net_1473 1 pin_T_151_90
+.net net_1474 1 pin_T_151_95
+.net net_1475 1 pin_T_152_73
+.net net_1476 1 pin_T_152_76
+.net net_1477 1 pin_T_153_72
+.net net_1478 1 pin_T_153_75
+.net net_1479 1 pin_T_153_84
+.net net_1480 1 pin_T_153_94
+.net net_1481 1 pin_T_154_74
+.net net_1482 1 pin_T_155_72
+.net net_1483 1 pin_T_155_75
+.net net_1484 1 pin_T_155_84
+.net net_1485 1 pin_T_155_89
+.net net_1486 1 pin_T_155_94
+.net net_1487 1 pin_T_156_73
+.net net_1488 1 pin_T_156_76
+.net net_1489 1 pin_T_157_77
+.net net_1490 1 pin_T_157_84
+.net net_1491 1 pin_T_157_89
+.net net_1492 1 pin_T_157_94
+.net net_1493 1 pin_T_158_73
+.net net_1494 1 pin_T_158_76
+.net net_1495 1 pin_T_159_72
+.net net_1496 1 pin_T_159_75
+.net net_1497 1 pin_T_159_84
+.net net_1498 1 pin_T_159_89
+.net net_1499 1 pin_T_159_94
+.net net_1500 1 pin_T_160_71
+.net net_1501 1 pin_T_160_74
+.net net_1502 1 pin_T_161_72
+.net net_1503 1 pin_T_161_75
+.net net_1504 1 pin_T_161_83
+.net net_1505 1 pin_T_161_88
+.net net_1506 1 pin_T_161_93
+.net net_1507 1 pin_T_162_73
+.net net_1508 1 pin_T_162_76
+.net net_1509 1 pin_T_163_77
+.net net_1510 1 pin_T_163_83
+.net net_1511 1 pin_T_163_88
+.net net_1512 1 pin_T_163_93
+.net net_1513 1 pin_T_164_73
+.net net_1514 1 pin_T_164_76
+.net net_1515 1 pin_T_165_72
+.net net_1516 1 pin_T_165_75
+.net net_1517 1 pin_T_165_85
+.net net_1518 1 pin_T_165_95
+.net net_1519 1 pin_T_166_71
+.net net_1520 1 pin_T_166_74
+.net net_1521 1 pin_T_167_72
+.net net_1522 1 pin_T_167_85
+.net net_1523 1 pin_T_167_90
+.net net_1524 1 pin_T_167_95
+.net net_1525 1 pin_T_168_73
+.net net_1526 1 pin_T_168_76
+.net net_1527 1 pin_T_169_77
+.net net_1528 1 pin_T_169_84
+.net net_1529 1 pin_T_169_89
+.net net_1530 1 pin_T_169_94
+.net net_1531 1 pin_T_170_73
+.net net_1532 1 pin_T_170_76
+.net net_1533 1 pin_T_171_72
+.net net_1534 1 pin_T_171_75
+.net net_1535 1 pin_T_171_84
+.net net_1536 1 pin_T_171_89
+.net net_1537 1 pin_T_171_94
+.net net_1538 1 pin_T_172_71
+.net net_1539 1 pin_T_172_74
+.net net_1540 1 pin_T_174_84
+.net net_1541 1 pin_T_174_89
+.net net_1542 1 pin_T_174_94
+.net net_1543 1 pin_T_176_84
+.net net_1544 1 pin_T_176_89
+.net net_1545 1 pin_T_176_94
+.net net_1546 1 pin_T_178_88
+.net net_1547 1 pin_T_178_93
+.net net_1548 1 pin_T_180_88
+.net net_1549 1 pin_T_180_93
+.net net_1550 1 pin_T_182_90
+.net net_1551 1 pin_T_182_95
+.net net_1552 1 pin_T_184_85
+.net net_1553 1 pin_T_184_90
+.net net_1554 1 pin_T_184_95
+.net net_1555 1 pin_B_1_121
+.net net_1556 1 pin_B_1_131
+.net net_1557 1 pin_B_2_9
+.net net_1558 1 pin_B_2_13
+.net net_1559 1 pin_B_2_122
+.net net_1560 1 pin_B_2_130
+.net net_1561 1 pin_B_3_7
+.net net_1562 1 pin_B_3_10
+.net net_1563 1 pin_B_3_12
+.net net_1564 1 pin_B_3_19
+.net net_1565 1 pin_B_3_123
+.net net_1566 1 pin_B_3_129
+.net net_1567 1 pin_B_4_8
+.net net_1568 1 pin_B_4_124
+.net net_1569 1 pin_B_4_128
+.net net_1570 1 pin_B_5_6
+.net net_1571 1 pin_B_5_9
+.net net_1572 1 pin_B_5_11
+.net net_1573 1 pin_B_5_12
+.net net_1574 1 pin_B_5_127
+.net net_1575 1 pin_B_7_5
+.net net_1576 1 pin_B_7_11
+.net net_1577 1 pin_B_7_13
+.net net_1578 1 pin_B_7_125
+.net net_1579 1 pin_B_7_127
+.net net_1580 1 pin_B_8_7
+.net net_1581 1 pin_B_8_9
+.net net_1582 1 pin_B_8_124
+.net net_1583 1 pin_B_8_128
+.net net_1584 1 pin_B_9_10
+.net net_1585 1 pin_B_9_123
+.net net_1586 1 pin_B_9_129
+.net net_1587 1 pin_B_10_122
+.net net_1588 1 pin_B_10_130
+.net net_1589 1 pin_B_11_121
+.net net_1590 1 pin_B_11_131
+.net net_1591 1 pin_B_12_12
+.net net_1592 1 pin_B_12_14
+.net net_1593 1 pin_B_13_13
+.net net_1594 1 pin_B_13_121
+.net net_1595 1 pin_B_13_122
+.net net_1596 1 pin_B_13_123
+.net net_1597 1 pin_B_13_125
+.net net_1598 1 pin_B_13_126
+.net net_1599 1 pin_B_13_127
+.net net_1600 1 pin_B_13_128
+.net net_1601 1 pin_B_13_129
+.net net_1602 1 pin_B_13_130
+.net net_1603 1 pin_B_13_131
+.net net_1604 1 pin_B_14_12
+.net net_1605 1 pin_B_14_14
+.net net_1606 1 pin_B_15_121
+.net net_1607 1 pin_B_15_131
+.net net_1608 1 pin_B_17_123
+.net net_1609 1 pin_B_17_129
+.net net_1610 1 pin_B_18_124
+.net net_1611 1 pin_B_18_128
+.net net_1612 1 pin_B_19_125
+.net net_1613 1 pin_B_19_127
+.net net_1614 1 pin_B_20_126
+.net net_1615 1 pin_B_21_125
+.net net_1616 1 pin_B_21_127
+.net net_1617 1 pin_B_22_116
+.net net_1618 1 pin_B_22_124
+.net net_1619 1 pin_B_22_128
+.net net_1620 1 pin_B_23_123
+.net net_1621 1 pin_B_23_129
+.net net_1622 1 pin_B_24_122
+.net net_1623 1 pin_B_24_130
+.net net_1624 1 pin_B_25_121
+.net net_1625 1 pin_B_25_131
+.net net_1626 1 pin_B_26_116
+.net net_1627 1 pin_B_27_121
+.net net_1628 1 pin_B_27_122
+.net net_1629 1 pin_B_27_123
+.net net_1630 1 pin_B_27_124
+.net net_1631 1 pin_B_27_125
+.net net_1632 1 pin_B_27_126
+.net net_1633 1 pin_B_27_127
+.net net_1634 1 pin_B_27_128
+.net net_1635 1 pin_B_27_129
+.net net_1636 1 pin_B_27_130
+.net net_1637 1 pin_B_29_121
+.net net_1638 1 pin_B_29_131
+.net net_1639 1 pin_B_30_116
+.net net_1640 1 pin_B_30_122
+.net net_1641 1 pin_B_30_130
+.net net_1642 1 pin_B_31_123
+.net net_1643 1 pin_B_31_129
+.net net_1644 1 pin_B_32_124
+.net net_1645 1 pin_B_32_128
+.net net_1646 1 pin_B_33_125
+.net net_1647 1 pin_B_33_127
+.net net_1648 1 pin_B_34_116
+.net net_1649 1 pin_B_34_126
+.net net_1650 1 pin_B_35_125
+.net net_1651 1 pin_B_35_127
+.net net_1652 1 pin_B_36_124
+.net net_1653 1 pin_B_36_128
+.net net_1654 1 pin_B_37_129
+.net net_1655 1 pin_B_38_116
+.net net_1656 1 pin_B_38_122
+.net net_1657 1 pin_B_38_130
+.net net_1658 1 pin_B_39_121
+.net net_1659 1 pin_B_39_131
+.net net_1660 1 pin_B_41_121
+.net net_1661 1 pin_B_41_122
+.net net_1662 1 pin_B_41_123
+.net net_1663 1 pin_B_41_124
+.net net_1664 1 pin_B_41_125
+.net net_1665 1 pin_B_41_126
+.net net_1666 1 pin_B_41_127
+.net net_1667 1 pin_B_41_128
+.net net_1668 1 pin_B_41_129
+.net net_1669 1 pin_B_41_130
+.net net_1670 1 pin_B_41_131
+.net net_1671 1 pin_B_42_116
+.net net_1672 1 pin_B_43_121
+.net net_1673 1 pin_B_43_131
+.net net_1674 1 pin_B_44_122
+.net net_1675 1 pin_B_44_130
+.net net_1676 1 pin_B_45_123
+.net net_1677 1 pin_B_45_129
+.net net_1678 1 pin_B_46_124
+.net net_1679 1 pin_B_46_128
+.net net_1680 1 pin_B_47_125
+.net net_1681 1 pin_B_47_127
+.net net_1682 1 pin_B_48_126
+.net net_1683 1 pin_B_49_90
+.net net_1684 1 pin_B_49_98
+.net net_1685 1 pin_B_49_125
+.net net_1686 1 pin_B_49_127
+.net net_1687 1 pin_B_50_9
+.net net_1688 1 pin_B_50_52
+.net net_1689 1 pin_B_50_54
+.net net_1690 1 pin_B_50_56
+.net net_1691 1 pin_B_50_62
+.net net_1692 1 pin_B_50_64
+.net net_1693 1 pin_B_50_69
+.net net_1694 1 pin_B_50_71
+.net net_1695 1 pin_B_50_73
+.net net_1696 1 pin_B_50_75
+.net net_1697 1 pin_B_50_77
+.net net_1698 1 pin_B_50_79
+.net net_1699 1 pin_B_50_81
+.net net_1700 1 pin_B_50_83
+.net net_1701 1 pin_B_50_91
+.net net_1702 1 pin_B_50_116
+.net net_1703 1 pin_B_50_128
+.net net_1704 1 pin_B_51_10
+.net net_1705 1 pin_B_51_16
+.net net_1706 1 pin_B_51_92
+.net net_1707 1 pin_B_51_96
+.net net_1708 1 pin_B_51_123
+.net net_1709 1 pin_B_51_129
+.net net_1710 1 pin_B_52_11
+.net net_1711 1 pin_B_52_15
+.net net_1712 1 pin_B_52_50
+.net net_1713 1 pin_B_52_52
+.net net_1714 1 pin_B_52_54
+.net net_1715 1 pin_B_52_58
+.net net_1716 1 pin_B_52_60
+.net net_1717 1 pin_B_52_62
+.net net_1718 1 pin_B_52_64
+.net net_1719 1 pin_B_52_69
+.net net_1720 1 pin_B_52_71
+.net net_1721 1 pin_B_52_73
+.net net_1722 1 pin_B_52_75
+.net net_1723 1 pin_B_52_77
+.net net_1724 1 pin_B_52_79
+.net net_1725 1 pin_B_52_81
+.net net_1726 1 pin_B_52_95
+.net net_1727 1 pin_B_52_122
+.net net_1728 1 pin_B_52_130
+.net net_1729 1 pin_B_53_12
+.net net_1730 1 pin_B_53_14
+.net net_1731 1 pin_B_53_94
+.net net_1732 1 pin_B_53_121
+.net net_1733 1 pin_B_53_131
+.net net_1734 1 pin_B_54_13
+.net net_1735 1 pin_B_54_52
+.net net_1736 1 pin_B_54_54
+.net net_1737 1 pin_B_54_56
+.net net_1738 1 pin_B_54_58
+.net net_1739 1 pin_B_54_60
+.net net_1740 1 pin_B_54_62
+.net net_1741 1 pin_B_54_64
+.net net_1742 1 pin_B_54_69
+.net net_1743 1 pin_B_54_73
+.net net_1744 1 pin_B_54_75
+.net net_1745 1 pin_B_54_77
+.net net_1746 1 pin_B_54_79
+.net net_1747 1 pin_B_54_81
+.net net_1748 1 pin_B_54_83
+.net net_1749 1 pin_B_54_93
+.net net_1750 1 pin_B_54_95
+.net net_1751 1 pin_B_54_116
+.net net_1752 1 pin_B_55_14
+.net net_1753 1 pin_B_55_96
+.net net_1754 1 pin_B_56_11
+.net net_1755 1 pin_B_56_50
+.net net_1756 1 pin_B_56_52
+.net net_1757 1 pin_B_56_54
+.net net_1758 1 pin_B_56_56
+.net net_1759 1 pin_B_56_58
+.net net_1760 1 pin_B_56_62
+.net net_1761 1 pin_B_56_64
+.net net_1762 1 pin_B_56_69
+.net net_1763 1 pin_B_56_71
+.net net_1764 1 pin_B_56_73
+.net net_1765 1 pin_B_56_77
+.net net_1766 1 pin_B_56_79
+.net net_1767 1 pin_B_56_81
+.net net_1768 1 pin_B_56_83
+.net net_1769 1 pin_B_56_91
+.net net_1770 1 pin_B_56_97
+.net net_1771 1 pin_B_57_10
+.net net_1772 1 pin_B_57_16
+.net net_1773 1 pin_B_57_90
+.net net_1774 1 pin_B_57_98
+.net net_1775 1 pin_B_57_121
+.net net_1776 1 pin_B_57_131
+.net net_1777 1 pin_B_58_17
+.net net_1778 1 pin_B_58_50
+.net net_1779 1 pin_B_58_52
+.net net_1780 1 pin_B_58_54
+.net net_1781 1 pin_B_58_56
+.net net_1782 1 pin_B_58_58
+.net net_1783 1 pin_B_58_60
+.net net_1784 1 pin_B_58_62
+.net net_1785 1 pin_B_58_64
+.net net_1786 1 pin_B_58_69
+.net net_1787 1 pin_B_58_71
+.net net_1788 1 pin_B_58_73
+.net net_1789 1 pin_B_58_75
+.net net_1790 1 pin_B_58_77
+.net net_1791 1 pin_B_58_79
+.net net_1792 1 pin_B_58_81
+.net net_1793 1 pin_B_58_83
+.net net_1794 1 pin_B_58_116
+.net net_1795 1 pin_B_58_122
+.net net_1796 1 pin_B_58_130
+.net net_1797 1 pin_B_59_123
+.net net_1798 1 pin_B_59_129
+.net net_1799 1 pin_B_60_50
+.net net_1800 1 pin_B_60_52
+.net net_1801 1 pin_B_60_54
+.net net_1802 1 pin_B_60_56
+.net net_1803 1 pin_B_60_62
+.net net_1804 1 pin_B_60_64
+.net net_1805 1 pin_B_60_69
+.net net_1806 1 pin_B_60_71
+.net net_1807 1 pin_B_60_73
+.net net_1808 1 pin_B_60_77
+.net net_1809 1 pin_B_60_79
+.net net_1810 1 pin_B_60_81
+.net net_1811 1 pin_B_60_83
+.net net_1812 1 pin_B_60_124
+.net net_1813 1 pin_B_60_128
+.net net_1814 1 pin_B_61_125
+.net net_1815 1 pin_B_61_127
+.net net_1816 1 pin_B_62_50
+.net net_1817 1 pin_B_62_52
+.net net_1818 1 pin_B_62_54
+.net net_1819 1 pin_B_62_56
+.net net_1820 1 pin_B_62_58
+.net net_1821 1 pin_B_62_60
+.net net_1822 1 pin_B_62_62
+.net net_1823 1 pin_B_62_64
+.net net_1824 1 pin_B_62_69
+.net net_1825 1 pin_B_62_71
+.net net_1826 1 pin_B_62_73
+.net net_1827 1 pin_B_62_75
+.net net_1828 1 pin_B_62_81
+.net net_1829 1 pin_B_62_83
+.net net_1830 1 pin_B_62_116
+.net net_1831 1 pin_B_62_126
+.net net_1832 1 pin_B_63_125
+.net net_1833 1 pin_B_64_50
+.net net_1834 1 pin_B_64_52
+.net net_1835 1 pin_B_64_54
+.net net_1836 1 pin_B_64_56
+.net net_1837 1 pin_B_64_58
+.net net_1838 1 pin_B_64_60
+.net net_1839 1 pin_B_64_62
+.net net_1840 1 pin_B_64_64
+.net net_1841 1 pin_B_64_69
+.net net_1842 1 pin_B_64_71
+.net net_1843 1 pin_B_64_73
+.net net_1844 1 pin_B_64_75
+.net net_1845 1 pin_B_64_77
+.net net_1846 1 pin_B_64_79
+.net net_1847 1 pin_B_64_81
+.net net_1848 1 pin_B_64_83
+.net net_1849 1 pin_B_64_124
+.net net_1850 1 pin_B_64_128
+.net net_1851 1 pin_B_65_129
+.net net_1852 1 pin_B_66_50
+.net net_1853 1 pin_B_66_52
+.net net_1854 1 pin_B_66_54
+.net net_1855 1 pin_B_66_56
+.net net_1856 1 pin_B_66_58
+.net net_1857 1 pin_B_66_60
+.net net_1858 1 pin_B_66_62
+.net net_1859 1 pin_B_66_64
+.net net_1860 1 pin_B_66_69
+.net net_1861 1 pin_B_66_71
+.net net_1862 1 pin_B_66_73
+.net net_1863 1 pin_B_66_75
+.net net_1864 1 pin_B_66_77
+.net net_1865 1 pin_B_66_79
+.net net_1866 1 pin_B_66_81
+.net net_1867 1 pin_B_66_83
+.net net_1868 1 pin_B_66_116
+.net net_1869 1 pin_B_66_122
+.net net_1870 1 pin_B_66_130
+.net net_1871 1 pin_B_67_131
+.net net_1872 1 pin_B_68_50
+.net net_1873 1 pin_B_68_52
+.net net_1874 1 pin_B_68_54
+.net net_1875 1 pin_B_68_56
+.net net_1876 1 pin_B_68_58
+.net net_1877 1 pin_B_68_60
+.net net_1878 1 pin_B_68_62
+.net net_1879 1 pin_B_68_64
+.net net_1880 1 pin_B_68_69
+.net net_1881 1 pin_B_68_71
+.net net_1882 1 pin_B_68_73
+.net net_1883 1 pin_B_68_75
+.net net_1884 1 pin_B_68_77
+.net net_1885 1 pin_B_68_79
+.net net_1886 1 pin_B_68_83
+.net net_1887 1 pin_B_69_121
+.net net_1888 1 pin_B_69_122
+.net net_1889 1 pin_B_69_124
+.net net_1890 1 pin_B_69_125
+.net net_1891 1 pin_B_69_127
+.net net_1892 1 pin_B_69_128
+.net net_1893 1 pin_B_69_129
+.net net_1894 1 pin_B_69_130
+.net net_1895 1 pin_B_69_131
+.net net_1896 1 pin_B_70_52
+.net net_1897 1 pin_B_70_54
+.net net_1898 1 pin_B_70_56
+.net net_1899 1 pin_B_70_58
+.net net_1900 1 pin_B_70_60
+.net net_1901 1 pin_B_70_62
+.net net_1902 1 pin_B_70_64
+.net net_1903 1 pin_B_70_69
+.net net_1904 1 pin_B_70_71
+.net net_1905 1 pin_B_70_75
+.net net_1906 1 pin_B_70_77
+.net net_1907 1 pin_B_70_79
+.net net_1908 1 pin_B_70_81
+.net net_1909 1 pin_B_70_83
+.net net_1910 1 pin_B_70_116
+.net net_1911 1 pin_B_71_121
+.net net_1912 1 pin_B_71_131
+.net net_1913 1 pin_B_72_52
+.net net_1914 1 pin_B_72_54
+.net net_1915 1 pin_B_72_56
+.net net_1916 1 pin_B_72_58
+.net net_1917 1 pin_B_72_60
+.net net_1918 1 pin_B_72_62
+.net net_1919 1 pin_B_72_64
+.net net_1920 1 pin_B_72_69
+.net net_1921 1 pin_B_72_71
+.net net_1922 1 pin_B_72_73
+.net net_1923 1 pin_B_72_77
+.net net_1924 1 pin_B_72_79
+.net net_1925 1 pin_B_72_81
+.net net_1926 1 pin_B_72_83
+.net net_1927 1 pin_B_72_122
+.net net_1928 1 pin_B_72_130
+.net net_1929 1 pin_B_73_123
+.net net_1930 1 pin_B_74_50
+.net net_1931 1 pin_B_74_52
+.net net_1932 1 pin_B_74_54
+.net net_1933 1 pin_B_74_56
+.net net_1934 1 pin_B_74_58
+.net net_1935 1 pin_B_74_60
+.net net_1936 1 pin_B_74_62
+.net net_1937 1 pin_B_74_64
+.net net_1938 1 pin_B_74_69
+.net net_1939 1 pin_B_74_73
+.net net_1940 1 pin_B_74_75
+.net net_1941 1 pin_B_74_81
+.net net_1942 1 pin_B_74_116
+.net net_1943 1 pin_B_74_124
+.net net_1944 1 pin_B_74_128
+.net net_1945 1 pin_B_75_125
+.net net_1946 1 pin_B_75_127
+.net net_1947 1 pin_B_76_126
+.net net_1948 1 pin_B_77_125
+.net net_1949 1 pin_B_77_127
+.net net_1950 1 pin_B_78_116
+.net net_1951 1 pin_B_78_124
+.net net_1952 1 pin_B_78_128
+.net net_1953 1 pin_B_79_48
+.net net_1954 1 pin_B_79_123
+.net net_1955 1 pin_B_79_129
+.net net_1956 1 pin_B_80_33
+.net net_1957 1 pin_B_80_36
+.net net_1958 1 pin_B_80_47
+.net net_1959 1 pin_B_80_61
+.net net_1960 1 pin_B_80_122
+.net net_1961 1 pin_B_80_130
+.net net_1962 1 pin_B_81_38
+.net net_1963 1 pin_B_81_52
+.net net_1964 1 pin_B_81_60
+.net net_1965 1 pin_B_81_64
+.net net_1966 1 pin_B_81_72
+.net net_1967 1 pin_B_81_75
+.net net_1968 1 pin_B_81_121
+.net net_1969 1 pin_B_81_131
+.net net_1970 1 pin_B_82_33
+.net net_1971 1 pin_B_82_40
+.net net_1972 1 pin_B_82_55
+.net net_1973 1 pin_B_82_57
+.net net_1974 1 pin_B_82_59
+.net net_1975 1 pin_B_82_70
+.net net_1976 1 pin_B_83_33
+.net net_1977 1 pin_B_83_42
+.net net_1978 1 pin_B_83_45
+.net net_1979 1 pin_B_83_78
+.net net_1980 1 pin_B_83_121
+.net net_1981 1 pin_B_83_122
+.net net_1982 1 pin_B_83_123
+.net net_1983 1 pin_B_83_124
+.net net_1984 1 pin_B_83_125
+.net net_1985 1 pin_B_83_126
+.net net_1986 1 pin_B_83_127
+.net net_1987 1 pin_B_83_129
+.net net_1988 1 pin_B_83_130
+.net net_1989 1 pin_B_83_131
+.net net_1990 1 pin_B_84_33
+.net net_1991 1 pin_B_84_38
+.net net_1992 1 pin_B_84_44
+.net net_1993 1 pin_B_84_62
+.net net_1994 1 pin_B_84_65
+.net net_1995 1 pin_B_84_80
+.net net_1996 1 pin_B_85_80
+.net net_1997 1 pin_B_85_121
+.net net_1998 1 pin_B_85_131
+.net net_1999 1 pin_B_86_33
+.net net_2000 1 pin_B_86_62
+.net net_2001 1 pin_B_86_65
+.net net_2002 1 pin_B_86_74
+.net net_2003 1 pin_B_86_80
+.net net_2004 1 pin_B_86_116
+.net net_2005 1 pin_B_86_122
+.net net_2006 1 pin_B_86_130
+.net net_2007 1 pin_B_87_33
+.net net_2008 1 pin_B_87_35
+.net net_2009 1 pin_B_87_123
+.net net_2010 1 pin_B_87_129
+.net net_2011 1 pin_B_88_36
+.net net_2012 1 pin_B_88_37
+.net net_2013 1 pin_B_88_43
+.net net_2014 1 pin_B_88_72
+.net net_2015 1 pin_B_88_74
+.net net_2016 1 pin_B_88_80
+.net net_2017 1 pin_B_88_81
+.net net_2018 1 pin_B_88_124
+.net net_2019 1 pin_B_88_128
+.net net_2020 1 pin_B_89_36
+.net net_2021 1 pin_B_89_125
+.net net_2022 1 pin_B_89_127
+.net net_2023 1 pin_B_90_37
+.net net_2024 1 pin_B_90_38
+.net net_2025 1 pin_B_90_39
+.net net_2026 1 pin_B_90_80
+.net net_2027 1 pin_B_90_81
+.net net_2028 1 pin_B_90_116
+.net net_2029 1 pin_B_90_126
+.net net_2030 1 pin_B_91_36
+.net net_2031 1 pin_B_91_80
+.net net_2032 1 pin_B_91_125
+.net net_2033 1 pin_B_91_127
+.net net_2034 1 pin_B_92_36
+.net net_2035 1 pin_B_92_44
+.net net_2036 1 pin_B_92_69
+.net net_2037 1 pin_B_92_80
+.net net_2038 1 pin_B_92_81
+.net net_2039 1 pin_B_92_124
+.net net_2040 1 pin_B_92_128
+.net net_2041 1 pin_B_93_36
+.net net_2042 1 pin_B_93_50
+.net net_2043 1 pin_B_93_68
+.net net_2044 1 pin_B_93_71
+.net net_2045 1 pin_B_93_81
+.net net_2046 1 pin_B_93_123
+.net net_2047 1 pin_B_93_129
+.net net_2048 1 pin_B_94_35
+.net net_2049 1 pin_B_94_36
+.net net_2050 1 pin_B_94_37
+.net net_2051 1 pin_B_94_38
+.net net_2052 1 pin_B_94_39
+.net net_2053 1 pin_B_94_40
+.net net_2054 1 pin_B_94_41
+.net net_2055 1 pin_B_94_43
+.net net_2056 1 pin_B_94_49
+.net net_2057 1 pin_B_94_67
+.net net_2058 1 pin_B_94_73
+.net net_2059 1 pin_B_94_116
+.net net_2060 1 pin_B_94_122
+.net net_2061 1 pin_B_94_130
+.net net_2062 1 pin_B_95_41
+.net net_2063 1 pin_B_95_42
+.net net_2064 1 pin_B_95_48
+.net net_2065 1 pin_B_95_53
+.net net_2066 1 pin_B_95_63
+.net net_2067 1 pin_B_95_65
+.net net_2068 1 pin_B_95_75
+.net net_2069 1 pin_B_95_77
+.net net_2070 1 pin_B_95_121
+.net net_2071 1 pin_B_95_131
+.net net_2072 1 pin_B_96_36
+.net net_2073 1 pin_B_96_37
+.net net_2074 1 pin_B_96_44
+.net net_2075 1 pin_B_96_55
+.net net_2076 1 pin_B_96_62
+.net net_2077 1 pin_B_96_79
+.net net_2078 1 pin_B_97_37
+.net net_2079 1 pin_B_97_45
+.net net_2080 1 pin_B_97_47
+.net net_2081 1 pin_B_97_57
+.net net_2082 1 pin_B_97_61
+.net net_2083 1 pin_B_97_80
+.net net_2084 1 pin_B_97_122
+.net net_2085 1 pin_B_97_123
+.net net_2086 1 pin_B_97_124
+.net net_2087 1 pin_B_97_125
+.net net_2088 1 pin_B_97_126
+.net net_2089 1 pin_B_97_127
+.net net_2090 1 pin_B_97_128
+.net net_2091 1 pin_B_97_129
+.net net_2092 1 pin_B_97_131
+.net net_2093 1 pin_B_98_37
+.net net_2094 1 pin_B_98_38
+.net net_2095 1 pin_B_98_46
+.net net_2096 1 pin_B_98_59
+.net net_2097 1 pin_B_98_81
+.net net_2098 1 pin_B_98_116
+.net net_2099 1 pin_B_99_34
+.net net_2100 1 pin_B_99_56
+.net net_2101 1 pin_B_99_64
+.net net_2102 1 pin_B_99_121
+.net net_2103 1 pin_B_99_131
+.net net_2104 1 pin_B_100_122
+.net net_2105 1 pin_B_100_130
+.net net_2106 1 pin_B_101_73
+.net net_2107 1 pin_B_101_75
+.net net_2108 1 pin_B_101_123
+.net net_2109 1 pin_B_101_129
+.net net_2110 1 pin_B_102_116
+.net net_2111 1 pin_B_102_124
+.net net_2112 1 pin_B_103_73
+.net net_2113 1 pin_B_103_76
+.net net_2114 1 pin_B_103_125
+.net net_2115 1 pin_B_103_127
+.net net_2116 1 pin_B_104_126
+.net net_2117 1 pin_B_105_73
+.net net_2118 1 pin_B_105_76
+.net net_2119 1 pin_B_105_80
+.net net_2120 1 pin_B_105_125
+.net net_2121 1 pin_B_105_127
+.net net_2122 1 pin_B_106_116
+.net net_2123 1 pin_B_106_124
+.net net_2124 1 pin_B_106_128
+.net net_2125 1 pin_B_107_69
+.net net_2126 1 pin_B_107_75
+.net net_2127 1 pin_B_107_123
+.net net_2128 1 pin_B_107_129
+.net net_2129 1 pin_B_108_73
+.net net_2130 1 pin_B_108_77
+.net net_2131 1 pin_B_108_79
+.net net_2132 1 pin_B_108_122
+.net net_2133 1 pin_B_108_130
+.net net_2134 1 pin_B_109_35
+.net net_2135 1 pin_B_109_53
+.net net_2136 1 pin_B_109_57
+.net net_2137 1 pin_B_109_121
+.net net_2138 1 pin_B_109_131
+.net net_2139 1 pin_B_110_41
+.net net_2140 1 pin_B_110_47
+.net net_2141 1 pin_B_110_51
+.net net_2142 1 pin_B_110_59
+.net net_2143 1 pin_B_110_66
+.net net_2144 1 pin_B_110_116
+.net net_2145 1 pin_B_111_34
+.net net_2146 1 pin_B_111_36
+.net net_2147 1 pin_B_111_53
+.net net_2148 1 pin_B_111_55
+.net net_2149 1 pin_B_112_38
+.net net_2150 1 pin_B_112_41
+.net net_2151 1 pin_B_112_46
+.net net_2152 1 pin_B_112_48
+.net net_2153 1 pin_B_112_50
+.net net_2154 1 pin_B_112_57
+.net net_2155 1 pin_B_113_34
+.net net_2156 1 pin_B_113_36
+.net net_2157 1 pin_B_113_75
+.net net_2158 1 pin_B_114_116
+.net net_2159 1 pin_B_115_35
+.net net_2160 1 pin_B_115_42
+.net net_2161 1 pin_B_115_48
+.net net_2162 1 pin_B_115_60
+.net net_2163 1 pin_B_116_37
+.net net_2164 1 pin_B_116_45
+.net net_2165 1 pin_B_116_50
+.net net_2166 1 pin_B_117_47
+.net net_2167 1 pin_B_119_33
+.net net_2168 1 pin_B_120_38
+.net net_2169 1 pin_B_120_49
+.net net_2170 1 pin_B_120_51
+.net net_2171 1 pin_B_120_55
+.net net_2172 1 pin_B_121_44
+.net net_2173 1 pin_B_121_46
+.net net_2174 1 pin_B_121_67
+.net net_2175 1 pin_B_121_79
+.net net_2176 1 pin_B_122_63
+.net net_2177 1 pin_B_122_65
+.net net_2178 1 pin_B_122_69
+.net net_2179 1 pin_B_122_76
+.net net_2180 1 pin_B_123_42
+.net net_2181 1 pin_B_123_44
+.net net_2182 1 pin_B_123_73
+.net net_2183 1 pin_B_124_37
+.net net_2184 1 pin_B_124_39
+.net net_2185 1 pin_B_131_44
+.net net_2186 1 pin_B_131_57
+.net net_2187 1 pin_B_131_60
+.net net_2188 1 pin_B_131_62
+.net net_2189 1 pin_B_131_88
+.net net_2190 1 pin_B_131_90
+.net net_2191 1 pin_B_131_92
+.net net_2192 1 nofly_B_131_99
+.net net_2193 1 nofly_B_131_100
+.net net_2194 1 nofly_B_131_101
+.net net_2195 1 nofly_B_131_102
+.net net_2196 1 nofly_B_131_103
+.net net_2197 1 nofly_B_131_104
+.net net_2198 1 nofly_B_131_105
+.net net_2199 1 nofly_B_131_106
+.net net_2200 1 nofly_B_131_107
+.net net_2201 1 nofly_B_131_108
+.net net_2202 1 nofly_B_131_109
+.net net_2203 1 nofly_B_131_110
+.net net_2204 1 nofly_B_131_111
+.net net_2205 1 nofly_B_131_112
+.net net_2206 1 nofly_B_131_113
+.net net_2207 1 nofly_B_131_114
+.net net_2208 1 pin_B_132_17
+.net net_2209 1 pin_B_132_35
+.net net_2210 1 pin_B_132_38
+.net net_2211 1 pin_B_132_70
+.net net_2212 1 pin_B_132_72
+.net net_2213 1 pin_B_132_76
+.net net_2214 1 pin_B_132_80
+.net net_2215 1 nofly_B_132_99
+.net net_2216 1 nofly_B_132_114
+.net net_2217 1 pin_B_133_40
+.net net_2218 1 pin_B_133_43
+.net net_2219 1 pin_B_133_54
+.net net_2220 1 pin_B_133_57
+.net net_2221 1 pin_B_133_68
+.net net_2222 1 pin_B_133_89
+.net net_2223 1 pin_B_133_91
+.net net_2224 1 nofly_B_133_99
+.net net_2225 1 nofly_B_133_114
+.net net_2226 1 nofly_B_134_99
+.net net_2227 1 nofly_B_134_114
+.net net_2228 1 pin_B_135_33
+.net net_2229 1 pin_B_135_43
+.net net_2230 1 pin_B_135_57
+.net net_2231 1 pin_B_135_59
+.net net_2232 1 pin_B_135_65
+.net net_2233 1 pin_B_135_67
+.net net_2234 1 pin_B_135_88
+.net net_2235 1 pin_B_135_92
+.net net_2236 1 nofly_B_135_99
+.net net_2237 1 nofly_B_135_114
+.net net_2238 1 nofly_B_136_99
+.net net_2239 1 nofly_B_136_114
+.net net_2240 1 pin_B_137_33
+.net net_2241 1 pin_B_137_35
+.net net_2242 1 pin_B_137_39
+.net net_2243 1 pin_B_137_41
+.net net_2244 1 pin_B_137_43
+.net net_2245 1 pin_B_137_67
+.net net_2246 1 pin_B_137_74
+.net net_2247 1 pin_B_137_89
+.net net_2248 1 pin_B_137_91
+.net net_2249 1 nofly_B_137_99
+.net net_2250 1 nofly_B_137_114
+.net net_2251 1 nofly_B_138_99
+.net net_2252 1 nofly_B_138_114
+.net net_2253 1 pin_B_139_34
+.net net_2254 1 pin_B_139_36
+.net net_2255 1 pin_B_139_42
+.net net_2256 1 pin_B_139_52
+.net net_2257 1 pin_B_139_54
+.net net_2258 1 pin_B_139_64
+.net net_2259 1 pin_B_139_66
+.net net_2260 1 pin_B_139_92
+.net net_2261 1 nofly_B_139_99
+.net net_2262 1 nofly_B_139_114
+.net net_2263 1 nofly_B_140_99
+.net net_2264 1 nofly_B_140_114
+.net net_2265 1 pin_B_141_33
+.net net_2266 1 pin_B_141_41
+.net net_2267 1 pin_B_141_50
+.net net_2268 1 pin_B_141_53
+.net net_2269 1 pin_B_141_55
+.net net_2270 1 pin_B_141_64
+.net net_2271 1 pin_B_141_89
+.net net_2272 1 pin_B_141_91
+.net net_2273 1 nofly_B_141_99
+.net net_2274 1 nofly_B_141_114
+.net net_2275 1 pin_B_142_59
+.net net_2276 1 pin_B_142_61
+.net net_2277 1 pin_B_142_66
+.net net_2278 1 nofly_B_142_99
+.net net_2279 1 nofly_B_142_114
+.net net_2280 1 pin_B_143_33
+.net net_2281 1 pin_B_143_48
+.net net_2282 1 pin_B_143_53
+.net net_2283 1 pin_B_143_55
+.net net_2284 1 pin_B_143_88
+.net net_2285 1 pin_B_143_90
+.net net_2286 1 pin_B_143_92
+.net net_2287 1 nofly_B_143_99
+.net net_2288 1 nofly_B_143_114
+.net net_2289 1 nofly_B_144_99
+.net net_2290 1 nofly_B_144_114
+.net net_2291 1 pin_B_145_89
+.net net_2292 1 pin_B_145_91
+.net net_2293 1 nofly_B_145_99
+.net net_2294 1 nofly_B_145_114
+.net net_2295 1 nofly_B_146_99
+.net net_2296 1 nofly_B_146_114
+.net net_2297 1 pin_B_147_88
+.net net_2298 1 pin_B_147_90
+.net net_2299 1 pin_B_147_92
+.net net_2300 1 nofly_B_147_99
+.net net_2301 1 nofly_B_147_114
+.net net_2302 1 nofly_B_148_99
+.net net_2303 1 nofly_B_148_114
+.net net_2304 1 pin_B_149_89
+.net net_2305 1 pin_B_149_91
+.net net_2306 1 nofly_B_149_99
+.net net_2307 1 nofly_B_149_114
+.net net_2308 1 nofly_B_150_99
+.net net_2309 1 nofly_B_150_114
+.net net_2310 1 pin_B_151_88
+.net net_2311 1 pin_B_151_90
+.net net_2312 1 pin_B_151_92
+.net net_2313 1 nofly_B_151_99
+.net net_2314 1 nofly_B_151_114
+.net net_2315 1 nofly_B_152_99
+.net net_2316 1 nofly_B_152_114
+.net net_2317 1 pin_B_153_89
+.net net_2318 1 pin_B_153_91
+.net net_2319 1 nofly_B_153_99
+.net net_2320 1 nofly_B_153_114
+.net net_2321 1 nofly_B_154_99
+.net net_2322 1 nofly_B_154_114
+.net net_2323 1 pin_B_155_88
+.net net_2324 1 pin_B_155_90
+.net net_2325 1 pin_B_155_92
+.net net_2326 1 nofly_B_155_99
+.net net_2327 1 nofly_B_155_114
+.net net_2328 1 nofly_B_156_99
+.net net_2329 1 nofly_B_156_114
+.net net_2330 1 pin_B_157_89
+.net net_2331 1 pin_B_157_91
+.net net_2332 1 nofly_B_157_99
+.net net_2333 1 nofly_B_157_114
+.net net_2334 1 nofly_B_158_99
+.net net_2335 1 nofly_B_158_114
+.net net_2336 1 pin_B_159_88
+.net net_2337 1 pin_B_159_90
+.net net_2338 1 pin_B_159_92
+.net net_2339 1 nofly_B_159_99
+.net net_2340 1 nofly_B_159_114
+.net net_2341 1 nofly_B_160_99
+.net net_2342 1 nofly_B_160_114
+.net net_2343 1 pin_B_161_89
+.net net_2344 1 pin_B_161_91
+.net net_2345 1 nofly_B_161_99
+.net net_2346 1 nofly_B_161_114
+.net net_2347 1 nofly_B_162_99
+.net net_2348 1 nofly_B_162_114
+.net net_2349 1 pin_B_163_88
+.net net_2350 1 pin_B_163_90
+.net net_2351 1 pin_B_163_92
+.net net_2352 1 nofly_B_163_99
+.net net_2353 1 nofly_B_163_114
+.net net_2354 1 nofly_B_164_99
+.net net_2355 1 nofly_B_164_114
+.net net_2356 1 nofly_B_165_99
+.net net_2357 1 nofly_B_165_114
+.net net_2358 1 pin_B_166_89
+.net net_2359 1 nofly_B_166_99
+.net net_2360 1 nofly_B_166_114
+.net net_2361 1 nofly_B_167_99
+.net net_2362 1 nofly_B_167_114
+.net net_2363 1 pin_B_168_88
+.net net_2364 1 pin_B_168_90
+.net net_2365 1 pin_B_168_92
+.net net_2366 1 nofly_B_168_99
+.net net_2367 1 nofly_B_168_114
+.net net_2368 1 nofly_B_169_99
+.net net_2369 1 nofly_B_169_114
+.net net_2370 1 pin_B_170_89
+.net net_2371 1 pin_B_170_91
+.net net_2372 1 nofly_B_170_99
+.net net_2373 1 nofly_B_170_114
+.net net_2374 1 nofly_B_171_99
+.net net_2375 1 nofly_B_171_114
+.net net_2376 1 pin_B_172_88
+.net net_2377 1 pin_B_172_90
+.net net_2378 1 pin_B_172_92
+.net net_2379 1 nofly_B_172_99
+.net net_2380 1 nofly_B_172_114
+.net net_2381 1 nofly_B_173_99
+.net net_2382 1 nofly_B_173_114
+.net net_2383 1 pin_B_174_91
+.net net_2384 1 nofly_B_174_99
+.net net_2385 1 nofly_B_174_114
+.net net_2386 1 nofly_B_175_99
+.net net_2387 1 nofly_B_175_114
+.net net_2388 1 nofly_B_176_99
+.net net_2389 1 nofly_B_176_100
+.net net_2390 1 nofly_B_176_101
+.net net_2391 1 nofly_B_176_102
+.net net_2392 1 nofly_B_176_103
+.net net_2393 1 nofly_B_176_104
+.net net_2394 1 nofly_B_176_105
+.net net_2395 1 nofly_B_176_106
+.net net_2396 1 nofly_B_176_107
+.net net_2397 1 nofly_B_176_108
+.net net_2398 1 nofly_B_176_109
+.net net_2399 1 nofly_B_176_110
+.net net_2400 1 nofly_B_176_111
+.net net_2401 1 nofly_B_176_112
+.net net_2402 1 nofly_B_176_113
+.net net_2403 1 nofly_B_176_114

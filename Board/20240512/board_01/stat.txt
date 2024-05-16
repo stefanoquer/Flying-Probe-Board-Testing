@@ -1,0 +1,45 @@
+Board size [mm] 50x100
+
+Stats side 1
+  #Components with background 2
+  #Components with points 18
+  #Components nofly 1
+  #Components notouch 1
+  #Pins 4774
+  #GNDs 99
+  #VDDs 46
+  #Clock 0
+  #NoFly points 212
+  #NoTouch points 122
+  #Points [total] 5253
+
+Stats side 2
+  #Components with background 3
+  #Components with points 20
+  #Components nofly 1
+  #Components notouch 0
+  #Pins 4972
+  #GNDs 225
+  #VDDs 186
+  #Clock 4
+  #NoFly points 120
+  #NoTouch points 0
+  #Points [total] 5507
+
+Stats board (side 1 + side 2)
+  #Components with background 5
+  #Components with points 38
+  #Components nofly 2
+  #Components notouch 1
+  #Pins 9746
+  #GNDs 324
+  #VDDs 232
+  #Clock 4
+  #NoFly points 332
+  #NoTouch points 122
+  #Points [total] 10760
+  #Nets 9847
+    Net Size: 324 232 4 1 3 2 1 1 2 1 1 1 1 2 2 1 2 1 1 1 2 2 2 2 1 1 2 1 1 1 1 2 1 1 2 1 2 1 1 3 1 1 2 2 1 1 2 3 3 2 1 2 3 1 3 1 1 1 1 3 1 1 1 1 2 1 1 1 1 1 1 1 1 2 1 1 1 1 3 2 1 2 1 1 3 2 2 3 2 1 1 2 2 1 1 3 1 2 2 1 3 1 1 1 1 1 1 2 1 1 1 1 2 1 1 3 1 2 1 1 1 1 3 2 1 2 2 1 1 1 1 2 2 1 1 1 1 1 1 1 1 2 3 1 1 1 1 2 1 5 2 1 1 1 2 2 1 1 1 2 1 2 1 2 1 2 1 1 4 1 1 3 1 1 1 2 1 2 1 1 1 2 2 1 1 1 1 2 2 4 1 2 1 1 1 4 1 1 2 1 2 2 1 2 2 1 3 1 1 1 1 1 1 1 1 1 1 2 1 1 1 4 2 2 2 2 2 2 1 4 3 3 2 1 3 1 1 2 2 1 2 1 1 1 2 1 1 2 1 1 3 2 2 2 2 1 1 2 1 1 1 1 2 1 2 3 1 1 1 1 1 3 2 2 2 1 1 2 2 1 1 1 4 4 3 1 2 2 3 3 1 1 1 1 2 1 3 2 1 1 2 3 1 1 1 1 2 3 2 1 1 2 1 2 2 3 1 1 1 3 2 1 1 3 1 1 2 1 2 4 2 2 1 2 2 2 1 1 2 1 1 2 1 1 1 1 1 1 2 1 2 2 1 1 2 2 1 1 1 1 2 1 1 1 2 1 1 1 2 1 2 1 1 1 3 2 1 1 2 4 3 3 2 1 1 2 2 1 1 2 2 2 1 1 2 1 1 1 2 1 1 2 2 2 1 1 1 1 3 1 1 1 1 1 1 2 2 1 2 1 1 3 2 1 2 1 1 1 1 1 1 1 1 1 1 2 2 3 2 1 1 1 1 1 5 1 2 2 1 1 2 1 2 2 2 2 1 5 1 3 2 2 1 1 2 1 2 1 2 1 1 1 3 3 5 1 2 1 1 1 1 1 1 1 1 1 1 1 3 1 1 2 2 2 1 1 1 2 1 3 3 1 2 1 2 2 1 1 3 1 5 2 2 1 1 1 2 1 3 1 1 1 1 1 1 2 4 1 2 3 2 1 1 1 1 2 3 1 1 2 1 2 1 2 2 4 1 1 2 1 2 1 2 1 1 1 1 4 1 2 1 1 3 1 1 1 2 4 1 1 3 5 2 1 1 1 2 1 1 2 3 2 1 2 1 2 1 2 1 2 1 3 1 1 2 2 1 1 1 1 2 3 2 2 1 4 1 2 1 1 1 1 1 2 1 1 
+  #Test Small 1006
+  #Test Medium 1549
+  #Test Large 2455

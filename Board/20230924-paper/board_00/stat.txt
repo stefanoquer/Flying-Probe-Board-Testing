@@ -1,0 +1,45 @@
+Board size [mm] 75x75
+
+Stats side 1
+  #Components with background 3
+  #Components with points 35
+  #Components nofly 2
+  #Components notouch 0
+  #Pins 3692
+  #GNDs 90
+  #VDDs 51
+  #Clock 3
+  #NoFly points 332
+  #NoTouch points 0
+  #Points [total] 4168
+
+Stats side 2
+  #Components with background 1
+  #Components with points 20
+  #Components nofly 0
+  #Components notouch 0
+  #Pins 5138
+  #GNDs 511
+  #VDDs 407
+  #Clock 6
+  #NoFly points 0
+  #NoTouch points 0
+  #Points [total] 6062
+
+Stats board (side 1 + side 2)
+  #Components with background 4
+  #Components with points 55
+  #Components nofly 2
+  #Components notouch 0
+  #Pins 8830
+  #GNDs 601
+  #VDDs 458
+  #Clock 9
+  #NoFly points 332
+  #NoTouch points 0
+  #Points [total] 10230
+  #Nets 446
+    Net Size: 601 458 9 1 1 1 1 3 2 2 2 1 2 1 1 2 2 5 2 3 1 1 2 1 2 1 1 1 2 3 1 4 1 1 1 7 4 1 2 1 1 1 2 1 2 3 1 1 1 2 1 1 1 2 1 1 3 1 1 3 1 2 2 2 2 2 1 2 1 2 1 3 2 2 2 3 2 1 1 1 5 1 1 1 1 7 2 1 1 3 2 1 5 1 3 5 2 1 2 2 2 2 2 2 3 1 2 1 2 2 2 1 1 1 4 1 3 1 4 1 2 2 2 3 4 3 2 1 2 3 5 3 1 2 2 2 4 2 1 1 3 2 3 1 3 2 1 1 3 1 2 2 1 2 2 1 2 1 1 3 2 1 1 1 1 6 2 1 1 2 1 2 1 3 1 1 1 2 3 2 2 1 1 1 2 2 2 2 2 1 4 2 1 1 1 1 1 2 1 1 1 1 1 2 1 1 3 1 2 3 2 4 3 3 1 2 2 1 2 2 3 2 1 1 2 2 2 1 1 2 1 1 4 1 2 2 1 2 4 2 1 1 2 1 1 2 1 2 1 1 2 1 1 1 2 1 2 1 1 2 3 1 2 3 1 1 2 5 2 1 4 2 1 3 1 2 2 2 1 2 2 1 2 2 2 3 1 1 2 1 1 1 1 1 1 1 1 1 2 3 3 3 2 1 2 1 2 2 2 4 1 1 3 1 1 3 1 2 1 2 2 1 2 3 1 1 4 2 1 4 3 1 1 1 1 2 1 2 2 1 2 2 1 1 3 4 1 3 2 1 3 2 3 6 2 2 1 2 2 2 4 2 2 1 3 1 2 3 2 2 1 1 2 3 2 1 5 2 3 1 3 2 1 2 2 1 1 3 3 1 2 3 1 3 2 3 2 4 3 1 2 1 1 1 2 3 1 4 3 2 1 1 2 2 2 3 2 2 1 4 3 1 2 2 3 2 1 1 1 3 1 4 2 1 2 1 1 1 2 2 2 3 1 2 3 1 
+  #Test Small 800
+  #Test Medium 1757
+  #Test Large 2343

@@ -1,0 +1,5 @@
+Process duration: 5049.72 s
+Number of tests before join: 49066
+Number of tests after join: 32758
+Reduction percentage: 66.7631%
+

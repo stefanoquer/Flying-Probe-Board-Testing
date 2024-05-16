@@ -1,0 +1,7 @@
+Minimum distance: 7.64853
+Maximum distance: 107.858
+Total distance: 132943
+Total number of positionings: 4800
+Average distance between positionings: 27.6965
+---------------------------------------
+Computation duration: 3.668 s
