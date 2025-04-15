@@ -4,7 +4,7 @@ Stats side 1
   #Components with background 15
   #Components with points 118
   #Components nofly 1
-  #Components notouch 3
+  #Components highfly 3
   #Pins 24797
   #GNDs 1141
   #VDDs 945
@@ -17,7 +17,7 @@ Stats side 2
   #Components with background 26
   #Components with points 107
   #Components nofly 3
-  #Components notouch 2
+  #Components highfly 2
   #Pins 27167
   #GNDs 1181
   #VDDs 925
@@ -30,7 +30,7 @@ Stats board (side 1 + side 2)
   #Components with background 41
   #Components with points 225
   #Components nofly 4
-  #Components notouch 5
+  #Components highfly 5
   #Pins 51964
   #GNDs 2322
   #VDDs 1870

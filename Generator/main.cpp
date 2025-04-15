@@ -104,7 +104,7 @@ const int
     CLOCK = 5,
     NET = 6,
     NOFLY = 7,
-    NOTOUCH = 8,
+    HIGHFLY = 8,
     POINT = 9;
 
 // Points colors
@@ -113,7 +113,7 @@ std::tuple<int,int,int> gnd_color = std::make_tuple(0,255,0);
 std::tuple<int,int,int> vdd_color = std::make_tuple(255,0,0);
 std::tuple<int,int,int> clock_color = std::make_tuple(0,0,255);
 std::tuple<int,int,int> nofly_color = std::make_tuple(143,0,255);
-std::tuple<int,int,int> notouch_color = std::make_tuple(66,49,137);
+std::tuple<int,int,int> highfly_color = std::make_tuple(66,49,137);
 
 // Point names
 vector<string> point_name_v = {
@@ -125,7 +125,7 @@ vector<string> point_name_v = {
     "clock",
     "net",
     "nofly", 
-    "notouch",
+    "highfly",
     "point"
     };
 
@@ -141,7 +141,7 @@ vector<input_file> file_name_input {
    {"COMPONENTS/chip.txt", 0},
    {"COMPONENTS/empty.txt", 0},
    {"COMPONENTS/nofly.txt", 2},
-   {"COMPONENTS/notouch.txt", 2},
+   {"COMPONENTS/highfly.txt", 2},
    {"COMPONENTS/random.txt", 0},
    {"COMPONENTS/resistor.txt",0},
    {"COMPONENTS/small.txt", 0},
@@ -192,13 +192,13 @@ class point {
 class component {
     public:
         int r, c, type, count, count_max;
-        int pin_n, gnd_n, vdd_n, clock_n, nofly_n, notouch_n;
+        int pin_n, gnd_n, vdd_n, clock_n, nofly_n, highfly_n;
         char **side;
 
         component (int r_size, int c_size) {
             r = r_size;
             c = c_size;
-            pin_n = gnd_n = vdd_n = clock_n = nofly_n = notouch_n = 0;
+            pin_n = gnd_n = vdd_n = clock_n = nofly_n = highfly_n = 0;
             type = count = count_max = 0;
 
             side = (char **) calloc (r, sizeof (char *));
@@ -223,7 +223,7 @@ class component {
             cout 
               << "[pin_n=" << pin_n << ",gnd_n=" << gnd_n << ",vdd_n=" << vdd_n
               << ",clock_n=" << clock_n << ",nofly_n=" << nofly_n
-              << ",notouch_n=" << notouch_n << "]" << endl;
+              << ",highfly_n=" << highfly_n << "]" << endl;
             if (DEBUG_L2) {
 	      for (int i=0; i<r; i++) {
                 for (int j=0; j<c; j++) {
@@ -244,14 +244,14 @@ class board {
         vector<int> component_background_n = {0, 0, 0};
         vector<int> component_point_n = {0, 0, 0};
         vector<int> component_nofly_n = {0, 0, 0};
-        vector<int> component_notouch_n = {0, 0, 0};
+        vector<int> component_highfly_n = {0, 0, 0};
         vector<int> pin_n = {0, 0, 0};
         vector<int> gnd_n = {0, 0, 0};
         vector<int> vdd_n = {0, 0, 0};
         vector<int> clock_n = {0, 0, 0};
         vector<int> net_n = {0, 0, 0};
         vector<int> nofly_n = {0, 0, 0};
-        vector<int> notouch_n = {0, 0, 0};
+        vector<int> highfly_n = {0, 0, 0};
         vector<int> point_n = {0, 0, 0};
         vector<int> test_n = {0, 0, 0};
         vector<vector<point>> point_v;
@@ -328,14 +328,14 @@ class board {
                 component_background_n[i] = 0;
                 component_point_n[i] = 0;
                 component_nofly_n[i] = 0;
-                component_notouch_n[i] = 0;
+                component_highfly_n[i] = 0;
                 pin_n[i] = 0;
                 gnd_n[i] = 0;
                 vdd_n[i] = 0;
                 clock_n[i] = 0;
                 net_n[i] = 0;
                 nofly_n[i] = 0;
-                notouch_n[i] = 0;
+                highfly_n[i] = 0;
                 point_n[i] = 0;
                 test_n[i] = 0;
             }
@@ -354,7 +354,7 @@ class board {
                     for (int k=0; k<cc; k++) {
                         if (side[i][j][k]==PIN || side[i][j][k]==GND ||
                           side[i][j][k]==VDD || side[i][j][k]==CLOCK ||
-                            (!IGNORE & (side[i][j][k]==NOFLY || side[i][j][k]==NOTOUCH))) {
+                            (!IGNORE & (side[i][j][k]==NOFLY || side[i][j][k]==HIGHFLY))) {
                             if (i==0) {
                                 point p('T',j,k,side[i][j][k],0);
                                 tmp.push_back(p);
@@ -677,13 +677,13 @@ class board {
                 file_o << "  #Components with background " << component_background_n[i] << endl;
                 file_o << "  #Components with points " << component_point_n[i] << endl;
                 file_o << "  #Components nofly " << component_nofly_n[i] << endl;
-                file_o << "  #Components notouch " << component_notouch_n[i] << endl;
+                file_o << "  #Components highfly " << component_highfly_n[i] << endl;
                 file_o << "  #Pins " << pin_n[i] << endl;
                 file_o << "  #GNDs " << gnd_n[i] << endl;
                 file_o << "  #VDDs " << vdd_n[i] << endl;
                 file_o << "  #Clock " << clock_n[i] << endl;
                 file_o << "  #NoFly points " << nofly_n[i] << endl;
-                file_o << "  #NoTouch points " << notouch_n[i] << endl;
+                file_o << "  #Highfly points " << highfly_n[i] << endl;
                 file_o << "  #Points [total] " << point_n[i] << endl;
                 if (i!=2)
                     file_o << endl;
@@ -783,10 +783,10 @@ class board {
                     bcol = std::get<2>(nofly_color);
                     //line_draw (surface, e.c-1, e.r-1, e.c+1, e.r+1, SDL_MapRGB(surface->format, rcol, gcol, bcol));
                     line_draw (surface, e.c-1, e.r, e.c+1, e.r, SDL_MapRGB(surface->format, rcol, gcol, bcol));
-                } else if (e.type==NOTOUCH) {
-                    rcol = std::get<0>(notouch_color);
-                    gcol = std::get<1>(notouch_color);
-                    bcol = std::get<2>(notouch_color);
+                } else if (e.type==HIGHFLY) {
+                    rcol = std::get<0>(highfly_color);
+                    gcol = std::get<1>(highfly_color);
+                    bcol = std::get<2>(highfly_color);
                     //line_draw (surface, e.c, e.r-1, e.c, e.r+1, SDL_MapRGB(surface->format, rcol, gcol, bcol));
                     line_draw (surface, e.c, e.r-1, e.c, e.r+1, SDL_MapRGB(surface->format, rcol, gcol, bcol));
                 } else {
@@ -998,16 +998,16 @@ void tmp2comp (vector<string> &tmp, vector<component> &components, int count_max
                 comp.clock_n++;
             } else if (comp.side[i][j]==NOFLY) {
                 comp.nofly_n++;
-            } else if (comp.side[i][j]==NOTOUCH) {
-                comp.notouch_n++;
+            } else if (comp.side[i][j]==HIGHFLY) {
+                comp.highfly_n++;
             }
         }
     }
 
     tmp.clear();
 
-    if (comp.notouch_n!=0) {
-        comp.type = NOTOUCH;
+    if (comp.highfly_n!=0) {
+        comp.type = HIGHFLY;
     } else if (comp.nofly_n!=0) {
         comp.type = NOFLY;
     } else if (comp.pin_n!=0 || comp.gnd_n!=0 || comp.vdd_n!=0 || comp.clock_n!=0) {
@@ -1049,15 +1049,15 @@ void create_board (board &myboard, vector<component> components , int r_size, in
                          if (components[rn].type==NOFLY) {
                         myboard.component_nofly_n[i]++;
                     } else
-                         if (components[rn].type==NOTOUCH) {
-                        myboard.component_notouch_n[i]++;
+                         if (components[rn].type==HIGHFLY) {
+                        myboard.component_highfly_n[i]++;
                     }
                     myboard.pin_n[i] += components[rn].pin_n;
                     myboard.gnd_n[i] += components[rn].gnd_n;
                     myboard.vdd_n[i] += components[rn].vdd_n;
                     myboard.clock_n[i] += components[rn].clock_n;
                     myboard.nofly_n[i] += components[rn].nofly_n;
-                    myboard.notouch_n[i] += components[rn].notouch_n;
+                    myboard.highfly_n[i] += components[rn].highfly_n;
 
                     do {
                         rn = (CHECK_COMPONENT==1 || CHECK_COMPONENT_AND_EXIT==1) ?
@@ -1077,19 +1077,19 @@ void create_board (board &myboard, vector<component> components , int r_size, in
     for (int i=0; i<2; i++) {
         myboard.point_n[i] = myboard.pin_n[i] + myboard.gnd_n[i] +
           myboard.vdd_n[i] + myboard.clock_n[i] + myboard.nofly_n[i] +
-          myboard.notouch_n[i];
+          myboard.highfly_n[i];
     }
 
     myboard.component_background_n[2] = myboard.component_background_n[0] + myboard.component_background_n[1];
     myboard.component_point_n[2] = myboard.component_point_n[0] + myboard.component_point_n[1];
     myboard.component_nofly_n[2] = myboard.component_nofly_n[0] + myboard.component_nofly_n[1];
-    myboard.component_notouch_n[2] = myboard.component_notouch_n[0] + myboard.component_notouch_n[1];
+    myboard.component_highfly_n[2] = myboard.component_highfly_n[0] + myboard.component_highfly_n[1];
     myboard.pin_n[2] = myboard.pin_n[0] + myboard.pin_n[1];
     myboard.gnd_n[2] = myboard.gnd_n[0] + myboard.gnd_n[1];
     myboard.vdd_n[2] = myboard.vdd_n[0] + myboard.vdd_n[1];
     myboard.clock_n[2] = myboard.clock_n[0] + myboard.clock_n[1];
     myboard.nofly_n[2] = myboard.nofly_n[0] + myboard.nofly_n[1];
-    myboard.notouch_n[2] = myboard.notouch_n[0] + myboard.notouch_n[1];
+    myboard.highfly_n[2] = myboard.highfly_n[0] + myboard.highfly_n[1];
     myboard.point_n[2] = myboard.point_n[0] + myboard.point_n[1];
 
     return;
