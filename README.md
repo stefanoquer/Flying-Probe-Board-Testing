@@ -15,13 +15,23 @@ To complement these tools, a verification utility is included to ensure the corr
 If you incorporate these benchmarks or any associated tools into your research, we kindly request that you cite the following publication:
 
 @article{
+
   FpBench2025,
+
   author = {Calabrese, Andrea and Quer, Stefano and Squillero, Giovanni},
+
   year = {2025},
+
   title = {Flying-Probe Testing: A Trajectory Planner and a Benchmark Suite},
+
   journal = {IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems},
+
   publisher = {Institute of Electrical and Electronics Engineers (IEEE)},
+
   ISSN = {1937-4151},
+
   DOI = {10.1109/tcad.2025.3567012},
+
   url = {https://ieeexplore.ieee.org/document/10985887},
+
 }
