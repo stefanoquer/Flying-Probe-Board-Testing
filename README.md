@@ -14,7 +14,7 @@ To complement these tools, a verification utility is included to ensure the corr
 
 If you incorporate these benchmarks or any associated tools into your research, we kindly request that you cite the following publication:
 
-@article{  
+''@article{  
   FpBench2025,  
   author = {Calabrese, Andrea and Quer, Stefano and Squillero, Giovanni},  
   year = {2025},  
