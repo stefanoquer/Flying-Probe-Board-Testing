@@ -14,4 +14,4 @@ To complement these tools, a verification utility is included to ensure the corr
 
 If you incorporate these benchmarks or any associated tools into your research, we kindly request that you cite the following publication:
 
-A. Calabrese, S. Quer and G. Squillero, "Flying-Probe Testing: A Trajectory Planner and a Benchmark Suite," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, doi: 10.1109/TCAD.2025.3567012, URL: {https://ieeexplore.ieee.org/document/10985887} 
+A. Calabrese, S. Quer and G. Squillero, "Flying-Probe Testing: A Trajectory Planner and a Benchmark Suite," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, doi: 10.1109/TCAD.2025.3567012, url: https://ieeexplore.ieee.org/document/10985887
